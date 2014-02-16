@@ -1,0 +1,101 @@
+DECEMBER 2013 ARES District Report:
+As most folks in the Eastern Ontario ARES District were kept busy with
+family and friends at Christmas and New Year’s, there is not much to
+report this month. I hope at all ARES groups have a safe and
+prosperous New Year.
+
+The Ottawa EMRG/ARES Group had their usual repeater tests this month,
+a good turnout and all repeaters checked out. Thanks to Tracy VA3TXN,
+Tim VA3PYC, Roger VE3NPO, Arthur VA3BIT, and Sandy VE3AAC. Good
+coverage near the boundaries (Tracy at Metcalfe and Tim at Carp).
+Barrhaven UHF repeater 444.950 is working quite well; was able to
+communicate well with 1-2W ERP from base antenna downtown.
+
+There was some minor breakup on Dave's VE3KMV signal through the
+VA3EMV West (145.210) which appears related to audio level at his
+location. Possibly high deviation which was not noted on any other
+signals. Repeater  VE2CRA, and the EMRG packet network are both
+functioning.
+
+Dave VE3KMV
+
+The Lanark/North Leeds ARES Group  Reported by VE3VY AEC VE3BSB EC
+
+Dec 15th we held the LNLARES Christmas Luncheon at the Cove Inn in
+Westport. 29 persons attended. A Christmas Tree with a ham radio
+equipment free exchange was successful. Donations were made to the
+Westport Food Bank. Several prizes donated by the club and local
+business were drawn by lucky ticket holders. Everyone was pleased with
+the outing.
+
+Repeater improvements: On Saturday 28 December. John VE3OAX, Wayne
+VE3ICF and VE3BSB replaced the Toledo repeater with a Motorola MSR
+2000. New GM300 link radios were installed but not yet activated until
+check out is completed. This will require a return to the site.
+Coverage has been verified into Perth and down to Highway 401. Audio
+gain adjustments may be required following on air tests.
+
+Repairs were made to the Rideau Ferry UHF repeater and it is back on
+the air and linked to Christie Lake and Lavant. VE3LCA/R has been
+reactivated providing local coverage on 146.955- in the Perth Area.
+
+A new repeater to replace VE3RNU/R Tweed repeater is under test at VE3BSB QTH.
+
+Digital communications: John VE3PUX joined has joined the activities
+using Winmor.
+
+VE3OJC, VE3GXW, VE3ERA and VA3DOY have acquired new TNC-X’s for use
+with RMSE VHF Packet. The VE3REX-7  Westport node continues to
+function well notwithstanding the inclement weather. Daily traffic
+continues with stations in Kingston and Westport. VE3BSB in Perth
+re-activated his digital station using a connection via VE3REX-7.
+Plans are afoot to hold one or more training/setup sessions in
+Westport in January, re tnc’s and other related matters. VA3DOY is
+expecting to establish a second RMS Packet station with Internet
+access, in Westport.
+
+73’s, Norm
+
+The Renfrew County West ARES Group Had 4 nets this month - even on the
+25th tho' only 2 checkins that day!
+
+On Dec. 3rd, GC Bob VE3YX and David VE3XAV met with AECL Chalk River
+Emergency Management personnel who indicated an interest in installing
+amateur radio equipment in their on-site EOC and alternate EOC. They
+also have an off-site EOC in Deep River and an emergency response
+vehicle that they would like to equip. We discussed the type of
+equipment and antennas that we felt would be most appropriate. We also
+discussed the licensing and operation of the stations. The intent
+seemed to be to move quickly on this, so we may hear of progress soon.
+
+That's all for 2013.......
+
+The SD&G Amateur Radio Emergency Service (ARES) continues it’s close
+association with the SVARC continues. During our last meeting held on
+Nov. 27, 2013 updates on ARES activities were provided to the
+membership. The club also held annual elections for Jan. 01, 2014 -
+Dec. 31, 2015. The new executive is:
+
+President: Ed Halliwell (VE3FHI), Vice President: Doug Pearson (VE3HTR),
+Treasurer: Elizabeth Halliwell  (VE3EZH), Secretary: Joe Scott (VA3ADB).
+Official ARES Bulletins
+ARES bulletins continue to be read each Monday, at 7:00 PM local, on
+the club’s 2-Metre net conducted on VE3SVC (147.180MHz.+). HAMs are
+also asked to check in on the VE3MTA (UHF) and D-STAR repeaters. This
+process confirms the serviceability of four of the SVARC repeater
+systems at least once a week should they be required by ARES.
+
+Expansion to SD&G ARES
+Our expansion to “SD&G ARES” from the former “City of Cornwall ARES” continues.
+
+Ice Storm Preparedness
+During the ice storm activities of Dec. 20-23, 2013 I took the
+initiative to contact the CEMCs of three municipalities with whom we
+have agreements (South Stormont, South Glengarry and City of
+Cornwall). This allowed confirmation of the cell numbers and confirmed
+that the services of ARES were available and ready should they be
+needed.
+
+Next ARES Exercise
+Our next ARES-wide exercise is now planned for Feb. 1, 2014.
+Earle DePass, (VE3IMP) Emergency Coordinator (EC),  SD&G ARES
