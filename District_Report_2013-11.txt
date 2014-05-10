@@ -1,0 +1,150 @@
+﻿The Eastern Ontario ARES District was very busy this month. All the groups had
+involvement with their communities, from rallies to community exercises and
+some training. A lot of work in maintaining infrastructure is a continuing
+effort for many groups as well. 
+
+The Ottawa EMRG/ARES Group conducted their usual monthly repeater tests. Some
+anomalies were found with the Western repeater. PYC and FFK are going to try to
+figure it out. Thanks to test leader Dave VE3KMV, and participants Paul VE3CPH,
+Mike VE3FFK, Ron VA3ACZ, Tim VA3PYC, and Bob VA3QV. The Winlink and local BBS
+nodes were reported by Mike to be working OK, and VE2CRA appears functioning.
+Mike is posting extracts of the Ontario RAC Bulletins to the VE3OCE-1 EMRG BBS
+to ensure people have something to read while practicing their Packet skills.
+
+On November 30, three of our members, Tyler VA3DGN, Mike VE3FFK and Rick VE3IHI
+were among the 73 hams from as far away as Thunder Bay and North East US who
+provided communications for the "Rally of the Tall Pines" around Bancroft, On.
+With large cars moving very fast on marginal, icy roads, safety is always an
+issue, By their nature, rallies take place away from population centres, where
+cellular coverage is sparse. Amateur radio is still their best solution.
+
+EMRG repeater VA3OFS VHF & UHF, located in Barrhaven, now has new antennas (or
+at least the VHF antenna is new to the repeater). The original VHF antennas at
+this site were tuned for the old Fire frequencies, so they worked, but not
+well, and they were not positioned in the best location.
+
+Making changes at this location has been on the books for some time, and we
+recently got permission to make the change. This work has to be done by
+professionals, and since EMRG has just enough money in the bank to pay for it,
+I made the arrangements.
+
+The VHF won't have a significant change, but it should perform a bit better to
+the South and the UHF didn't really work at all before, so it now works great.
+
+Frequencies:
+VHF 146.670 (-) TX & RX Tone 136.5 Hz
+UHF 444.950 (+) TX & RX Tone 136.5 Hz
+
+Give them a try.
+
+73, Mike Kelly VE3FFK, Ottawa ARES AEC, reporting for 
+Richard Hagemeyer, VE3UNW Ottawa ARES EC/ EMRG team leader
+
+For the Lanark/North Leeds ARES Group, VE3VY reports that on November 25th a
+reception was held in Perth for Marc Garneau, MP and former Canadian astronaut.
+Marc related his personal experiences during his time preparing for and
+exploring space. During the presentation, Barrie, VE3BSB and 12 year old Zach
+MacCracken, son of VE3ZKS, spoke about their experiences in high altitude
+balloon experiments. They had a slide show giving details of their many balloon
+flights, as well as pictures from space. Marc commented that it was a well kept
+secret and was a wonderful way of introducing the subject of space to younger
+persons.    A number of UHF repeaters donated by a local commercial operation
+have been passed on to other clubs. Several remain available at this time.   
+Winlink  is growing by leaps and bounds in the Rideau Lakes/Kingston area.
+Besides previous reports outlining progress around Westport, work in
+cooperation with the Frontenac Emcomm Group is moving along. There are now at
+least 18, (or about to be) RMS Packet/RMSE on the air.  Some of the stations
+are in the form of GO KITS. There are presently three fixed nodes and one
+portable node. There are plans to place another Node at Clarendon Station, near
+Kaladar.  Coverage has been extended to Perth through the efforts of VE3BSB.   
+In the Almonte Area, the AARC was busy this month upgrading and adding
+additional facilities to the Emergency Operations (EO) facility at the Almonte
+General Hospital (AGH). Thanks to the generosity of Murray, VE3IFP/VA3IFP, the
+facility now includes an all mode radio capable of working all bands including
+HF. The HF antenna is a long wire type running from the tower alongside the EO
+to a pole mounted on the hospital. This was tested on all HF bands and tuned
+well. First contacts were made in the UK and others in Europe and South
+America. A SignalLink unit has been acquired and will shortly be set up for
+operation with Winlink etc. In addition a 5.8Ghz radio was installed on the
+tower as the first phase of a broad band link to the Almonte fire hall. Thanks
+to Fred, VE3CFZ for climbing the tower and installing that and the HF antenna.
+The EO functions as the emergency communications hub for both for the hospital
+and the municipality.    A breakfast meeting was held in Arnprior on November
+20th with the Champlain Regional Repeater Association (CRRA) to discuss
+potential collaboration on a D-STAR repeater at the VE3STP site as well as
+other collaborative projects. Various system arrangements are being explored
+for D-STAR operations.  On November 21st Rob, VE3UIX and Don, VE3PDF
+participated in the simulated emergency test held jointly between the
+municipalities of Mississippi Mills (MM) and Lanark Highlands. In the test AARC
+ARES group simulated the provision of communications for MM as their own system
+failed for a while during the exercise.  The annual AARC banquet is scheduled
+for Saturday January 11th at the Royal Canadian Legion in Almonte. The evening
+will start at 6.30pm with finger foods and to socialize while having a
+beverage. This will be followed by a roast beef dinner. Back by popular demand
+will be the radio controlled model aircraft group who will show and demonstrate
+their latest “toys”. If any local amateurs would like to attend please indicate
+by sending an email to info@almontearclub.ca.     73’s Norm
+
+The Prescott-Russell ARES Group was involved in a Prescott-Russell county wide,
+table top exercise centered in Embrun Ontario. All emergency response
+communities from throughout the United Counties of Prescott and Russell were
+involved. Many of our ARES Group were either away or unable to attend. However,
+the group was represented by Harry VA3ZAK and Jean VA3ZJS on site with
+participation at deployed  sites by Ron VA3RRZ, Mike VE3IPC, Pierre VA3SOF and
+Jim VA3KV. The exercise coordinator was Dan Holmes, the CEMC for UCPR and was
+attended by Emergency Management Ontario Capital Sector field officer, Philippe
+Geoffrion. On site, Harry and Jean installed both HF and VHF voice capability.
+They sent messages from the site to various outstations. Also, an ARES
+presentation and video was delivered by Harry to the assembled participants.
+The CEMC for Rockland, Pierre Sabourin was most interested in our capabilities.
+More to follow throughout the winter as discussions with the communities
+continues.
+
+The Renfrew County East ARES Group has had a number of challenges this month as
+our home VHF repeater, VE3STP, has been experiencing some technical
+difficulties. Crews sent to the repeater site on several occasions have been
+working to diagnose and repair the problems and have been only partially
+successful. The onset of inclement weather (a.k.a. winter) will likely prevent
+any further major work until spring 2014. As a result of the issues the
+RCE-ARES net did not launch in November. However, in spite of the repeater's
+challenge, it will do so in December. 
+
+On November 29, 2013, Debra VE3IEH and RCE-EC, attended a training course at
+AECL in Chalk River. The course was entitled "Radiation Safety Awareness" and
+it was provided by CRL (Chalk River Laboratories) Emergency Preparedness.
+Attended by first responders and others involved in emergency preparedness and
+response, the course was an overview of the nuclear program and how emergency
+workers would be monitored and kept safe during issues such as a plume release
+or a spill of radioactive materials.
+
+Debra VE3IEH
+RCE-ARES Emergency (Group) Coordinator
+
+The Renfrew County West ARES Group did not have a lot of activity this month.
+There was the usual 4 weekly nets. Rob VA3AGN from our group and Deb VE3IEH, GC
+for RCE- ARES are to attend a radiation course for emergency workers given by
+AECL in Deep River on the 29th of Nov. 
+
+73 de Bob    VE3YX
+
+The SD&G Amateur Radio Emergency Service (ARES) continues it’s close
+association with the SVARC continues.  During our last meeting held on Nov. 27,
+2013 updates on ARES activities were provided to the membership.
+
+ARES bulletins continue to be read each Monday, at 7:00 PM local, on the club’s
+2-Metre net conducted on VE3SVC (147.180MHz.+).   HAMs are also asked to check
+in on the VE3MTA (UHF) repeater.  This process confirms the serviceability of
+our repeater systems at least once a week should they be required by ARES.
+
+Our expansion to “SD&G ARES” from the former “City of Cornwall ARES” continues.  
+
+Earl VE3IMP attended the Joint Emergency Exercise and Training session of the
+Township of North Dundas, Township of South Dundas, United Counties of
+Stormont, Dundas and Glengarry at the Township of South Stormont on November
+14, 2013.
+
+Our next ARES-wide exercise is now planned for Feb. 1, 2014.
+
+Earle DePass, (VE3IMP)
+Emergency Coordinator (EC), 
+SD&G ARES
