@@ -1,0 +1,130 @@
+﻿Eastern Ontario ARES District
+Report April 2014
+
+For the Eastern Ontario ARES District things are picking up for the groups.
+Three of the groups participated in a single exercise to differing degrees.
+Each group came out of the exercise with usefull information on improvements to
+their plans and procedures. This is the kind of Mutual Aid interaction that is
+necessary to fully support some of our clients. More to come in the future.
+Next big Amateur radio event is Field Day in June. Hope to hear many of the
+groups on the air.
+
+The Ottawa ARES/EMRG Group conducted their monthly repeater test on Apr 2 with
+Ron VA3ACZ, Arthur VA3BIT, Tim VA3PYC, Bob VA3QV, Paul VE3CPH and Mike VE3FFK
+checking in, and Dave VE3KMV, controlling the net. There was some "crackling"
+in the audio of VE3EMV/east but otherwise all was well.
+
+There was some participation in a Red Cross exercise "Eastern Shocker" on Apr
+6, but it was not designed to have a large ARES component, so there was little
+for EMRG / Ottawa ARES to do in it. Nevertheless, Tim VA3PYC, Peter VE3BQP,
+Mike VE3FFK and Richard VE3UNW were able to assist somewhat. Even with this
+little amount of participation, A few "holes" in the notification procedure
+were found.
+
+In addition to the usual repeater test, there are three public service events
+coming up in May: The Lanark Highlands car rally, The CNCycle for CHEO and the
+"Lap the Gats" cycle tour for Parkinsons research on May 31
+
+73 Mike Kelly VE3FFK AEC, reporting for Richard Hagemeyer EMRG team leader/
+Ottawa ARES EC.
+
+The Prescott-Russell ARES Group participated again this year in the
+Clarence-Rockland Classic bicycle race. This is a grueling 85 km race over the
+back roads of the city of Clarence-Rockland. This year was wet and muddy and a
+couple of detours had to be put in place for the race. At the front of the race
+in the lead vehicle was Jean VE3OKK and Jean VA3ZJS. They used voice to pass
+race traffic and APRS was used to keep track of the lead car back at HQ. Chris
+VA3NKE was in the safety vehicle at the back of the race to keep tabs on the
+last riders and close down checkpoints as they passed them. Lance VA3LP was NC
+at HQ and provided data to the race coordinators on the status of the race.
+Norm VA3NPL, Jim VA3KV, George VA3SUS, Ron VA3RRZ and Ray VA3OMM and his wife
+Suzanne leapfrogged around the track from checkpoint to checkpoint to provided
+safety at high traffic intersections throughout the race. In the end, no
+bicyclist was lost and the race was a success for both the race organizers and
+the PR-ARES Group.
+
+For the Renfrew County East ARES Group  April has turned out to be an active
+month. Debra VE3IEH and EC for RCE attended the Incident Management System
+course IMS-200 organized by Atomic Energy Chalk River Laboratories (AECL) in
+Deep River on April 3 and 4. Bob VE3YX and EC for RCW was also a participant.
+The two days were facilitated by Philippe Geoffrion, Field Officer for the
+Office of the Fire Marshall and Emergency Measures (Ontario) and the time was
+jam packed with information, mini-tests, exercises and a final examination. The
+choice to take the exam on either an individual or a team asis was presented to
+the group and Debra and Bob choose to form a team with 4 other participants.
+This team was very successful and certificates were provided to all 6 members.
+While IMS-200 provided an excellent overview of the history, theory, strategy
+and implementation of the incident management system in the province, it was
+only minimally directly relevant to the ARES mandate. Debra feels that it is
+certainly valuable as a tool to understand how emergency situations are
+handled. There are other level courses being developed for this system in
+addition to the half-day of instruction designed to allow the successful
+participant to teach IMS-200.
+
+On April 6 an exercise was held in Carleton Place between the Red Cross and
+ARES groups from Ottawa and up the valley and including members of the
+Lanark-Leeds group. Unfortunately callout procedures were not consistent or
+were entirely absent (for example, Lanark-Leeds was not called out until after
+10am on the Sunday and members of RCE never received a callout in spite of
+being placed on stand-by on the evening of the 5th). Repeater VE3STP was a
+major factor in the success of the exercise as it was being used for both
+packet and voice. The members of Lanark-Leeds conducted a successful experiment
+using their D-star repeater. Due to a planned interruption in power on the 6th
+for some work by hydro crews replacing poles, the equipment switched to the
+emergency backup battery system at approximately 1:30 in the afternoon. When
+power was restored the voice repeater did not come back into service and it
+failed. Debra and RCE-ARES member Rick VA3RWH made a hasty trip to the repeater
+site to determine what had happened. The snow was still very deep and it took
+them 30 minutes to walk into the site. Upon access to the shack it was evident
+that the packet repeater had not failed and that it continued to function
+beautifully throughout the exercise. A remote diagnostic was performed by
+RCE-ARES member Sandy VE3AAC and Debra and Rick were able to re-boot the voice
+repeater successfully at about 4pm.
+
+Members of 3 ARES groups (RCE, RCW and Lanark-Leeds) gathered together for
+breakfast in Cobden on April 23. Their numbers were joined by a Red Cross
+volunteer from the Pembroke office, John VE3IOI, who was involved in the
+exercise on April 6. Attendees who had not been participants in the exercise
+listened to a short de-briefing discussion concerning what went right and what
+went wrong on that Sunday. Also discussed was the progress being made with
+regard to a D-star link being designed for VE3STP to be connected to the
+Almonte ARC system. The design of the linking system can be attributed to
+RCE-ARES and CRRA member Rob VE3JA. We are awaiting a suitable frequency pair
+to be assigned before testing can begin.
+
+Events coming up in May include the Smith's Falls Hamfest on May 10 and the
+CANWARN session on May 21 (Renfrew).
+
+Debra A. Bee, VE3IEH
+
+The Renfrew County West ARES Group held 5 regular Wednesday evening nets in
+April.
+
+The Group participated in a Red Cross exercise on Apr. 6th that included
+activities in Pembroke, Carleton Place and Ottawa. Our part of the exercise was
+for Richard VA3BIX to operate the ARES station in the Pembroke Red Cross
+building. John VA3IOI who is both an ARES volunteer and a Red Cross volunteer
+set up a portable packet/voice station at the EOC in Carleton Place. The joint
+operation with RCW-ARES using packet with Outpost and Lanark with DSTAR and
+D-RATS led to interesting and valuable lessons. Tim VA3PYC near Carp provided a
+valuable and efficient bridge between the two systems 
+
+The Stormont Dundas and Glengary ARES Group continue to read the ARES bulletins
+each Monday, at 7:00 PM local, on the club’s 2-Metre net conducted on VE3SVC
+(147.180MHz.+).   HAMs are also asked to then check in on the VE3MTA (UHF)
+repeater.  Occasionally we also call for check ins on a new ARES repeater
+located in Cornwall (VE3VSW) and VE3SVR in Morrisburg.   This process confirms
+the serviceability of nearby SVARC repeater systems at least once a week,
+should they be required by SD&G ARES.
+
+A record 17 HAM operators participated in the Raisin River Canoe Races - April
+27, 2014, providing communications for St. John Ambulance.  This is the third
+year we have provided this kind of communications support for which St. John
+Ambulance was grateful.  Operators staffed 7 checkpoints and other locations to
+be in a better position to call for help should some canoeist need first aid
+during this 32 Kilometre race from St. Andrews West to Williamstown.  A
+cross-band repeater was established but had only marginal results.  
+
+Earle DePass, (VE3IMP)
+Emergency Coordinator (EC), 
+SD&G ARES

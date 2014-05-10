@@ -1,0 +1,94 @@
+﻿Eastern Ontario ARES District
+Report March 2014
+
+The Eastern Ontario ARES District has a few groups preparing for exercises and
+community support events. Now is the time for everyone to get out and test your
+equipment and prepare for deployment.
+
+
+The Lanark/North Leeds ARES Group performed their regular weekly nets on
+Wednesday evenings.  VA3DOY has established an RMS Packet station with Internet
+connection making it the 2nd Westport Gateway. The digital group at Westport
+has had several training/workshop sessions. VE3VY has suggested a discussion
+meeting be held at the Smith Falls Flea Market regarding digital
+interoperability. 
+
+Norm VE3VY
+
+The Ottawa ARES/EMRG Group conducted their monthly repeater tests on March 5,
+with Dave, VE3KMV doing the usual coordination of Sandy VE3AAC, Tim VA3PYC,
+Mike VE3FFK, Paul VE3CPH, Ron VA3ACZ, and Brian VE3UU. Apart from the usual
+minor anomalies, all repeaters checked out OK.
+
+Mike Kelly VE3FFK, reporting for EMRG team leader / Ottawa ARES EC Richard
+Hagemeyer, VE3UNW
+
+The Prescott-Russell ARES Group is preparing for the Clarence Rockland Classic
+Bicycle Race on April 6th. All equipment is being tested and the map data is
+being updated for the race. The Group is still trying to find some nice weather
+to initiate some much needed maintenance on their two repeaters, VE3PRV and
+VA3PRA. At the same time the digipeater for PR-ARES will be installed and
+tested. Broadband Hamnet is still being discussed and several WRT54 routers
+have been acquired and the software changed for MESH. Some VOIP SIP phones have
+been found and will be used to help test and evaluate MESH as a system for
+ARES.
+
+The Renfrew County East ARES Group, in preparation for an ARES exercise
+scheduled to take place on April 6 in Lanark County, RCE-EC Debra VE3IEH and
+member Rick VA3RWH traveled to the Pembroke Red Cross on March 26 to attend a
+crash course on packet radio and Outpost. Facilitated by RCW-EC Bob VE3YX and
+assisted by Yvonne VE3RYA, the day consisted of setting up two portable packet
+stations and becoming familiar with Outpost. These stations will be used in the
+upcoming exercise to provide communications for an EOC as well as another as
+yet unspecified location. Details are not being announced in advance of the
+exercise. Red Cross volunteer John VE3IOI will operate one of the portable
+stations and Richard VE3BIX will be responsible for the fixed packet station at
+the Red Cross office in Pembroke. More on this next month.
+
+After encountering multiple and frustrating difficulties with her laptop, Debra
+VE3IEH finally was able to complete the on-line course for the IMS-100
+Introduction to (the) Incident Management System. Successful completion was
+required as a prerequisite to taking the next level course IMS-200 Basic
+Incident Management. The IMS-200 course will be delivered by Philippe Geoffrion
+of the Office of the Fire Marshal and Emergency Management in a classroom
+setting at the library in Deep River on April 3 and 4. More on this next month.
+
+Debra A. Bee VE3IEH
+RCE-EC, ARES
+
+
+Pictured: John VA3IOI, Bob VE3YX, Rick VA3RWH, Richard VA3BIX at the Outpost
+training (Photograph by Debra VE3IEH. Also present was Yvonne VE3RYA.
+
+
+The Renfrew County West ARES Group had 4 nets this month. John VA3IOI, who is a
+Red Cross volunteer in the Pembroke office, alerted us to a Red Cross exercise
+that is planned for Apr. 6th. While details are being kept secret, he was told
+that the EOC and shelter would be in Carleton Place in Lanark County. The
+exercise would require that messages be passed amongst Carleton Place and the
+Ottawa and Pembroke Red Cross offices. The 3 locations meant that 3 ARES groups
+would be affected; RCW-ARES for the Pembroke office, EMRG for the Ottawa office
+and Lanark County ARES for Carleton Place. Previous exercises had messages
+being passed between the Ottawa and Pembroke Red Cross offices using packet
+with Outpost. The Lanark group is using D-STAR with D-RATS. While it might be
+possible for John and Debra VE3IEH, GC for RCE-ARES to use the VE3STP packet
+node to relay messages to Pembroke and Ottawa, an alternative is also planned.
+Tim VA3PYC is experimenting with providing a manual bridge between D-STAR and
+Outpost at his home station which is well positioned to reach all 3 sites. This
+a good opportunity for the groups to work together and see how the different
+systems can function together.
+
+In preparation for the exercise (cheating), an Outpost training session was
+held in the Pembroke Red Cross office on the 26th. 2 complete portable stations
+were set up in the office and messages were passed amongst them and the
+installed station in the office. Bob VE3YX, RCW-ARES GC led the training for
+Deb VE3IEH, John VA3IOI, Rick VA3RWH and Richard VA3BIX. Yvonne VE3RYA was
+along to assist with the training. John and Debra each took one of the portable
+stations to attempt their use during the exercise.
+
+Deb VE3IEH, Dom VE3DGZ, and Bob VE3YX, will be taking the IMS-200 course
+provided by EMO on the 3rd and 4th of Apr. The course is being given in Deep
+River primarily to AECL personnel, but ARES was provided with a few positions.
+
+73
+Bob VE3YX
