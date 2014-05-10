@@ -1,19 +1,23 @@
-Eastern Ontario ARES District
+﻿Eastern Ontario ARES District
 September 2013 Report
 
 The Eastern Ontario ARES District was very busy in some areas and very quiet in
 others. The District Emergency Coordinator, Lance VA3LP visited Renfrew County
-to deliver a district ARES course this month.  As a result we have a much
-larger group now with basic ARES skills and an understanding of what ARES is
-about in Renfrew County. Here is the latest from the district.
+to deliver a district ARES course this month. As a result we have a much larger
+group now with basic ARES skills and an understanding of what ARES is about in
+Renfrew County. Here is the latest from the district.
 
-Renfrew County WestNo activity for Sep. We have a Nuclear Plan EOC exercise
-planned for Oct 17th. We will be using Outpost to pass messages amongst the
-EOC, Red Cross Pembroke, Red Cross Ottawa and possibly one other site.
+Renfrew County West
+
+No activity for Sep. We have a Nuclear Plan EOC exercise planned for Oct 17th.
+We will be using Outpost to pass messages amongst the EOC, Red Cross Pembroke,
+Red Cross Ottawa and possibly one other site.
 
 With the change of policing in Pembroke from Pembroke Police to OPP, we are not
 sure yet if we will be doing our regular Goblin Night and Halloween Night
-patrols. 73 de Bob
+patrols.
+
+73 de Bob
 
 Renfrew County East
 
@@ -26,55 +30,67 @@ weather was decidedly uncooperative; however, after the successful completion
 of the exercise the participants returned to the DACA centre for de-briefing,
 strawberry-rhubarb pie, and the presentation of Certificates of Achievement
 indicating that everyone had completed the Eastern Ontario ARES District
-Training.
+Training. 
 
 RCE will be launching its ARES net in the near future and it is planning to
-hold at least one modest exercise before the snow flies.  While not directly
-connected to RCE-ARES, the CRRA would like to announce the acquisition of an 8'
-x 8' solid aluminum "bungalow" donated by the Canadian Pacific Railway. This
-structure will eventually be used as either a replacement for the shack
-currently housing VE3STP or as a second shack for another repeater or related
-equipment.
+hold at least one modest exercise before the snow flies. 
 
-District ARES Course Attendees: VA3RWH VE3IEH VE3JA VE3JSQ VE3AAC
-VE3TUC VE3ELM VA3RKO VA3TJP VE3JGU VE3AMN VE3PM
-Debra A. Bee VE3IEH EC for RCE-ARES
+While not directly connected to RCE-ARES, the CRRA would like to announce the
+acquisition of an 8' x 8' solid aluminum "bungalow" donated by the Canadian
+Pacific Railway. This structure will eventually be used as either a replacement
+for the shack currently housing VE3STP or as a second shack for another
+repeater or related equipment. 
 
+District ARES Course Attendees: VA3RWH VE3IEH VE3JA VE3JSQ VE3AAC VE3TUC VE3ELM
+VA3RKO VA3TJP VE3JGU VE3AMN VE3PM 
+
+Debra A. Bee VE3IEH
+EC for RCE-ARES
 
 Ottawa ARES Group/EMRG
 
-September was another infrastructure month in Ottawa. The monthly repeater
-tests, were directed by Dave, VE3KMV with the participation of Tracy VA3TXN,
-Ron VA3ACZ, Mike VE3FFK, Paul VE3CPH, Bob VA3QV, Tim VA3PYC, Harry VE3FD, and
-Roger VE3NPO on September 4. This was a record turnout for these routine tests.
-On September 7 EMRG was able to turn some "quality collectables" into cash at
-the Carp Hamfest.  With what was sold and with some metal and batteries that
-went to the scrap ealer, we brought in close to $900. This will be used to
-build two radio systems, one for the fire dispatch centre and a matching system
-for the backup dispatch. Thanks to: The Ottawa ARC who provide EMRG with a free
-spot every year to set up our booth, allowing us a chance to provide
-information and talk to amateurs about EMRG; Tracy VA3TXN and Ron VA3ACZ for
-their help loading; Tim VA3PYC and Ron for their help unloading; and Tim for
-spending the day at the EMRG table.  About $2K worth of batteries were acquired
-to replace and upgrade or install backup capabilities at the various repeater
-sites.  On September 24, Peter VE3BQP and Mike VE3FFK visited 3 of the 4 EMRG
-repeater sites for various tasks. At the West repeater, the backup battery was
-replaced after several years of service. At the South repeater, adjustments
-were made to the UHF antenna, while at the East repeater a back up battery
-system was installed where none had previously existed. The VHF antenna there
-was to be replaced with a multiband one, but due to difficulties encountered in
-the mounting system this part of the site visit was postponed. Coming up in
-October, in addition to something SET related (we don't know yet what), there
-is an exercise with the Red Cross, providing communications between the Ottawa
-and Pembroke Red Cross offices. Mike FFK and Tim PYC have agreed to help with
-set up and final testing of the packet station at Ottawa Red Cross before the
-exercise day.  Yet more work is needed on the systems being built at the
-communications centre, including some cabling and installation. There are also
-some metal cabinets that require cleanup and installation of casters, power
-supplies and batteries, so we can use them as portable radio units at the
-dispatch centres. We also need to wire up the computer network, so we can set
-up the PCs. Even with this long a "to do" list, when you look around at other
-ARES groups, we seem to be in relatively good shape for hardware.
+September was another infrastructure month in Ottawa. 
 
-73 Mike Kelly VE3FFK, Ottawa ARES AEC, reporting for Richard
-Hagemeyer, VE3UNW Ottawa ARES EC/ EMRG team leader.
+The monthly repeater tests, were directed by Dave, VE3KMV with the
+participation of Tracy VA3TXN, Ron VA3ACZ, Mike VE3FFK, Paul VE3CPH, Bob VA3QV,
+Tim VA3PYC, Harry VE3FD, and Roger VE3NPO on September 4. This was a record
+turnout for these routine tests. 
+
+On September 7 EMRG was able to turn some "quality ollectables" into cash at
+the Carp Hamfest. With what was sold and with some metal and batteries that
+went to the scrap ealer, we brought in close to $900. This will be used to
+build two radio systems, one for the fire dispatch centre and a matching system
+for the backup dispatch. Thanks to: The Ottawa ARC who provide EMRG with a free
+spot every year to set up our booth, allowing us a chance to provide
+information and talk to amateurs about EMRG; Tracy VA3TXN and Ron VA3ACZ for
+their help loading; Tim VA3PYC and Ron for their help unloading; and Tim for
+spending the day at the EMRG table. 
+
+About $2K worth of batteries were acquired to replace and upgrade or install
+backup capabilities at the various repeater sites. 
+
+On September 24, Peter VE3BQP and Mike VE3FFK visited 3 of the 4 EMRG repeater
+sites for various tasks. At the West repeater, the backup battery was replaced
+after several years of service. At the South repeater, adjustments were made to
+the UHF antenna, while at the East repeater a back up battery system was
+installed where none had previously existed. The VHF antenna there was to
+be replaced with a multiband one, but due to difficulties encountered in the
+mounting system this part of the site visit was postponed. 
+
+Coming up in October, in addition to something SET related (we don't know yet
+what), there is an exercise with the Red Cross, providing communications
+between the Ottawa and Pembroke Red Cross offices. Mike FFK and Tim PYC have
+agreed to help with set up and final testing of the packet station at Ottawa
+Red Cross before the exercise day. 
+
+Yet more work is needed on the systems being built at the communications
+centre, including some cabling and installation. There are also some metal
+cabinets that require cleanup and installation of casters, power supplies and
+batteries, so we can use them as portable radio units at the dispatch centres.
+We also need to wire up the computer network, so we can set up the PCs. 
+
+Even with this long a "to do" list, when you look around at other ARES groups,
+we seem to be in relatively good shape for hardware. 
+
+73 Mike Kelly VE3FFK, Ottawa ARES AEC, reporting for 
+Richard Hagemeyer, VE3UNW Ottawa ARES EC/ EMRG team leader.
