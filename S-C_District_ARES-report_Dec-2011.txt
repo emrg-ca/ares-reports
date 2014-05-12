@@ -1,0 +1,47 @@
+﻿~ December 2011 - [Eastern Ontario] SEAWAY~CAPITAL ARES Districts ~
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of 
+Prescott-Russell & of Stormont, Dundas & Glengarry, Cities of Ottawa & of Cornwall
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- The Ottawa ARES [EMRG] group’s 5 voice repeaters were given their usual monthly test by
+Dave, VE3KMV, Mike VE3UMC, Ron VE3HAB, Ron VA3ACZ, Mike VE3KOY, 
+and Arthur VA3BIT.
+- The [EMRG] UHF repeater was reported to be down in signal strength from its usual level and will be checked. 
+- In addition the EMRG Winlink and BBS systems, and the Ottawa ARC repeater, VE2CRA, were tested and found to be working. Other than these, there was no EMRG / Ottawa ARES activity. - The previously scheduled EOC and ‘Incident site’ courses at the Canadian Emergency Management College in Ottawa was canceled.  The next one will be in February 2012, were amateur radio volunteers will be needed again to provide a type of EmComm service.
+
+=========================================================
+
+- The Renfrew County West (RCW)-ARES group attended a meeting of the Deep River / Laurentian Hills Nuclear emergency Plan EOC group on Dec. 8th 2011. The meeting was in preparation for a table top exercise for the EOC planned for Dec. 12th.  EC Bob, VE3YX gave a quick description of the use of the ICS 213 forms with Outpost and got a quite favourable response.  Two people asked about downloading and installing Ics213mm themselves prior to the exercise.
+
+- On Dec. 12th, RCW-ARES EC Bob VE3YX, AEC Richard VA3BIX and Yvonne VE3RYA were at the EOC for the exercise while Tony VA3HWH was at his Outpost packet station at home.  The exercise needed to include one message to be sent outside of the EOC as a demo for ICS 213 forms.  The EOC had recently purchased an FT-8800 radio, and it was packaged with a KAM and a switch box to make a packet/voice station that will live at the EOC in the "radio room" (the Mayor's office). This station was connected to a ‘Netbook’ running Outpost and ICS 213. The ‘Netbook’ was also connected to the building's library WIFI.  AEC Richard VA3BIX had his own laptop in the EOC running Ics213mm and connected to the WIFI.  We loaded Ics213mm on the Mayor's laptop also.
+
+- During the exercise, the time arrived for the one message to be sent, and the Mayor entered the message on his laptop and sent it to the Outpost computer in the radio room. There it was forwarded to Tony VA3HWH who acted as the destination for the message.  Tony replied to the message, and in short order, the Mayor had the ICS 213 form with original message and reply on his screen. The demo went without a hitch.
+
+- Some of the EOC members take laptops to the EOC to use the library WIFI for email. In the event of a power or telephone system failure, the WIFI will still work to connect the computers in the EOC and the radio room.
+
+- The advantages of using the ICS 213 form:
+a) As the ICS (or IMS) 213 forms become more accepted, emergency workers may expect their messages to be in that format.
+b) The packet station operator doesn't have to interpret the scratches on a piece of paper delivered from the EOC to the radio room.  The EOC member types the messages on his/her own computer.  (In past exercises, at least half of the messages had to be returned to the EOC for clarification).
+c) A runner is not required to move the messages from the EOC to the radio room and back.
+d) The EOC member has copies of his messages stored on his computer, and can print them if necessary.
+e) Installation of Ics213mm on the computer is simple and quick with the one exception noted below.
+
+- The disadvantages of using the ICS 213 form:
+a) Setup is significantly more complex than Outpost on its own.
+b)  Each computer in the EOC has to have the IP address of the Outpost computer entered in a setup field of the Ics213mm program.
+c) If the person to whom a message is sent is NOT using a computer with Ics213mm, there are extra steps for the packet operator at that end to print an ICS 213 form with the message to be delivered.  It is not practical to treat a message sent as ICS 213 as an ordinary packet message.
+d) While Outpost on its own can be used easily by someone with very little experience, adding the complexity of the ICS 213 forms means all the packet operators need experience.
+
+- Conclusion:
+Outpost has no problem sending some messages as ICS 213 and some as normal packet messages.  For the next exercise, circumstances will determine whether or not we use the ICS 213 forms, but at least we have the option.
+===================================================================
+
+- The Cornwall ARES group has been considering for the past several months in becoming the ARES group for all of Stormont, Dundas & Glengarry.  The EC Earle - VE3IMP has recently begun recruiting radio amateurs to become part of ARES to provide Emcomm to other municipalities within SD&G region.  
+- The EC is working on creating an MOU using some examples from other ARES groups in anticipation of meeting with other townships.  The EC would use the same MOU with the City of Cornwall when a meeting for this can be arranged, as this is a needed step.
+- EC Earle DePass has also begun to liaison with the Cornwall Hospital and increasing talks for having them as a possible client is proving to be very positive.
+More to come…
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+

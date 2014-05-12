@@ -1,0 +1,24 @@
+﻿Eastern Ontario ARES District March 2013 report
+
+Stormont, Dundas & Glengarry (SD&G)-ARES operators will be providing communications for St. John Ambulance who will provide assistance to the Raisin River Canoe Race.  This race which is planned for 10:00AM on April 14, 2013 (formerly April 7, 2013) leaves St. Andrews for Williamston.  More to come in next month’s report.
+- ARES bulletins continue to be read each Monday, at 7:00 PM local, on the club’s 2-Metre net conducted on VE3SVC (147.180MHz.+).   HAMs are also asked to check in on VE3MTA (UHF) and our D-STAR repeater.  This process confirms the serviceability of our repeater systems at least once a week should they be required by ARES.
+Submitted by EC Earl – VE3IMP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Renfrew County East (RCE)-ARES group will begin holding its ARES net on Monday nights in the near future on the VE3STP RPT. This will be a new net and seperate from the regular RCW-ARES ARES net on Pembroke Ontario RPT. The time will be finalised and announced will be made at a later date on the STP RPT.  
+-  SILENT KEY - EC Ron – VE3JRN has JUST received an email from Bill Mantell informing me of that Ed Holmes VA3ED is now a Silent Key.  Ed was a member of the RCE-ARES group in earlier years and headed the local computer club for several years in Renfrew Township before moving to Ottawa.  No funeral arrangements have been given as of yet.
+Submitted by EC Ron – VE3JRN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Prescott-Russell (PR)-ARES group’s attending members of the regular “Triode Thursday” get-togethers took place every Thursday evening throughout March at the Chamberland Centre community hall in Rockland, followed by a social gathering at the local Tim Hortons.  At these informal meetings, we review recent articles that appear in QST or TCA.  Our VGA projector system makes it easy to review digital issues of articles and associated videos offered by ARRL. 
+- Youtube is also a great resource for videos that we exploit. Most videos and discussion this month centred on loop antenna construction and theory, as well as new ham equipment that is currently being released. Very interesting videos are also offered by Gary Pierce KN4AQ on his Hamradionow.TV web site from which we reviewed Episode 47, “HF Digital Voice: FDMDV2 and CODEC 2”.  This was a great video for understanding what those new digital signals are all about that are popping up on HF phone bands. 
+- Radio Amateurs in Eastern Ontario should note that our Alfred repeater, VA3PRA, on 145.47, is currently off the air for maintenance and some upgrades which have turned out to be challenging to implement.  We will try to return this repeater to normal operation as soon as possible.
+Submitted by Acting EC Jim – VA3KV
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ottawa ARES [EMRG] group membership have seen March as mostly an infrastructure month at EMRG / Ottawa ARES.  Work on the packet system on 145.010 continued, giving us (and more importantly the Red Cross), the ability to connect to the Red Cross in Pembroke.  Callsigns for the various packet machines have been sorted out, with VA3OFS in Barrhaven, and VE3OCE at Alta Vista in central Ottawa. 
+- On March 6, monthly repeater test, headed by Dave, VE3KMV, and assisted by Stuart VE3SMF, Tracy VA3TXN, Arthur VA3BIT, and Ron VA3ACZ went well as usual.  AEC Mike VE3FFK reported that the packet systems and VE2CRA repeater were working.
+- Peter VE3BQP, who has been working hard on the packet system will be turning his attention to the antennas at Barrhaven, and continuing to develop the interface with the Ottawa Red Cross as the snow melts and spring rolls along.
+- There are no planned public service events in the area in April, but two in May, on adjacent days. The Lanark Highlands Car Rally happens on May 4, followed on May 5 by the CN Cycle for CHEO.
+Submitted by AEC Mike VE3FFK for EC Richard – VE3UNW
+

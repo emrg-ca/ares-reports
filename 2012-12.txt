@@ -1,0 +1,76 @@
+﻿As December is usually a slow month, it was no different this year for the
+Eastern Ontario District.
+
+EMRG/Ottawa ARES Group activities for December 2012 started on the fifth with
+the usual monthly repeater check, headed by Dave, VE3KMV. The repeaters were
+still working as they should. All repeaters check OK with the usual minor
+anomalies. Thanks to Paul VE3CPH, Bob VA3QV, Mike VE3UMC, Arthur VA3BIT, and
+Stuart VE3SMF. Arthur usually checks in bicycle mobile, which is a good test
+due to fairly low ERP and low height, and a mix of stationary and mobile
+operation.
+
+Mike VE3FFK reported EMRG packet BBS and Winlink node were operating normally,
+as was VE2CRA voice. Stuart also reported packet BBS working OK
+
+Richard, VE3UNW received and shared some feedback from the "Understanding
+Interdependence" seminar from the previous month. The main point seems to be
+that information sharing processes need to be re-enforced. Getting together to
+talk with the other players seems to be a good first step.
+
+Peter, VE3BQP reports that another 3 year agreement with funding has been
+signed with the city, continuing a process that began in 1996. This is the most
+tangible form of proof of the commitment the City has to EMRG (and vice
+versa). 
+
+As part of changes Ottawa Fire is making to their station at Barrhaven, they
+will be moving the VA3OFS repeater within the building. At the same time, it
+will be upgraded to a Kenwood TKR 750 with a new back up battery. The antenna
+will be upgraded in the spring, and the long delayed UHF repeater will go in at
+that time. As all this is going on, we have been asked to provide a
+presentation to them so they can better understand who we are and what we do.
+See the point about information sharing nearer the top of this note. 
+
+Now that the radio equipment is installed at Ottawa Red Cross, the next step
+will be to install a packet station there so they can exchange text traffic
+with their counterparts in neighbouring districts.
+
+All in all, although it was a light month for meetings and public service
+activities, there has been a lot going on below the surface in December.
+
+In Renfrew County West there were 3 net sessions in Dec. (no net on Dec. 26th).
+However, The following was not reported in November. Bob VE3YX was invited to
+observe an AECL exercise described: "Transportation Accident Exercise Delta XI
+will be conducted in 2012 November 23rd. This will be a full-deployment type
+exercise, where the Emergency Operations Centre (EOC) will be activated, and
+Chalk River Laboratories (CRL) resources dispatched to respond to a simulated
+off-site transportation accident involving radioactive material. This exercise
+is designed to test our plans and the response capabilities of our various
+response groups on site, as well as an opportunity to engage our external
+stakeholders in a full scale exercise."
+
+The stakeholders mentioned were OPP, County EMS, Deep River Fire, and
+Laurentian Hills Fire. The accident scene was set up behind the Chalk River
+Fire Hall. There was a 5 ton truck on its side with barrels simulating
+radioactive materials that had spilled out of the truck in the accident. There
+was a half ton truck that had hit the back of the truck and the driver was
+trapped in the half ton. There was a small car with 4 passengers that had hit
+the front of the truck. The victims were quite well made up with injuries.
+
+The Pembroke Observer article on this exercise is at the following link:
+http://www.thedailyobserver.ca/2012/11/24/mock-disaster-training
+
+Bob was quite impressed with the quality of the responses from the various
+agencies. There was no ARES involvement, as normal communications were not
+affected by the incident. AECL and RCW-ARES have met about installing VHF
+equipment in their EOC at Chalk River and in their RAT mobile (Radiation
+Assessment Team).
+
+Activities for the Prescott-Russell ARES Group was very slow in December. There
+was the usual get together on Thursday evenings at Chamberland Centre in
+Rockland. Main topics were the situation with the VA3PRA repeater, presently
+down for repair and upgrade, search for a new EC to replace Henry VA3OV, and
+the well being of the local amateur radio club. 
+
+In the coming months it is expected that an important discussion throughout the
+Eastern Ontario District will be a further integration of the individual group
+packet systems to better serve our clients. 

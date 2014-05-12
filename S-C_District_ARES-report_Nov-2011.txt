@@ -1,0 +1,61 @@
+﻿~ November 2011 - [Eastern Ontario] SEAWAY~CAPITAL ARES Districts ~
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of 
+Prescott-Russell & of Stormont, Dundas & Glengarry, Cities of Ottawa & of Cornwall
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- The Ottawa ARES [EMRG] group held their monthly repeater test that was conducted with the assistance of the following participants; Bob VA3QV, Ron VE3HAB, Stuart VE3SMF, Arthur VA3BIT, Tracy VA3TXN, Tom VA3WTJ, and Sandy VE3AAC.  All 5 group repeaters were found to be in working order, although the UHF repeater is still showing a bit of anomalous behaviour, with some breakup on otherwise strong signals, but not a serious problem.  It could be site-related.  The local VE3OCE-1 packet node was reported to be working OK except the time clock is off.  The Winlink node was also reported to be working.  VE2CRA, a club repeater that is also used by EMRG/Ottawa ARES was reported to be working OK on Monday of the week prior to the test. 
+
+- There was some antenna work done at the East end repeater site. One bad connector was found, and the cables were labeled once again, so we now know which cable goes to which antenna - very useful information to have. 
+
+- On November 23rd and 24th of emergency exercises at the Canadian Emergency Preparedness College (CEMC) in Ottawa. This time the exercises were in English, and were designed for larger communities.  Eight volunteer amateurs were there to assist the college with the course exercises.  I have just learned that the December course exercises have been canceled, so the next exercises will be in February. They don't schedule past the fiscal year end, since funding past that is never known.  Participants at the Canadian Emergency Management College (CEMC) were; VE2BCW Michel, VA3OV Henry, VA3TXN Tracy, VE2JPV Jean-Paul, EC VA3LP Lance, College liaison & facilitator VE3FFK Mike, VA3ACZ Ron, VE3PC Paul.
+
+- Many Ottawa ARES members participated in radio operations for the ‘Bancroft Rally’ of the ‘Tall Pines’ on Nov 27th. Some of the members participated from Nov 25 to 28, coordinating set up, pre-rally events and tear down. The rally is a challenge for radio operations, since the locations of the radio operators leave little room to adjust position for optimum antenna placement. The operators are often kept on station for over 12 hours.  There are as many as four nets running simultaneously, so maintaining situational awareness is a good test of the mental agility of the operator. The event has about sixty amateur radio operators, and could use even more.
+
+- Winter still hasn't hit as of this writing, (I'm not complaining) but as it 
+approaches, we put on snow tires, check the go kit and other emergency items 
+like car kits and parka contents. It's so much easier to find the snow shovel 
+and boot cleats before the first big dump of winter hits.
+
+Tests = 1 
+Events = 1
+
+==================================================
+
+- The Prescott-Russell (PR)-ARES group November was not a busy month for the PR-ARES Group. We have been trying since late October to install a new 10 ft tower section on the Alfred Water Tower to return our VA3PRA repeater back into service. The old tower section was no longer serviceable and was taken down in the summer.  After acquiring a new tower section, installing mounting plates for the Sinclair 210-C4 bay mast and getting it painted with epoxy paint to lengthen the life of the tower installation, we finally received access to the water tower to do the installation.  Although it was a very cool day in Eastern Ontario when we went up, it turned out to be the perfect day for working at 150 feet.  Ron VA3RRZ and EC Lance VA3LP spent about 3 hours measuring, marking, drilling, manhandling, hoisting, tightening, taping and cleaning up. Below as ground support crew were; Henry VA3OV, Mark VE3TKN, Harry VA3ZAK and Norm VA3NPL.  Utilizing a rope and pulley, they hoisted all the equipment up and down to the first level where Ron and Lance were located.  About an hour was utilized to get ourselves, the tools and the new tower section up the water tower and another hour to get ourselves, the tools, a temporary mast, antenna and a gin pole back down to the ground.  Next step the group has to do is to move the repeater transceiver back into its home at the bottom of the water tower and place the system back in service.  This should be accomplished in early December. One step at a time.
+ 
+- The City of Clarence-Rockland invited the PR-ARES group to its yearly table top exercise, an exercise that is required by Ontario regulations concerning emergency preparedness. This was attended by group coordinator Lance, VA3LP. This is the group’s first involvement in an exercise with the City and it was a great success.  The ARES group received great praise from the Emergency Management Ontario representative as he was very pleased to see that the City was having the group more involved with the City’s emergency preparedness.  The group leadership is now working on an MOU with the City.
+ 
+- The group still holds it’s regular ARES NET on Tuesday evenings at 8pm local on the 147.330+ VE3PRV repeater, and when the 145.470- VA3PRA RPT is back in service, the net will alternate between the two repeaters.  If anyone wishes to join the net, you can join by either Echolink or by IRLP node 2114.  The net averages about 8 to 10 stations per night.  As well, the group has regular meetings every Thursday evening at the City’s Park Simmon Chamberlain Centre in Rockland ON.  Discussions range from ARES exercises to viewing DXpeditions.  There are usually many discussions surrounding the latest modes of operation as well as new ways of operating with older modes.  The group is always looking for topics of general interest to Amateurs in general for our meetings.
+
+- Two PR-ARES members attended the Canadian Emergency Management College in Ottawa as volunteers.  Henry VA3OV has participated on prior occasions and EC Lance VA3LP was able to attend for the first time.  See more on this in a message from the DEC for November.
+
+- The Group is looking forward to our Christmas gathering and more activities in the New Year. 
+
+Exercises = 1
+Nets = 5
+
+=============================================
+
+- The Lanark North Leeds (LNL)-ARES group, held four ARES VHF weekly nets in November.
+There have been no meetings per say, other than the weekly get-togethers for Saturday breakfasts.
+ 
+- Through the efforts of several US hams the balloon package the LNL-ARES group sent in an earlier balloon flight has been recovered.  An earlier announcement of a new digipeater for mid December at Black Lake was premature.  There is too much interference from adjacent equipment on the selected frequency. The group’s Christmas luncheon is being organized in Westport in mid December.
+
+Nets = 4
+
+==========================================
+
+- The Renfrew County East (RCE)-ARES group members supported the OPP on Oct. 31st in the towns of Renfrew and Arnprior for pumpkin patrol. AEC Jim VA3JER and John VE3DDN patrolled the town of Arnprior, and Bill VE3TUC along with AEC Ron VE3JRN patrolled Renfrew Township.  It was a very uneventful Halloween and we had no incidence to report.  We all enjoyed the young goblin costumes and seeing their smiles in security made it all worth while.
+ 
+- The RCW-ARES leadership received via EC Paul VA3COG an invitation to attend the Township of Admaston / Bromleys Emergency Management meeting on November 24.  The leadership were to give a presentation what ARES can do in an Emergency for the township. Unfortunately the meeting was cancelled with no alternate date set as of yet.
+
+- The VHF repeater VE3ZRR for 146.910 Mhz has been taken off the air temporally.  It is in the process of being move to a better location with a much better coverage.  Group AEC Ron will give out more information when it has been installed and the paperwork signed. 
+ 
+=============================================
+
+Eastern Ontario DEC message
+*** Attending the Canadian Emergency Management College (CEMC) in Ottawa as radio volunteers. ***
+This is a great opportunity for ARES leadership members in Eastern Ontario (and others) to be exposed to a live and activated EOC environment.  This is where course attending student officials coming from across Canada are engaged in a declared state of emergency where they must work hard to manage their ongoing emergency, an emergency as determined by the exercise ‘inputs’ they are given by the exercise coordinators at the college, all designed to test and exercise the course training the students there just newly received.  
+- This is where Radio Amateurs can help out as volunteers in providing a type of in house Radio EmComm public service and experience the stress level incurred during the course emergency exercise – yes, you will feel it too.  Of course volunteer Radio Amateurs are reimbursed for motel, meals and mileage.  This is highly recommended for ALL serious ARES group leadership members – a ‘rare to get’ needed unique experience to learn by.  This is an experience to be had – more than once, which will help you better understand your client(s) job and the potential Radio Emcomm needs in a declared state of emergency.  No local municipality is equipped to give you this.  For more info visit < http://www.publicsafety.gc.ca/prg/em/cemc/04pgc_01-eng.aspx#a02 >,and < http://www.emrg.ca/Collegeville_Orientation_Guide.pdf >.  You can also contact the DEC at < VE3IPC@gmail.com >.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

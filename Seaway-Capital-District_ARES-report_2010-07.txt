@@ -1,0 +1,80 @@
+﻿- July 2010 DEC report for SEAWAY~CAPITAL ARES Districts combined -
+
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of Prescott-Russell & of
+Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- The Renfrew County West (RCW)-ARES group Wednesday evening weekly ARES nets
+  normally link to the 9035 IRLP reflector, but a problem with our node was
+reported by the reflector operator, so we will not be using the reflector until
+we have resolved the problem.
+
+- As there was no other activity in July, and the June ARES extensive report
+  was sent late, it is included here.
+
+- RCW-ARES on Saturday May 29th, had 5 members and 1 XYL that turned out to
+  support the Phoenix Incredible Race in Deep River.  The race is a fund-raiser
+for the Phoenix Centre, a children's mental health treatment centre located in
+Pembroke and providing service to Renfrew County Families.  This was our first
+experience with the Incredible Race which is loosely based on the TV program
+the Amazing Race, but in this case the 8 teams of 4 rode bikes between the 12
+event stations.  RCW-ARES provided race safety and logistics with a net control
+station (VE3ZLO) at the race end point and 2 roving operators (VA3SUR and
+VA3AUL).  We also ran an event station with VA3DNA and VA3BIX and his XYL and
+part of the task there was for one team member to instruct the rest of the team
+in assembling a puzzle using FRS radios.  This proved to be quite a challenge
+for some of the teams!  The day was very successful and a good time was had by
+all.
+
+- On Saturday June 12th, a similar race was held in Pembroke with 12 teams
+  participating. For this one, Dale VA3DNA acted as net control while Dwight
+VE3ZLO, Mike VE3ODJ and daughter Cloe, Richard VA3BIX and XYL Brenda, Yvonne
+VE3RYA and EC Bob VE3YX roved and manned checkpoints. Some of the checkpoints
+had fairly straight forward tasks while others were quite challenging. Richard,
+Brenda and Yvonne operated the ''puzzle with FRS radios'' checkpoint for this
+race.
+
+- On Sunday June 13th, RCW-ARES again provided communications support for the
+  Miramichi Lodge Paddlequest. The weather was excellent, but the water was
+very low this year, making it difficult for the rescue boats to get to where
+the canoes and kayaks were. There were 2 minor rescues of overturned boats,
+both near shore. There were about 100 participants in about 80 boats. The ARES
+participants were: Fred VA3FPB - organizer and rover, Dale VA3DNA - net
+control, Mike VE3ODJ - in the Pembroke Fire Dept. boat, George VE3GPD - in the
+OPP boat and Dwight VE3ZLO - in the Base Petawawa Fire Dept. boat. Another
+RCW-ARES very successful operation!
+
+- RCW-ARES group on June 26th and 27th, along with the Renfrew County ARC set
+  up a Field Day station in our usual location: Riverside Park, Pembroke. We
+operated 2A, but there was a lot more chit-chat than operating :-) We haven't
+yet built band filters for the stations, so there was a lot of QRM between
+stations. There is a winter project for the group to perform. We have been
+using a logging program written by Bill VE2IQ. A Netbook for each station is
+linked by WIFI to an old laptop that acts as a server to keep the log data.
+Either Netbook can be used for any band and mode and will have access to the
+appropriate log info. ~ At noon, we had a barbeque which was much more popular
+than contesting, although there were a couple of operators who kept going
+through lunch. It took over 3 hours to set up, but when at 5 min. before the
+end of the contest at 2 PM, thunder was heard in the distance, it took only 45
+min. to return to a bare field! In the end, the storm didn't materialize and
+for once we had a dry Field Day. As usual, we all had a good time. Thanks to
+everyone who organized and participated: too many to list!
+
+Number of Registered Stations: 21
+Number of Net Sessions, Drills or Tests This Month: 4
+
+- The Cornwall ARES group’s EC has officially listed AECs Jim Richardson -
+  VE3AFV and Joe Scott - VE3ADB in the latest review of the City of Cornwall’s
+Emergency Plan – June 2010.  Comments on the communications portion of the plan
+have been requested.  EC Earle – VE3IMP has asked for a projected release date
+of the new plan from CEMC Bradley with no word yet.
+
+- The ARES training that was planned for July 24, 2010 is on hold pending the
+  release of some training material from DEC Mike – VE3IPC.
+
+- Plans are to have the DEC as our Guest Speaker at the next SVARC’s next
+  meeting planned for Wednesday, September 29, 2010.
+
+Number of Registered Stations: 10
+Number of Net Sessions, Drills or Tests This Month: 4

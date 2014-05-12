@@ -1,0 +1,33 @@
+﻿The Eastern Ontario ARES District Groups has used this month to prepare for upcoming exercises including the Canadian Ski Marathon in February, the Silver Spoon Ski Race and the Clarence-Rockland Classic Bicycle Race. These events provide real world opportunities for the ARES community to exercise their capabilities, try out new modes and provide a service to the community. Some are also making new inroads into their communities to provide emcomm services at the county level.
+
+
+The Ottawa EMRG/ARES Group did not have much activity this month. The monthly repeater test was conducted by Dave, VE3KMV with the participation of Mike VE3FFK, Stuart VE3SMF, Arthur VA3BIT, and Ron VA3ACZ. The packet BBS and Winlink node are operating and were given a thorough workout while helping a newcomer get up to speed on the ins and outs of 1200 baud packet. 
+
+Late January is also the time when some of the equipment to be used by members and other hams for the upcoming Canadian Ski Marathon gets checked out and packed for deployment. Submitted by Mike VE3FFK ARES AEC.
+
+
+The Lanark/North Leeds ARES Group has had 5 weekly Nets and 5 weekly get togethers for Saturday Breakfast at Michaels in Perth. They have also be actively searching for an EC to replace Barrie, VE3BSB.
+ 
+Installation of a new digipeater, VE3LCA-7 at the Westport Hill, Lions Club RV site, was made in late December. This allows connection on 2 M to VE3KER-3 Node in Kingston. This link provides email access through either VE3VY-10 in Westport, or VE3FRG-10 in Kingston. The VY and FRG stations have Internet connections allowing forwarding of email messages worldwide. Regular automatic polling in both directions has shown the path to be viable. Six stations are using Paclink and/or RMS Express to make these connections. A few Paclink suitcase stations are available for deployment. Winmor, FLdigi and Pactor are also being used by several stations for email over HF radio. Those involved in these activities include VE3GWS, VE3VJF, VE3KFS, VE3DZE, VE3GXW and VE3VY.
+ 
+The Almonte Amateur Radio Club held its third annual banquet at the Almonte Branch of Royal Canadian Legion on Saturday January 12th. Forty people attended comprising club members,   “hams” from the local area and "significant" others. Rob Webb VE3UIX, club president said, ‘this was the best banquet we have had up to now. We changed the format a bit this year and started the evening off withhors d' oeuvres while attendees socialized before dinner”. A highlight of the evening was a presentation by Ed Carew and Doug Wilger of the Mississippi Radio Control Club who brought along some model aircraft and described the technology on how the models operated and  flown. The culmination of the presentation was the flying of two small helicopters in the banquet room.
+A number of organizations sponsored the event by supplying door prizes and thanks go to Icom Canada,  the Almonte Riverside Boutique and Kitchen;  Levi Home Hardware of Almonte  and E N H Electric Ltd of Nepean for providing door prizes.  
+
+More equipment has been installed in the EOC at the Almonte General Hospital (AGH) and the D-STAR ID-1 (Digital Data) radio is now up and running allowing Internet connection via the repeater site. Point to point 5.8Ghz equipment has been acquired to provide wide band digital two way communication between the AGH and Municipal EOC at the Almonte Fire Hall. Submitted by Norm VE3YY.
+
+
+The Renfrew County West ARES Group has no activity to report for January. The Group is preparing for the Silver Spoon ski race on Feb. 9th. Five of our regular operators for this event are not available this year, So we are stretched.
+
+There is one new member: Garrett Modren VA3GBM. Yvonne, George VE3GPD and I will be away from Feb 4 'til Feb18. Dale VA3DNA is not available at the moment. Any communications to our group should be to Richard VA3BIX, or Dom VA3DGZ.
+Dom has been appointed to replace Bernie VA3SUR as AEC.. Submitted by Bob VE3YX
+73 de Bob
+
+
+The SD&G Amateur Radio Emergency Service (ARES) Group’s close association with the Seaway Valley Amateur Radio Club (SVARC) Inc continues.   Our Jan. 30, 2013 meeting featured presentations from two members from Red Cross, Cornwall with whom we have a close association.  These presentations showed first-hand some of the devastation caused by Hurricane Sandy as well as outlined some of the local services the Red Cross offers.
+
+The Group continues to read the ARES bulletins on Mondays at 7:00 PM local on the club’s local 2-Metre net on VE3SVC (147.180MHz.+).  The net has now been expanded to include check-ins on VE3MTA (UHF) and our D-STAR repeater.  This process confirms the serviceability of several of our repeater systems at least once a week should they be required by ARES.
+
+The Group’s expansion to “SD&G ARES” from the former “City of Cornwall ARES” continues.  Following the removal of the transmitting equipment on August 29, 2012 from the City of Cornwall EOC we signed a Communications Service Agreement with the Township of South Stormont on September 26, 2012.  At the request of the CEMC from South Dundas – Bill Shearing (VE3UTG) we provided a presentation to the United Counties Annual Emergency Management Meeting in Cornwall on November 23, 2012.  That presentation in turn facilitated requests for presentations to the Township of North Stormont on December 18, 2012 and the Township of South Glengarry on January 28, 2013.  Both presentations yielded very positive results with both Townships requesting Communications Service Agreements.  This has several benefits; it raises the profile of ARES and formalizes our willingness to provide ARES services to these townships should they be required.  
+
+A county-wide SD&G ARES exercise with; The City of Cornwall, The Red Cross, The Township of South Stormont, The Township of North Stormont and the Township of South Stormont is now planned for Saturday, February 23, 2013. Submitted by Earle DePass VE3IMP
+ 

@@ -1,0 +1,97 @@
+EASTERN ONTARIO ARES DISTRICT
+Report February 2013
+Several groups within the Eastern Ontario ARES District have been involved with two major
+events: the Canadian Ski Marathon and the Silver Spoon Ski Race. This involved a total of
+51 local amateurs. As well ARES Groups are upgrading equipment and making headways
+into their local communities with agreements. Plans for the future include more upgrades to
+equipment and capabilities and planning for upcoming events. At the District level there will
+be a district meeting in May which will provide an opportunity for the groups throughout the
+district to come together and discuss their successes over the past year, indicate their
+plans for the coming year and discuss any areas of mutual aid that require adjustment.
+
+Unlike last month's report, things were busy at EMRG / Ottawa ARES in February. 44
+hams, both local and from some distance away assisted with safety and logistics
+communications for the Canadian Ski Marathon, a 160km, two day ski through the rural
+Quebec countryside. The list of operators is at the end of this message.
+Meanwhile back in town, Peter, VE3BQP has done more work on the radios in the local
+Red Cross office. He has put in a lot of effort both there and at the Barrhaven repeater site.
+In addition to the 2m repeater rack relocation announced in December, there is now also a
+1200 baud packet node and a UHF repeater running at that site. The batteries have been
+replaced on schedule. This time with more but smaller batteries, so they can be carried
+more easily as getting to the rack now involves a climb up a ladder. Some antenna work is
+still required in the spring, and packet connectivity tests between the Red Cross office and
+their counterparts in neighbouring areas still needs to be carried out.
+Speaking of testing, the normal monthly testing of our voice repeaters, winlink and BBS
+hardware was carried out by Peter VE3BQP, Mike VE3KOY, Sandy VE3AAC, Harold
+VA3UNK, Arthur VA3BIT, Bob VA3QV, Tim VA3PYC and Roger VE3NPO, led by Dave,
+VE3KMV. Mike VE3FFK and Tim VA3PYC gave the digital hardware a workout. All was
+running nominally. Next month the new UHF voice and VHF packet hardware in Barrhaven
+will be added to the tests.
+Ski Marathon Amateur radio volunteers: Roland VA2BRD, Robert VA2DRU, Carole
+VA2NDJ, Clarence VA2SLB, Ron VA3ACZ, Arthur VA3BIT, Dean VA3CDD, Tyler
+VA3DGN, Marc VA3DRV, Jonathon VA3GDG, Jamie VA3JME, John VA3JO, Craig
+VA3KRT, Georges VA3LZY, Peggy VA3PGY, Theresa VA3TGS, Harold VA3UNK,
+Christine VA3VAK, Margaret VA3VXN, François VE2AAY,Malcolm VE2DDZ, Souly
+VE2FFS, Ray VE2HMA, Normand VE2NHK, Stéphane VE2STQ, Duncan VE3BDC, Wayne
+VE3CZO, Bill VE3DW, Mike VE3FFK, Gord VE3FRB, Harrie VE3HYS, Gaëtan VE3IET, Ian
+VE3IGJ, Earle VE3IMP, Luc VE3JGL, John VE3JKG, Lynda VE3JRL, Erik VE3KIH, David
+VE3KMV, Neil VE3PUE, Richard VE3UNW, Gordon VE3XGP, Greg VE3YTZ and Alan
+VE3ZTU.
+The Renfrew County (West) Amateur Radio Emergency Services group (RCW- ARES)
+provided radio communications for the 41st Silver Spoon Ski Race on the 9th of February
+2013. 210 participants aged 8 to over 70 competed in 27 categories over distances
+Page 1 of 3
+
+EASTERN ONTARIO ARES DISTRICT
+Report February 2013
+ranging from 1.5 to 15 km. This was the 40th year that RCW-ARES has been involved with
+the race. The following RCW-ARES members provided communications for the event: AEC
+Dom (VE3DGZ), AEC Richard (VA3BIX), Norm (VE3UE), Rob (VA3AGN), Alan (VA3HTO)
+and Ron (VE3ZRV). Our communications plan included a base station at the Start line and
+two checkpoints along the course. We equipped the Base station with an ICOM IC-28A,
+and a 5/8 whip with ground plane on a pop-up mast for 2m communications, and a YAESU
+FT-60R with a PRIME AL-800 2m/70cm High Gain Antennae for 70cm communications.
+Our VHF link also made use of the Renfrew County Amateur Radio Club’s Laurentian Hills
+repeater, VA3RBW. The 5km checkpoint (furthest from the start line) operated on 2m
+through the repeater, while the 10km checkpoint operated on 70cm simplex.
+As per the established Silver Spoon emergency plan, messages related to potential
+emergencies would have been directed to the various safety crews and to the event
+controller by cell phone. Luckily, no incidents were reported this year.
+The SD&G Amateur Radio Emergency Service (ARES) has been quite busy over the
+past couple of months. The SD&G EC continues to provide SD&G ARES updates at each
+Seaway Valley Amateur Radio Club (SVARC) Inc meeting with our last meeting held on
+January 30, 2013. At that meeting there were presentations by two representatives from
+The Canadian Red Cross, Cornwall with whom we have a very good working relationship.
+Official ARES bulletins continue to be read by the EC and AECs each Monday, at 7:00 PM
+local on the club’s 2-Metre net. The net has been expanded to include a UHF and D-STAR
+portions. This allows us to confirm that all of our three area repeaters are operational.
+The SD&G Group continues its expansion into the townships. following the ARES
+presentation to the Township of South Glengarry on January 2013. The presentation was
+well received with the township entering into a communications agreement with SD&G.
+Some members of the SD&G Group joined with other amateurs in eastern Ontario and
+western Quebec to provide communications for the Canadian Ski Marathon (CSM) – Feb.
+10, 2013
+During the coming month, SD&G operators are planning to provide communications for the
+Raisin River Canoe Race - April 7, 2013 which goes from St. Andrews to Williamstown.
+
+The Prescott-Russell ARES Group Three members of the PR-ARES group traveled down
+to the Orlando Hamcation in mid-February while on vacation in the area, Lance VA3LP, Jim
+VA3KV and Jeff VA3ISP. This year’s Hamcation was a success as the number of Amateurs
+attending has increased again this year. Most of the major purveyors of amateur radio
+equipment were there and many of the dealers throughout the south eastern US. Other
+than a smaller venue, Hamcation provides all the same possibilities as you would find at
+Dayton including a very good indoor and outdoor fleamarket. At this time a KPC3+ packet
+controller was acquired and will be placed in service as an ARES digipeater and BBS back
+in Prescott-Russell. Also 100 Anderson Power Poles were purchased for distribution at
+Page 2 of 3
+
+EASTERN ONTARIO ARES DISTRICT
+Report February 2013
+home. The group continues with their weekly Nets on Tuesday evenings on the VE3PRV
+and VA3PRA repeaters. The month of March will find the group preparing for the upcoming
+Clarence-Rockland Classic Bike race on Sunday the 7th of April 2013. This race covers 85
+km on the back roads of the City of Clarence-Rockland.
+
+Page 3 of 3
+
+

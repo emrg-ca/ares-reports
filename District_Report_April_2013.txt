@@ -1,0 +1,129 @@
+Eastern Ontario ARES District
+Report April 2013
+The Eastern Ontario ARES District groups are having many of the same challenges that
+have plagued them for years. The biggest concern is the low number of amateurs that are
+willing to become involved with ARES and turn out for exercises in support of their
+communities. This is where mutual aid can be applied, but must be requested in a timely
+manner. Another challenge is that although we have been previously involved with yearly
+events, we must be proactive and contact the event organization early to ensure our
+involvement. The District will be holding it's annual meeting on Saturday the 25th of May in the
+Council Chambers of the City of Clarence-Rockland, ON. All ARES members are encouraged
+to attend.
+Report submitted by Lance Peterson DEC Eastern Ontario District
+The Lanark/North Leeds ARES Group's stats remain the same for April. The LNLARES
+MCP (Mobile Command Post) was moved to the Lions RV Park site just North of Westport, in
+April. It will house the WL2K Digi/Node VE3REX-7. There is now a 12 volt standby power for
+the Node. It remains a link to VE3VY-10 RMS Packet Internet link as well as via VE3FRG7/VE3FRG-10 RMS Packet Internet link in Kingston. A donation of $100 was made to the
+Westport Lions Club.
+A new High Altitude Balloon Launch will take place May 8th from Perth bearing the call sign
+VE3MW-11.
+EC Barrie Crampton VE3BSB was awarded a Queen's Jubilee Medial. The medal and
+certificate was awarded recently in Drummond North Elmsley (DNE) Township. The certificate
+reads “Barrie Crampton has been involved in the community by playing an integral part in
+bringing high speed/broadband internet to rural Lanark County. He is also a member of the
+DNE 200th Anniversary Committee, and is coordinator of the Amateur Radio Emergency
+Services organization. The news article can be seen at the following link:
+http://www.yourottawaregion.com/news/article/1609461--drummond-north-elmsley
+
+Report submitted by Norm Hagan VE3VY AEC LNL ARES
+The Ottawa ARES/EMRG Group's monthly repeater tests all checked out OK. Thanks to
+Dave, VE3KMV, Paul VE3CPH, Tracy VA3TXN, and Arthur VA3BIT. The Winlink and packet
+systems were running normally.
+On April 28 our primary repeater was used for a search and rescue exercise conducted by the
+volunteer SAR group in the area. Preparations are underway for the Lanark Highlands
+Forest Rally, and the Cycle for CHEO event on May 4 and 5 respectively. In the former, the
+difficulty is a shortage of hams available to cover the event. In the latter the difficulty is that we
+did not get confirmation that we would be assisting until rather late in the process. Although
+we have done the event for many years, the event organizers have not. This is becoming a
+more common occurrence as public service events undergo turnover in the teams that run
+them. It has happened on a few occasions now that key pieces of the corporate memory of an
+event reside with the hams and other volunteer "worker bees" who have participated in the
+
+event for years. I wonder if other groups are finding the same thing.
+Report submitted by Mike Kelly VE3FFK, Ottawa ARES AEC
+The Prescott-Russell ARES Group continues with ARES nets every Tuesday evening on
+the local ARES Repeaters VE3PRV and VA3PRA (presently down for repairs) and usually
+gets between 8 and 15 check ins. The group turned out for the annual Clarence-Rockland
+Classic Bicycle Race. A gruelling 84 km race throughout the rural areas of the City of
+Clarence-Rockland. This year an APRS in the lead vehicle provided continuous intel on the
+location of the frontrunners. This information was displayed on a large screen at the Race
+organization HQ. This allowed the organizers to be at specific points in the race on time and
+allowed the cooking team to ensure timely preparation of the end of race meal. The following
+operators provided professional communications in support of this event: Don VE3RM Net
+Control, Chris VA3NKE, Jim VA3KV, Joy VA3YOJ, Mark VE3TKN, Ron Va3RRZ, Jean
+VA3CO, Jean VE3ZJS, Lance VA3LP, Al VA3ONN and Al's wife Suzanne. Thank you all for
+your continued support of the PR-ARES Group activities.
+The group along with the Prescott-Russell Amateur Radio Club, are beginning preparations
+for this year's Field Day in June.
+Report submitted by Lance Peterson Interim EC PR-ARES
+The Renfrew County West ARES Group's EC Bob VE3YX and AEC George VE3GPD met
+with the CEMC of Laurentian Valley to establish a relationship. The meeting was productive
+with the CEMC gaining an understanding of our services. We determined a location off the
+EOC for ARES operations and discussed the installation of a permanent antenna.
+A similar meeting is planned in a couple of days with the CEMC for the Town of Petawawa.
+We have had connections with Petawawa in the past, but we have to discuss how we might
+work with the town and see about an antenna installation at the EOC.
+Early in April, an Arrow type dual band antenna was installed on the roof of the Deep River
+town hall. The feed line was routed to the room near the EOC that we would use when the
+EOC is activated. A 2 meter packet/voice station has been prepared that will be kept at the
+Deep River EOC.
+A new KPC3+ has been installed at VE3NRR to provide a backup BBS for our Outpost
+operations. The KA node replaces an X-1J4 node used to link the western part of the county.
+Report submitted by Bob Howard VE3YX EC RCW ARES
+The Renfrew County East ARES Group has not submitted a report this month.
+The Stormont Dundas and Glengary ARES Group's close association with the Seaway
+Valley Amateur Radio Club (SVARC) Inc.continues. During their last meeting held on April 24,
+2013 updates on ARES activities were provided to the membership.
+ARES bulletins continue to be read each Monday, at 7:00 PM local, on the club’s 2-Metre net
+
+conducted on VE3SVC (147.180MHz.+). HAMs are also asked to check in on VE3MTA
+(UHF) and our D-STAR repeaters. This process confirms the serviceability of our repeater
+systems at least once a week should they be required by ARES.
+The Group's expansion to “SD&G ARES” from the former “City of Cornwall ARES” continues.
+On Sunday, April 14, 2013, the Seaway Valley Amateur Radio Club (SVARC) Inc. and the
+SD&G ARES group assisted our local St. John Ambulance Brigade 103, with communications
+for the Raisin River Canoe Race. The race is organized each year by the Raisin River
+Conservation Authority. This was the 41st race and was won in a time of 02:21:38. Additional
+information on the race may be found at; http://www.standard-freeholder.com/2013/04/14/wetand-wild-race
+While St. John Ambulance have their own two way radios, they are 5 Watt VHF portables,
+which severely limit their range. This is not a problem for most of the Public Duty events they
+attend, as most are confined to a small geographic area. However, the Raisin River Canoe
+Race, stretching as it does from St. Andrews West to Williamstown, a distance of 29 Km., is
+beyond their simplex VHF communications capabilities. Our Amateur Radio group filled the
+gap again this year, the second year we participated, by placing operators and VHF/UHF
+equipment in three St. John Ambulance vehicles and the 7 accessible points (bridges) along
+the race course. In addition, our event leader - Doug Pearson (VE3HTR) used his vehicle as
+a mobile command post.
+By using UHF repeater VE3MTA in Bonville, as well as a cross band repeater in
+Williamstown, seamless communication was provided to all along the entire route. This event
+was also an opportunity to test for the first time the cross band repeater capability built into
+the Yaesu FT-8800 dual band VHF/UHF transceivers, one reason for them being chosen for
+the core of our ARES radio fleet. Credit for this decision goes to Tim Smith (VE3HCB SK)
+who made it an essential feature needed for ARES operations where repeater coverage was
+inadequate. Some technical lessons were learned, one of which is that CTCSS on receive is
+absolutely essential for reliable cross band repeater operation. The following 10 Amateur
+Radio Operators came out to help in the event: Bert Lussier (VA3TL), Stan Fortune (VA3JSF),
+Jim Brelsford (VA3SPY), Joe Scott (VE3ADB), Al Ross (VE3DMR), Elizabeth Halliwell
+(VE3EZH), Ed Halliwell (VE3FHI), Doug Pearson (VE3HTR), Hal Green (VE3HWG) and Earle
+DePass (VE3IMP), our SD&G ARES Emergency Coordinator (EC).
+While we could have used additional operators St. John Ambulance was very satisfied with
+and glad for our help. Some volunteers stood out on a cold and windy bridge for much longer
+than they should have for health reasons. Operators at the various Checkpoints (bridges) had
+to be quickly relocated for coverage of other downstream Checkpoints, and some sites
+(Williamstown was one) could have benefited from coverage early in the race but we had no
+one available until much later, leaving the St. John Ambulance contingent in Williamstown
+very much “in the dark” with regard to other aspects of their operations. Coverage was also
+very limited in the “Patrol Sectors” between Checkpoints, again because of lack of volunteers.
+We may also consider installing dual band amateur antennas on the Mobile First Aid Posts
+(MoFAP’s), former provincial ambulances, as their configuration (an aluminum body which is
+higher than the steel driver’s cab) does not favour use of a magnetic mount antenna. But no
+ARES exercise runs perfectly, and every one of them is an opportunity to learn how we can
+do better next time.
+
+Following the conclusion of the race, a joint St. John Ambulance / Amateur Radio meeting /
+debriefing was held at St. John Ambulance HQ in Cornwall. This gave an opportunity to learn
+from each other how to improve operations in the future.
+Thank you to all who helped, hopefully more people will be available next year.
+Report submitted by Doug Pearson VE3HTR AEC SD&G ARES
+
+

@@ -1,0 +1,67 @@
+﻿
+Most of the Groups in the Eastern Ontario District ARES have been very busy with quite a few doing exercises or involved in planning with their clients. It is good to see all this activity as we head towards Christmas and the holidays. It is our wish that all will have a joyous and happy holidays and arrive safely into the New Year.
+
+The Stormont Dundas and Glengarry ARES Group continues its close association with the Seaway Valley Amateur Radio Club 9SVARC) Inc.  ARES bulletins continue to be read by the EC and Net Controllers on Mondays at 7:00 PM local on the club’s local 2-Metre net on VE3SVC (147.180MHz.+).  The net has now been expanded to include check-ins on VE3MTA and our D-STAR repeater.  This confirms the serviceability of these repeater systems at least once a week should they be required by ARES. Our expansion to “SD&G ARES” from the former “City of Cornwall ARES” continues.  In light of this, on Aug. 29, 2012 along with City of Cornwall CEMC – Bradley Nuttley a team of HAMs attended the former Cornwall City Hall EOC and the firehall on 2nd Street to remove the ARES equipment.  The equipment is now at the home of the EC ready for deployment to any of the townships where we will provide emergency services.  The finalized version of the SD&G ARES agreement with the Township of South Stormont was adopted by the council from the township on Sep. 26, 2012.   At the request of Bill Shearing (VE3UTG), Doug (VE3HTR), Ed (VE3FHI) and I delivered a presentation to the CEMSs from the 7 townships at the United Counties of Stormont, Dundas and Glengarry at 26 Pitt Street, Cornwall.  The presentation explained; Amateur Radio, ARES, the current situation of SD&G ARES and plans for the future.  Our 20-minute PowerPoint-based presentation ended with a demonstration of our autopatch on the VE3SVC repeater as well as a demonstration of IRLP to contact a HAM in Oakville to round out the demonstration.
+
+The Renfrew County West (RCW) ARES had 4 net sessions this month. On Nov. 1st, the very day that post tropical storm Sandy was to pass nearest here, there was an exercise of part of the Laurentian Hills / Deep River Nuclear Emergency Plan. The intent was to exercise the MEOC (Municipal Emerg. Op. Centre) and the JIC (Joint Info. Centre). The scenario did not include the loss of normal communications, however, there were a few messages that were planned to be passed by Amateur Radio. RCW-ARES decided to extend the exercise a bit by adding a station at the Reception Centre (Deep River Arena) and at the Red Cross in Pembroke. The Red Cross part was an easy addition since the Red Cross rep on the MCG (Municipal Control Group) at the MEOC was Alan, VE3HTO, one of our ARES group, and, the staff at the Red Cross in Pembroke were prepared to send messages to Alan. All four locations were equipped with packet/voice stations running Outpost, and VHF handhelds.
+At the MEOC, was Yvonne VE3RYA and George VE3GPD. At the JIC, was Norm VE3UE and Tony VA3HWH. At the Reception Centre, was Chris VA3CRL and Dom VE3DGZ. At the Red Cross was Richard VA3BIX and Rob VA3AGN from RCW-ARES and Ron VA3JRN and Jim VA3JER from RCE-ARES. For Ron and Jim, this was a first experience with Outpost and packet for emergency comms. Bob VE3YX floated amongst the 3 Deep River / Laurentian Hills sites. Alan VE3HTO had his Red Cross hat on, not his ARES hat, so he was the sender and receiver of messages.
+
+One hitch with the exercise was that the people who were to staff the JIC never showed up, so there was no one there for Norm and Tony to pass messages to. As there was no plan to have anyone staff the Reception Centre, Chris and Dom also had no official messages to deliver or pass. The JIC and Reception Centre groups just sent and received tactical messages to remind themselves of Outpost operation. The only exercise related messages that got passed were between the Red Cross and the MEOC. After the exercise, those of us that were in the Deep River / Laurentian Hills area participated in the debriefing held at the MEOC.
+
+Prior to the exercise, Yvonne VE3RYA and Bob VE3YX prepared a document that detailed the setup and use of Outpost specifically for our purposes. The document was made available at each of the 4 sites for this exercise. As a result of the exercise, the document is under revision and will be posted on the Documents page of our web site: http://www.technifest.com/~rcares/forms1.htm.
+
+As usual with Outpost, the message flow was quick and of course accurate. We had no problems with any of our operations. We realize that the official exercises are too infrequent to keep us up to speed, so we should plan to organize some of our own exercises. Meanwhile, Sandy passed by our area with no noticeable effect.
+
+On Nov. 14th Richard VA3BIX and Bob VE3YX attended the Semi Annual EMO Sector meeting for our area held in Pembroke. David Prange from Arnprior spoke about the need to update school emergency plans. Betsy Sayers, CEMC for Greater Madawaska, spoke about the emergency response to the many Macroburst events that occurred on July 23rd this year. Although there was no need for ARES involvement in this situation, Betsy did put in a plug for ARES at the end of her talk. Renfrew Co. East ARES has been assisting Greater Madawaska with communication issues. Peter Kimbell from Environment Canada talked about the types of weather warnings available to CEMCs. Ann Turney from AECL Chalk River talked about the "Huron Challenge Exercise" that took place in the Bruce area during the week of Oct. 15th. There was also a talk about 211 and how the system could be used to provide information to the public in the event of an emergency.
+
+The City of Pembroke will be changing from a city police force to the OPP sometime next year. The existing police station will be closed and since the EOC was in that building, a new EOC is being established in City Hall. On Nov. 20th, Bob VE3YX met with Colleen Sauriol, the Pembroke CEMC, and the building inspector to plan an ARES antenna installation for the City Hall to support the EOC. Locations for the antenna and feedline were found and an ARX2B and COAX are to be purchased by the City. Bob will assist with the installation and tuning of the antenna when it has arrived.
+
+Deep River is also in the process of establishing an EOC in the town building. In the next week or two, Bob VE3YX will be looking at options for the radio room and an external antenna.
+
+November report for the Renfrew County East (RCE) ARES Group. Well another month has pasted and for the RCE group we have lost a few of our members to the snowbirds. lucky people! This cut our numbers but the group willl maintain readness as always. EC Ron va3rjn is on the mend from his knee operation and getting around better. A pumpkin patrol was carried by members of the group in Arnprior and Renfrew in October. On November the 1st. Ron VA3JRN and Jim VA3JER travelled to Pembroke to take part in the RCW set for the year . Ron and Jim were at the Red Cross Station to see the use of Packet for a emergency situation. It was a learning curve for the east group so we will plan in the future to work on this and give our group better coverage for emergency's. Thanks to two of the west group Richard VA3BIX and Robert VE3AGN. Also this month the group looked at providing Bromley Admaston township help with the set up of their stations and antennas. 
+
+
+November was a busy month for Ottawa ARES/EMRG. Mike VE3FFK and Norm VE3LC attended a discussion sponsored by the Canadian Interoperability  Technology Interest Group (CITIG) about whether the approach to interoperability taken in the downtown Toronto core could be used in Ottawa. Later in the month Richard, VE3UNW attended a seminar on interdependencies of critical infrastructure and the implications of those during an earthquake event. Both were good opportunities to get to know the other "players in the game" as well as to pick up some insights to the emergency operations process as practiced in Ottawa. 
+ 
+There was a "test and tune" session held jointly with the Ottawa ARC, in preparation for the Tall Pines Car Rally, held later in the month. This session was the first in decades in the area, and was designed to gather people, tools and expertise in one place so amateurs helping with the rally could program radios, install connectors and test cables and antennas before deploying to the field. It was a success, and will probably be repeated before the Canadian Ski Marathon early next year. Participating were Arthur VA3BIT, Harold VA3UNK, Wayne VE3CZO, Mike VE3FFK, Rick VE3IHI, Richard VE3UNW, and Alan VE3ZTU, 
+ 
+The monthly test of EMRG voice and digital systems and the Ottawa ARC repeater were conducted successfully. The test was headed by Dave, VE3KMV with the participation of Ron VA3ACZ, Arthur VA3BIT, Paul VE3CPH, Mike VE3FFK, and Stuart VE3SMF.
+ 
+Finally, there was EMRG participation in the Tall Pines Rally mentioned earlier. 
+There was a lot of damage, fortunately only to vehicles. Damage to people was minimal. However, we did have an overturned Propane truck to deal with, just to make things other than routine. Among the 71 amateurs assisting, the following were from among the EMRG membership: Jamie VA3JME, Mike VE3FFK, Rick VE3IHI, and Alan VE3ZTU.  
+
+The Lanark North Leeds (LNL) ARES increased membership by 3 since October.
+ Net report for LNL ARES
+       Date Call Sign Replacing Number Generals Rechecks Duration
+      07-Nov-12 VE3 GXW (CGV) 8 1 0 13
+      14-Nov-12 VA3 VY (KAI) 9 0 0 15
+      21-Nov-12 VE3 JDJ (VY) 9 0 0 13
+      28-Nov-12 VE3 LSW
+     14 1 0 22
+ News from Almonte Amateur Radio Club by Rob VE3UIX, President.
+ Two additional antennas were fitted to the tower at the Almonte General
+Hospital to permit operation on all bands including 23cm voice and data.
+Equipment provided to the club under the JEP Program (JEPP) will be
+installed in the room kindly provided to us by the hospital and which will
+act as the EOC for both hospital and Mississippi Mills in the event an
+emergency is declared. Coverage tests on the club's D-STAR (DV) and FM
+repeaters is planned to take place in the next 2 months. We will then have a
+picture of signal strengths and know what equipment will be needed to
+establish communications in an emergency. In the last month the club is pleased to have welcomed 3 new members.
+ 
+Plans are now well under way for the club annual social gathering to be held
+on January 12th at the Royal Canadian Legion in Almonte. All local hams are
+welcome to attend. The cost is $25 per head. If you would like to join us
+please contact Stan VA3SMM at:  stan@madore.ca. Another monthly breakfast in Arnprior is scheduled for December 5 with the VE3STP repeater group.
+  
+VE3CGD, Art, and VE3VY Norm attended the Rideau Lakes Township Emergency Planning Meeting at which the latest Township Emergency Manual was presented for review. LNLARES will submit an updated version of their information. Contact was established with the Red Cross representative, who is under contract to the Township for Social Services activities.
+ 
+Rideau Lakes Township antenna Tests were carried out at Chaffey's Locks Community Centre by Clair, VE3BAC and Norm VE3VY. Repairs were carried out at the North Crosby Hall by George VE3CGD and Norm VE3VY.
+ 
+The annual Christmas gathering will be held at the Cove INn in Westport on 
+December 11th. All are welcome. Contact Norm at normh@rideau.net. 613-273-3896   
+
+
+Lance Peterson VA3LP
+DEC 
+Eastern Ontario District ARES

@@ -1,0 +1,51 @@
+﻿Eastern Ontario ARES District report – October 2012
+
+City of Ottawa, Counties of Prescott-Russell, SD&G, Leeds-Grenville, Lanark & Renfrew
+
+The Lanark North Leeds (LNL)-ARES Group was asked to attend the Lanark County mid October 2012 SET exercise in compliance with municipal regulations. The SET was to be a table top exercise with limited personnel participation by all groups within the County.  LNL-ARES Rob VE3UIX, Don VE3FTP and EC Barrie VE3BSB participated.  The scenario evolved around an earthquake in the Ottawa area with minor damage in Lanark County. There were reports of landline and cell phone outage and hence the need for communication resources from ARES. Lanark County was called about providing shelter and services to residents of Ottawa that were being evacuated.
+
+From an ARES perspective the lesson learned was that municipal agencies fail to recognize their dependence on information and communications technology in their routine operations and have not yet fully appreciated what would happen to their operations in the event of cell, landline and internet infrastructure failures.  LNL ARES intends to bring this to the attention of the Emergency planners.
+
+The Lanark North Leeds (LNL)-ARES group on Oct 25th was requested by the Montague Township to provide communications for the Montague Fire Department's SET.  The scenario was that a hazardous spill had occurred on County Road 4, near Rosedale Ontario. Two adjacent schools had to be evacuated and the children were initially to be transported to a nearby community centre. A Net Control station was established in the Fire Hall at Smiths Falls, who then dispatched amateurs to the two schools, a temporary EOC in a township office building and at a nearby Community Hall.  Various situational messages were handled between the key location and Net Control, including a query from one school to the Fire Chief, concerning the evacuation. Following the exercise a debriefing session was held at the Smiths Falls town hall. Participating were the Township Reeve, Fire Chief, Assistant Fire Chief, Roads Supervisor, Township Clerk, and a recording clerk. The Fire Chief commented positively on the clarity and efficiency of the communications we provided. An ARES brochure was handed out to those present, and suggestions were presented by AEC VE3VY Norm, who was also present.  Those amateurs taking part in the exercise were Al, VA3KAI, Net Controller, EC Barrie VE3BSB, Bob VE3WSY, Art VE3CGD, George VE3GXW & AEC Norm VE3VY.  From our perspective, and the comments of others, the exercise went well.
+
+LNL-ARES & the RIDEAU LAKES TOWNSHIP COMMUNITY CENTRES  Three years ago the Township paid for the installation of dual band antennas in their six Community Centres. The location in Elgin is the designated EOC. To ensure they are tested regularly several local hams have volunteered to be responsible for these locations. Bill VA3TTY - Elgin, Clair VE3BAC - Chaffey's Locks, George VE3GXW North Crosby, Norm VE3VY - Newboro and Art VE3CGV - OPP Highway 15.  I've asked the Township to provide us with the names & phone numbers of the caretakers of each Community Centre, so we can have access to carry out our tests.
+
+The Township has invited us to attend their annual SET tabletop exercise in Chantry on November 25th. Art VE3CGV and Norm AEC VE3VY will attend.
+
+LNL-ARES had a low transmitter output at our Tweed RPT, reported by VE3CUS, was remedied by EC VE3BSB, VE3VKK and Luc VE3JGL. A bad contact on a Phoenix transceiver was discovered.
+ The transceiver was replaced with a spare. The Rideau Ferry repeater will remain out of service until we can obtain access to the site.
+
+VE3GXW and VE3VY held the Goblin Patrol in Westport and Newboro on Hallowe'en eve.
+
+The Almonte AR Club held a meeting on October 3, the first since April. Minutes of the meeting are posted on the club website.  On October 10 the Club had members attend a breakfast get together with members of the Champlain Regional Repeater Association (VE3STP) at PJ's restaurant in Arnprior. This is the second such breakfast event and plans to hold one every 2/3 months. There a presentation on D-STAR operation was given by Rob, VE3UIX.
+
+D-STAR operation in Mississippi Mills continues to be monitored. Currently coverage on the 23cm module (A) is being tested and radios set up for operation on the data channel (DD). This is the most challenging for coverage hence the time being spent on system performance so we know where we can and cannot operate in the event on an emergency.  Information on the club's D-STAR frequencies is provided on the club web site < www.almontearclub.ca >.
+
+LNL_ARES prepared for Super-Storm-Sandy possible effects locally and all amateurs were advised by EC VE3BSB & VE3UIX about which repeaters have standby power, so that if called upon they would have that info.  AEC Norm VE3VY had (WL2K) Winmor available if needed and was in contact with KARC hams that were on standby.
+* Submitted by AEC Norm VE3VY for EC Barrie VE3BSB
+========================================================
+
+The Ottawa [EMRG] ARES group successfully conducted an exercise on Oct 14. 
+Participants were asked to pack up a 24 hour go kit and get to a staging area. At the staging area the kits were checked and comments shared among the participants. As part of this, they were asked for items that would solve a set of particular problems, such as a stuck U bolt on a mast. Among the kits of those gathered, solutions were found for all of the problems set.  After this, some details about the restructured Ontario sections, and frequency information related to our mutual aid partners was distributed and the meeting portion of the exercise was concluded. Between the end of the meeting and their arrival back home, members were to attempt to contact a mutual aid partner using the information provided. Once home they were to write up an activity log of the days events and post it to the group's email list.  
+
+The following participated in one way or another:
+Ron VA3ACZ, Barney VA3BGB, Tyler VA3DGN, DEC Lance VA3LP, Bob VA3QV, AEC Harold VA3UNK, Peter VE3BQP, AEC Mike VE3FFK, AEC Rick VE3IHI, Mike VE3KOY, Mike VE3UMC, EC Richard VE3UNW, Alan VE3ZTU
+
+The EMRG / Ottawa ARES group’s October was a mixed month. The repeater test, conducted by Dave, VE3KMV failed, due to a lack of operators at the test time.
+*Submitted by AEC Mike, VE3FFK for EC Richard VE3UNW.
+=======================================================================
+
+The Prescott-Russell (PR)-ARES group’s EC Lance VA3LP, provided a short training session for members on message handling on October 18th at our "Triode Thursday" meeting at Simon Park in Clarence-Rockland. 
+On October 31st, members of PR-ARES group assisted local Ontario Provincial Police with neighbourhood patrols during Halloween evening.  Despite the remnants of tropical storm Sandy, the weather turned out excellent and many families and teens were out trick or treating in our more densely populated neighbourhoods. Although the PR-ARES Alfred repeater was down for service the alternate repeater in Clarence Creek, VE3PRV 147.330, was utilized by net control.  Participants of this years "Goblin Patrol" include Don VE3RM, who again did a superb job as net control. In Alfred Ontario, neighbourhood patrols were conducted by Mike VE3IPC and George VA3SUS.  In Rockland Ontario neighbourhoods were patrolled by Norm VA3NPL, Chris VA3NKE, James VA3JRP, Allan VA3ONN, and Jim VA3KV.  During the course of the evening Clarence-Rockland By-Law Enforcement officers asked for additional assistance to keep an eye on municipal park facilities where it was anticipated that graffiti attacks may take place.   By and large there were no major problems reported during this year’s Goblin Patrol.
+*Submitted by Acting EC Jim VA3KV for EC Lance VA3LP.
+===================================================================
+
+The Renfrew County East (RCE)-ARES Group has had a quiet month for October.  The group’s EC Ron, VE3JRN is progressing well after his knee replacement and is getting around a lot better.  AEC Jim, VA3JER checked In with the Almonte group net for the province SET and will be attending a SET with the Renfrew County West ARES Group on the first of November.  More on that in Novembers report as this will be a good learning experience for both the EC and AEC. 
+* Submitted by AEC Jim, VA3JER.
+==============================================================
+
+The Renfrew County West (RCW)-ARES Group was requested once again by the Pembroke Police to provide the Goblin and Halloween patrols. In the past, one of our group members acted as Net Control and sat with the Police dispatcher to link the Police and ARES Comms.  Since last Halloween, Pembroke has outsourced dispatch to Owen Sound. To provide the Comms link, one of the Police officers reactivated the old dispatch station in Pembroke.  Fred, VA3FPB operated the amateur radio station at old Police dispatch center.  Participants were; AEC Dale Va3DNA, AEC George VE3GPD and Dom VE3DGZ were on patrol.
+
+On Nov. 1st there will be a table top exercise of part of the Laurentian Hills / Deep River Nuclear Emergency Plan. We will have 4 sites operational with voice and packet station using Outpost.
+============================================================
+
