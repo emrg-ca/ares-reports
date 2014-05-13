@@ -1,0 +1,73 @@
+EMRG is also known as Ottawa ARES, two names, one group, one purpose.  The two
+names can be a bit confusing for new EMRG members, so hopefully this note will
+help clear up the naming and the ARES relationship.
+
+ARES (Amateur Radio Emergency Service) provides a common look and feel for
+volunteer Amateur radio emergency communications groups across the country. In
+Canada, ARES is administered by Radio Amateurs of Canada (RAC). RAC does not
+assign ARES groups, rather an EC (Emergency Coordinator) is appointed for an
+area. The EC is responsible for establishing and maintaining clients,
+partnerships, and a group of amateurs that will support him/her in providing
+communications for those clients. ARES groups exist at a local level, to
+support local needs. The responsibility and authority in ARES is at the local
+EC level. The other levels in ARES above the EC are there to provide
+administrative and organizational support.
+
+Through Mutual Aid, ARES groups work together to link wider areas, and to
+provide additional resources to each other. Eastern Ontario has an excellent
+Mutual Aid program, with yearly meetings that keep improving on the
+relationships and plans. It is recognized that no ARES group can sustain a
+deployment for very long, using only it's own members, so Mutual Aid is a
+requirement, not an option.
+
+In Ottawa, EMRG has existed in different forms, over many years. In 1999 RAC
+requested that the EMRG Team Leader accept the ARES EC appointment for Ottawa,
+which would make EMRG an ARES group. There was a move to expand the ARES name
+in Ontario at the time and RAC HQ had now moved to Ottawa, so it would look
+better if the local volunteer group was an ARES group. The idea was
+investigated and the EMRG management team accepted the idea, so EMRG then had
+two names, EMRG and Ottawa ARES. The original EMRG name was kept since all our
+agreements use the EMRG name and our group was known as EMRG for a long time.
+
+While most ARES groups support a local Municipality, the ARES group at
+Emergency Management Ontario (EMO) headquarters in Toronto supports a
+Provincial organization rather than a geographical area. The relationship
+between Ottawa ARES and EMO ARES is the same as with other ARES groups. Through
+Mutual Aid, the two groups would work to support the end goal, which would be
+communications between the City of Ottawa and the Provincial Emergency
+Operations Centre in Toronto.
+
+Communications with EMO is no more important than communications within the
+City of Ottawa, or with neighbouring ARES groups. Local information must be
+collected and reviewed in order to understand the local situation, so there
+will be information to exchange with EMO. EMO ARES will request Situation
+Reports (SitReps) directly from local Amateurs during an emergency. This is a
+practice that EMRG and the City of Ottawa do not support, so EMRG members are
+asked not to provide these reports.  Only the City of Ottawa can speak for
+conditions in the City.
+
+Based on the low probability of losing long distance communications, the
+alternate local phone service arrangements implemented by the City, plus the
+option to use satellite phones, it is unlikely that the City of Ottawa would
+ever require EMRG to provide communications to EMO in Toronto. If EMRG was
+requested to provide communications, it would use the shortest radio path
+possible, meaning that VHF radio would be used to reach a station that has
+working phone service, either within the City, or in a neighbouring
+Municipality. If there is no VHF radio option, then HF would be used, through a
+home HF Relay station.
+
+While ARES client agreements are created at a local level, RAC has a signed MOU
+with the National Red Cross. This is a symbolic agreement, since the actual
+interaction and support between ARES and Red Cross is at the local level. Local
+ARES groups like EMRG are responsible to build a relationship with their local
+Red Cross. Without the local relationship, the National MOU is just a piece of
+paper.
+
+Hopefully this helps define the basics of ARES and EMRG. If you have any
+questions, please feel free to send them.
+
+Regards
+Peter - VE3BQP
+
+Team Leader -Emergency Measures Radio Group Emergency Coordinator (EC)
+-Ottawa ARES
