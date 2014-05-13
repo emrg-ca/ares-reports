@@ -1,0 +1,53 @@
+﻿- Seaway/Capital-ARES District DEC report April-2009 -
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of Prescott-Russell & of Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Because the Cornwall ARES group had earlier discovered that having the R.C. amateur radio equipment in the same room as the main electrical panel violated electrical regulations.  As a result the relocation of the equipment at the Cornwall Red Cross building will be completed shortly. 
+- We have received the parts to fix the Cornwall Fire hall’s DX88 HF antenna, which blew down in a 100MPH+ windstorm in January. This will be fixed soon also, with modifications to protect the antenna from failing again. 
+- Two Cornwall ARES members, Doug - VE3HTR and Alain - VA3PWZ attended the three day Basic Emergency Management course given recently by Cornwall & SDG Emergency Management teams and came away well informed and enthusiastic. Doug commented that he was surprised by the very high regard that ARES is held in by both Ontario EMO and the Municipal Emergency Management officials. We have a lot to live up to. They are depending on us in a big way so we have to be READY when we are needed.
+
+Number of Registered Stations: 10
+Number of Net Sessions, Drills or Tests This Month: 1
+
+
+
+The Ottawa [EMRG] ARES group participated in District ARES meeting and tabletop exercise. The leadership team learned a lot from the exercise, which focused on testing the Mutual Aid between our groups. Some lessons learned were;
+a) First shift will be up to 20 hours, with next shift hopefully 12 hours and then no shift over 8 hours.
+b) IMS structure works well for ARES. 
+c) Providing people for permanent sites (EOC, NCS, Red Cross, Community Services) as part of first shift and half the people for a second shift will probably consume all our members.
+d) We need to develop some simple checklists to help make it easier to manage resources in an emergency. The ARES group needs to decide in advance which positions can use a ‘walk in’ volunteer, which positions need group members and which ones can use Mutual Aid partners.
+- Ottawa ARES just introduced a new position called ‘ARES Liaison’. This is part of ongoing efforts to distribute the work of running the group. Tyler Tidman (VA3DGN), a new ham and a new member of our group volunteered and is now getting up to speed. The Liaison is responsible for being the interface between our ARES group and the neighboring ARES groups for all ongoing activities, and with our District Mutual Aid development. The Liaison will also be responsible to define the role of Liaison in the deployment structure, where the Liaison is responsible for contacting other ARES groups for Mutual Aid. 
+
+Number of Registered Stations: 50
+Number of Net Sessions, Drills or Tests This Month: 1
+
+
+- The LNL-ARES group held their monthly meeting at the Gore Street Grill.
+EC Barrie - VE3BSB and others have been working with the students at St. John's Catholic School in Perth, in preparation for the launch of two high altitude balloons on May 9th. The students have been given the responsibility of working on different phases of the program.  
+- VE3BSB and VE3VY attended the District Mutual Aid conference in Ottawa and submitted their suggestions on the new protocol. 
+- The group was invited to participate in Safety Day at the Crystal Palace in Perth on April 25th. This event was organized by the Emergency Coordinator of Lanark County and included all of the local First Responders. The event was held in conjunction with the Festival of the Maples. A display of our Mobile Command Post, Auxiliary power/tower trailer, and tent shelter was set up. Helping out were VE3BSB, VE3XNT, VE3PUX, VE3GXW, VE3KAI, VE3BMZ, VE3SMM, VE3LWX, VE3BNZ & VE3VY. 
+
+Number of Registered Stations: 51
+Number of Net Sessions, Drills or Tests This Month: 5
+
+
+
+- The Renfrew County West (RCW) ARES group’s leadership team attended the April 23rd and 24th, Emergency Preparedness College course in Ottawa.  AEC Dale VA3DNA, AEC George VE3GPD and EC Bob VE3YX helped provide the Amateur Radio volunteer component of the college’s exercise scenarios.   Amateur Radio emergency communications is always part of the training that is designed for municipal officials and emergency responder officials, who come from all parts of Canada, that are given at the Canadian Emergency Management College in Ottawa. It was the first time for us to attend and participate, which was in response to the appeal that Mike VE3IPC, DEC for the Seaway/Capital ARES District sent out by e-mail a few months ago, for ARES leadership teams to participate in these exercises.  We were mentored by regular participants; Mike VE3FFK (coordinator and liaison), Joe VE3EUS and Paul VE3PC.  Our ARES DEC also participated with us for both days and had been there on a few occasions in the past.
+- The municipal and or county students began their course on Tuesday April 21st. Thursday the 23rd was the first of a two daylong exercise. Most of their communications were done by phone, but some were by FAX. The Hams did the message FAXing between the two exercise activated EOCs and the Exercise Simulation coordinators and here is why. When the scenario dictated that
+the phones went down, all the messages were passed by the Ham Radio ops that were set up near the fax machine. The time compressed nature of the exercise however prevented all the messages from being passed as voice formal messages, so the (magic cell) FAX machine was used as ‘radio’ for some of them. On Friday the 24th, a different scenario was executed for the students of both EOCs who on this second day now had to swap with different responding roles.
+- The Amateur (Ham) Radio participation in the two scenarios gave the emergency preparedness students an opportunity to get an inkling of the services the Hams could provide. It also gave us an opportunity to see two different exercise other than the local Nuclear Plan exercises that we have been involved with in the past in Renfrew County. We all enjoyed the experience, and plan to do it again in the fall. We will also encourage other members of our ARES group to take advantage of this unique and charged opportunity.
+
+Number of Registered Stations: 23
+Number of Net Sessions, Drills or Tests This Month: 6
+
+PR-ARES = 29
+Cornwall = 10
+Ottawa = 50
+LNL-ARES = 51
+RCW-ARES = 23
+TOTAL ARES population = 163
+
+ARES Nets & ARES exercises total = 13
+
+
+

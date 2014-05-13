@@ -3,17 +3,21 @@ SHELL := /bin/bash
 .PHONY : all
 all :
 
-%.pdf : %.txt
+%.txt : %.pdf
 	@pdftotext $^
 
-%.odt : %.doc
+%.txt : %.odt
 	@libreoffice --headless --convert-to txt:Text $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
 
-%.doc : %.txt
+%.txt : %.rtf
 	@libreoffice --headless --convert-to txt:Text $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
 
-%.docx : %.ppt
+%.txt : %.doc
+	@libreoffice --headless --convert-to txt:Text $^ \
+  "-env:UserInstallation=file:///tmp/libreofficebug"
+
+%.txt : %.docx
 	@libreoffice --headless --convert-to txt:Text $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
