@@ -1,43 +1,140 @@
 ﻿Seaway/Capital-ARES District’ DEC report Jan-2010
-Counties of Renfrew, of Lanark, of Leeds-Grenville, of Prescott-Russell & of Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
+
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of Prescott-Russell & of
+Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- The Cornwall ARES group on January 29-10 attended the quarterly meeting of the Cornwall Emergency Management Committee meeting.  The group’s EC Earle - VE3IMP & AEC Doug  (VE3HTR – tech Advisor) represented ARES at that meeting.  EC Earle provided a short overview of the technical difficulties of using Amateur Radio to help with the recent earthquake
-disaster in Haiti and the need for us to be “close to the action” in order to be in a better position to help provide communications services during an emergency.  ARES representatives are being offered seats on the Basic Emergency Management course.  The course is planned for March 29-31, 2010.  
-- Cornwall ARES is maintaining a close association with SVARC and at their meeting the EC provided a short ARES update to club members on Jan. 27, 2010.
-- During the Haitian disaster Official ARES bulletins asking each radio amateur to leave the assigned frequencies clear were e-mailed to each amateur in the Stormont ,Dundas and Glengarry area and the OBs continue to be read at net time by the EC or AEC on Mondays at 7:00 PM on the SVARC’s local 2-Meter net.  
-- The group provided the City’s Emergency Management and Community Safety Coordinator an estimate to replace the defective cable and conduit in the EOC.  Commercial Tenders to have this cable replaced is in progress.
-- The Cornwall Civic Complex which is Cornwall City’s planned Evacuation Centre has had a VHF/UHF Jetstream (JTB-2) antenna installed on the roof years ago.  The ARES group finally located the RF feed line which was in an office in the southwest corner of the admin office. Tests from this site as well as that from the Red Cross and the City Hall are being planned for April 2010.  Plans for the Civic Complex site included a ''passive repeater'', i.e. a dual band (mobile) antenna on the ceiling of the hockey arena connected to another JTB-2 VHF/UHF antenna on the roof to improve access to the VE3SVC RPT from the arena floor using 2M HTs.  The ARES EC, with the aid of his AEC Technical Advisor (Doug), hope to shortly make these plans a reality.
-- As a result of the EC’s presentation to the club, EchoLink is being considered as another alternate method of passing ARES traffic during an emergency, in addition to the IRLP.
-- The Cornwall ARES EC is planning an ARES training course for current and new potential ARES volunteers to start in late March 2010.
-- The SVARC has established an annual award in memory of deceased Cornwall ARES EC Tim Smith (VE3HCB) who did so much for local ARES.  Sadly, Tim passed away on September 3, 2009.  On his behalf Tim’s widow – Wilma, VA3WMS will be presented this award at the next SVARC meeting on February 26, 2010.
-- The ARES EC Earle - VE3IMP & AEC Doug - VE3HTR have revived an initiative to install a VHF station by visiting the Cornwall Community Hospital (CCH) last Friday and met with Alan Greig from the hospital in attempts to obtain a room and the logistics required to establish such a station there.  An HF antenna installation while not initially planned is being considered.
+- The Cornwall ARES group on January 29-10 attended the quarterly meeting of
+  the Cornwall Emergency Management Committee meeting.  The group’s EC Earle -
+VE3IMP & AEC Doug  (VE3HTR – tech Advisor) represented ARES at that
+meeting.  EC Earle provided a short overview of the technical difficulties of
+using Amateur Radio to help with the recent earthquake disaster in Haiti and
+the need for us to be “close to the action” in order to be in a better position
+to help provide communications services during an emergency.  ARES
+representatives are being offered seats on the Basic Emergency Management
+course.  The course is planned for March 29-31, 2010.  
+
+- Cornwall ARES is maintaining a close association with SVARC and at their
+  meeting the EC provided a short ARES update to club members on Jan. 27, 2010.
+
+- During the Haitian disaster Official ARES bulletins asking each radio amateur
+  to leave the assigned frequencies clear were e-mailed to each amateur in the
+Stormont ,Dundas and Glengarry area and the OBs continue to be read at net time
+by the EC or AEC on Mondays at 7:00 PM on the SVARC’s local 2-Meter net.  
+
+- The group provided the City’s Emergency Management and Community Safety
+  Coordinator an estimate to replace the defective cable and conduit in the
+EOC.  Commercial Tenders to have this cable replaced is in progress.
+
+- The Cornwall Civic Complex which is Cornwall City’s planned Evacuation Centre
+  has had a VHF/UHF Jetstream (JTB-2) antenna installed on the roof years ago. 
+The ARES group finally located the RF feed line which was in an office in the
+southwest corner of the admin office. Tests from this site as well as that from
+the Red Cross and the City Hall are being planned for April 2010.  Plans for
+the Civic Complex site included a ''passive repeater'', i.e. a dual band
+(mobile) antenna on the ceiling of the hockey arena connected to another JTB-2
+VHF/UHF antenna on the roof to improve access to the VE3SVC RPT from the arena
+floor using 2M HTs.  The ARES EC, with the aid of his AEC Technical Advisor
+(Doug), hope to shortly make these plans a reality.
+
+- As a result of the EC’s presentation to the club, EchoLink is being
+  considered as another alternate method of passing ARES traffic during an
+emergency, in addition to the IRLP.
+
+- The Cornwall ARES EC is planning an ARES training course for current and new
+  potential ARES volunteers to start in late March 2010.
+
+- The SVARC has established an annual award in memory of deceased Cornwall ARES
+  EC Tim Smith (VE3HCB) who did so much for local ARES.  Sadly, Tim passed away
+on September 3, 2009.  On his behalf Tim’s widow – Wilma, VA3WMS will be
+presented this award at the next SVARC meeting on February 26, 2010.
+
+- The ARES EC Earle - VE3IMP & AEC Doug - VE3HTR have revived an initiative to
+  install a VHF station by visiting the Cornwall Community Hospital (CCH) last
+Friday and met with Alan Greig from the hospital in attempts to obtain a room
+and the logistics required to establish such a station there.  An HF antenna
+installation while not initially planned is being considered.
 
 Number of Registered Stations: 10
 Change Since Last Report: 4
 
-- The NEW Renfrew County East (RCE)-ARES group headed by the new group coordinator, Paul – VA3COG held its first open ARES meeting to all amateurs in the eastern half of the county to attend the ARES presentation that was given to attendees by the DEC of Eastern Ontario.  Given at the Horton Fire hall on January 23rd, the Power Point presentation was aimed at giving a good understanding of what ARES is all about, what we do and why, and that having a ham radio certificate and knowing how to use a PTT was but the entry level to an ARES group.  The other main point was to stress the value of the ARES training course if one was to be an effective member, and have a good group readiness level which includes ‘on air’ and deployed exercises.
-- The idea for this being open to all radio amateurs was to recruit for members from the pool of the radio amateur community, to complement the new leadership team. There was nearly 25 attendees and about 15 in all that filled in the RCE-ARES membership form.
-- To follow this up there will be is a first ARES general meeting, an ARES training course in the spring and later test the training with a deployed exercise.
-- There was a brief meeting between the leadership team of both the RCE & the RCW ARES groups to discuss having a single ARES weekly net shared by both groups and to have joint training and joint exercises when initiated by either group.  One county, two groups working together to serve each their respective communities, and prepared to answer the call for mutual aid by either group.
+- The NEW Renfrew County East (RCE)-ARES group headed by the new group
+  coordinator, Paul – VA3COG held its first open ARES meeting to all amateurs
+in the eastern half of the county to attend the ARES presentation that was
+given to attendees by the DEC of Eastern Ontario.  Given at the Horton Fire
+hall on January 23rd, the Power Point presentation was aimed at giving a good
+understanding of what ARES is all about, what we do and why, and that having a
+ham radio certificate and knowing how to use a PTT was but the entry level to
+an ARES group.  The other main point was to stress the value of the ARES
+training course if one was to be an effective member, and have a good group
+readiness level which includes ‘on air’ and deployed exercises.
+
+- The idea for this being open to all radio amateurs was to recruit for members
+  from the pool of the radio amateur community, to complement the new
+leadership team. There was nearly 25 attendees and about 15 in all that filled
+in the RCE-ARES membership form.
+
+- To follow this up there will be is a first ARES general meeting, an ARES
+  training course in the spring and later test the training with a deployed
+exercise.
+
+- There was a brief meeting between the leadership team of both the RCE & the
+  RCW ARES groups to discuss having a single ARES weekly net shared by both
+groups and to have joint training and joint exercises when initiated by either
+group.  One county, two groups working together to serve each their respective
+communities, and prepared to answer the call for mutual aid by either group.
 
 Number of Registered Stations: Approx. 15
 Number of Net Sessions, Drills or Tests This Month: N/A
 
-- The Renfrew County West (RCW)-ARES group had 4 of its members (AEC Richard, VA3BIX, AEC Dale, VA3DNA, Rob,VA3AGN and group EC Bob VE3YX) on January 23rd attend the ARES presentation given in Horton TWP by DEC Mike VE3IPC, which served as a recruitment meeting for the RCE-ARES group.  Discussion was held with RCE-ARES group EC Paul, VA3COG about the interaction between the 2 groups. We agreed to continue with a common weekly net and common
-web site.  We plan to combine the groups for the ARES training course and of course, members from either group are encouraged to participate in any events conducted by either group.
-- The RCW-ARES group is preparing for the Silver Spoon Ski Race, Feb. 6th in Deep River. That is followed by the Eastern Ontario Secondary School Athletics Association Ski Race in Pembroke on Feb. 10th.
+- The Renfrew County West (RCW)-ARES group had 4 of its members (AEC Richard,
+  VA3BIX, AEC Dale, VA3DNA, Rob,VA3AGN and group EC Bob VE3YX) on January 23rd
+attend the ARES presentation given in Horton TWP by DEC Mike VE3IPC, which
+served as a recruitment meeting for the RCE-ARES group.  Discussion was held
+with RCE-ARES group EC Paul, VA3COG about the interaction between the 2 groups.
+We agreed to continue with a common weekly net and common web site.  We plan to
+combine the groups for the ARES training course and of course, members from
+either group are encouraged to participate in any events conducted by either
+group.
+
+- The RCW-ARES group is preparing for the Silver Spoon Ski Race, Feb. 6th in
+  Deep River. That is followed by the Eastern Ontario Secondary School
+Athletics Association Ski Race in Pembroke on Feb. 10th.
+
 - The IRLP node (2520) on VE3NRR RPT in Pembroke is back in service. All going
-well, the node will be connected to the Ontario reflector for our ARES net
-on Wednesdays at 21:00 Eastern.
-- RCW-ARES member Don, VE3IGN also attended the meeting of the Renfrew County East group.  Don is in the process of moving to Ottawa area; however he wishes to remain a member of the West group.
+  well, the node will be connected to the Ontario reflector for our ARES net on
+Wednesdays at 21:00 Eastern.
+
+- RCW-ARES member Don, VE3IGN also attended the meeting of the Renfrew County
+  East group.  Don is in the process of moving to Ottawa area; however he
+wishes to remain a member of the West group.
 
 Number of Registered Stations: 23
 Number of Net Sessions, Drills or Tests This Month: 4
 
-- The Ottawa ARES group was informed just recently that EC Peter Gamble, VE3BQP will be stepping down officially latest June 1st 2010.  The ARES [EMRG] group is now tasked with finding a suitable replacement.  Peter will be staying on as a member and will work with the new EC to facilitate the transition and be up to speed, when that time comes.
+- The Ottawa ARES group was informed just recently that EC Peter Gamble, VE3BQP
+  will be stepping down officially latest June 1st 2010.  The ARES [EMRG] group
+is now tasked with finding a suitable replacement.  Peter will be staying on as
+a member and will work with the new EC to facilitate the transition and be up
+to speed, when that time comes.
 
-- As the Eastern Ontario DEC, I would like to take this opportunity to say here that Ottawa ARES EC Peter Gamble has done a great deal of work (with the help of his team over the years) in bringing the Ottawa ARES [EMRG] group to the state it now is.  I have watched the EMRG group evolve over the many years and mature to what is now a well established, dedicated and organized Emcomm group.  Peter took over the group for a very long time, back to the days when he took over the reins from EC Joe McPherson after he had dropped the large group suddenly.  Peter pick up the pieces (when no one else would) and moulded it into the group it now is.  Peter has my congratulation for a work well done and much thanks for sticking with it all these years (what - 15 years now?).  I am very glad he will be staying active with the group once he steps down officially.  It will be sure strange and have to get used to not seeing Peter as the group leader.
- - I must also add here that my A/DEC Lance, VA3LP & myself truly appreciate very much all the support he have given to the Seaway/Capital ARES District (Eastern Ontario) in hosting many of our yearly ARES-District meetings and provided us with greatly valued comments and inputs after each yearly meeting.  That did help in giving us some guidance in direction.  
-~I will keep you all updated. 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- As the Eastern Ontario DEC, I would like to take this opportunity to say here
+  that Ottawa ARES EC Peter Gamble has done a great deal of work (with the help
+of his team over the years) in bringing the Ottawa ARES [EMRG] group to the
+state it now is.  I have watched the EMRG group evolve over the many years and
+mature to what is now a well established, dedicated and organized Emcomm
+group.  Peter took over the group for a very long time, back to the days when
+he took over the reins from EC Joe McPherson after he had dropped the large
+group suddenly.  Peter pick up the pieces (when no one else would) and moulded
+it into the group it now is.  Peter has my congratulation for a work well done
+and much thanks for sticking with it all these years (what - 15 years now?).  I
+am very glad he will be staying active with the group once he steps down
+officially.  It will be sure strange and have to get used to not seeing Peter
+as the group leader.
+
+ - I must also add here that my A/DEC Lance, VA3LP & myself truly appreciate
+very much all the support he have given to the Seaway/Capital ARES District
+(Eastern Ontario) in hosting many of our yearly ARES-District meetings and
+provided us with greatly valued comments and inputs after each yearly meeting.
+That did help in giving us some guidance in direction.  

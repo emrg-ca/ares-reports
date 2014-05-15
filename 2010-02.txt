@@ -1,61 +1,264 @@
-Amateur Radio Emergency Service
-Ontario Section
-RAC Field Organization, Monthly EC Report
+﻿Seaway/Capital-ARES District’ DEC report February-2010
 
-Sent: March 2, 2010 for the Month of February, 2010
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of Prescott-Russell & of
+Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
 
-Sent by: Tyler Tidman   Callsign: VA3DGN
-         E-Mail: va3dgn@rac.ca
-         EC for Ottawa ARES in the Capital ARES District
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- The Renfrew County West ARES group (RCW-ARES) on Feb 6th provided one timing
+  and one safety checkpoint for the annual Deep River Silver Spoon Ski Race.
+This year, the race was run on the Deep River Golf Course. About two weeks
+before the race, Lachran Cranswick, a scientist from AECL who lived in Deep
+River went missing. During the search, the OPP drove all over the ski trails
+with snowmobiles while the temperature was above freezing. During the search,
+the temperature dropped and the ski trails froze with the resulting ruts. The
+ski club did not dare to use their new groomer on the ice ruts, so the trails
+were not usable for the race. A trail was laid out on the golf course and the
+skiers would do multiple loops depending on the distance they were to do. We
+required only one checkpoint for timing where we timed the skiers on each pass.
+AEC George VE3GPD and EC Bob, VE3YX manned the checkpoint while Norm, VE3UE
+operated the base station. We also had a safety checkpoint at the furthest
+point on the track from the start/finish point. Chris, VA3CRL and Bernie,
+VA3SUR were at the safety checkpoint with Mike, VE3ODJ at the base. As in past
+years, one station at the base was on two meters and one on 440. Since the base
+station was adjacent to the golf course, we didn't need our high mast for the
+antennas which made setup quicker this year. We tried a third link this year
+with AEC Dale, VA3DNA at the start/finish line and Yvonne, VE3RYA at the base.
+They tried to independently time the finishes, but found it too frantic. The
+ski club uses about 7 people to time the finishes.  We hope to be back on the
+trails for next year's race.
+
+- The RCW-ARES group on Wednesday February 10th provided safety communication
+  for the Eastern Ontario Secondary School Athletics Association (EOSSAA)
+Cross-County Ski Championships for the fourth year.  EC Bob (VE3YX) and Yvonne
+(VE3RYA) manned the base station set up in a trailer near the starting area,
+while AEC Dale (VA3DNA) took to the field to send back skier progress reports. 
+The event saw approximately 125 skiers pass through the checkpoint as the
+skiers covered a 4, 6 or 8 kilometer course.  The event ran smoothly but one
+skier was unaccounted for after a reasonable time had passed.  This information
+was passed to event official and a quick search of the start/finish area
+revealed that the skier had collected the assigned bib but chose not to start
+the race.  In a letter received from the EOSSAA Convener following the event,
+RCW-ARES was thanked for its continued support of the event and noted the
+important safety role we played for the athletes and the piece-of-mind provided
+to the coaches.
+
+Number of Registered Stations: 23
+Number of Net Sessions, Drills or Tests This Month: 4
+
+-The Ottawa ARES group [EMRG] held their general meeting on February 27th at
+the Ottawa Fire Service Training Centre.  Please check out the slides of the
+meeting presentation soon to be posted on our web site soon at http://emrg.ca.  
+
+- Harold Hamilton (VA3UNK) presented a summary of the very successful Canadian
+  Ski Marathon--February 2010 marked the 44th year for this event--and told us
+about some of the difficulties in trying to keep track of many hundreds of
+skiers in hilly, treed areas with little or no cell phone coverage.  Many ARES
+[EMRG] members regularly volunteer as radio ops at this event.  Much of the
+organization for radio comms at the Canadian Ski Marathon would not be possible
+without the efforts of:  Harold Hamilton (VA3UNK), Clayton Jenkins (VE3CBJ),
+Rick Furniss (VE3IHI), Mike Kelly (VE3FFK), Richard Hagemeyer (VE3UNW), Dave
+Harris (VE3KMV) and many, many others.
+
+- Several new self-directed study modules were presented at the meeting. These
+  modules are now available for download from the EMRG web site at
+http://emrg.ca.  The modules available now are:  The Four Cs of Communications,
+Crossband Repeaters, Logging, Message Handling, Introduction to CTCSS and
+Personal Preparedness.  We encourage all Emcomm radio ops to read these at
+their leisure and would love to hear from others who wish to write new modules
+or offer valuable improvements.
+
+- Jim Montgomery from the City of Ottawa's Office of Emergency Management also
+  gave a well received presentation and reminded us that the City knows who we
+are and that they want very much to work with us.
+
+- ARES EC Peter Gamble (VE3BQP) is stepping down as team leader of EMRG after
+  15 years; Thanks, Peter, for your fabulous work.  The replacing EC is Richard
+Hagemeyer (VE3UNW) and he will be taking over this role from Peter.  As before,
+the team leader of EMRG may be reached at <teamleader@emrg.ca>.  Peter will
+continue to be a valuable part of EMRG but will now focus more on the roles of
+liaison with the City of Ottawa and with technical solutions for EMRG's
+permanent radio installations at several key locations in City of Ottawa
+official buildings and at the City of Ottawa EOC.
+
 Number of Registered Stations: 50
-Change Since Last Report: 0
-Local ARES Net Name: 
-Net Frequency:  MHz
-
-Section ARES Net Name: 
-Net Frequency:  MHz
-
-NTS Liaison Maintained With: 
-Packet Liaison Maintained With: 
-
-Number of Net Sessions, Drills or Tests This Month: 0
-Number of Formal Traffic Messages Sent: 0
 Number of Formal Traffic Messages Received: 0
 
-Comments:
+- The Cornwall ARES group will have three ARES representatives (Earle VE3IMP),
+  AEC Joe (VE3ADB) and AEC Jim (VE3AFV) will take the Basic Emergency
+Management (BEM) course planned for March 29-31, 2010.   During the regular
+meeting of the Seaway Valley Amateur Radio Club (SVARC) Inc. and on the club's
+Monday evening nets, this course offering was made to other HAMS in the area.
 
- The Ottawa ARES group, a.k.a. EMRG or the ''Emergency Measures Radio Group'',
-held a general meeting on February 27th at the Ottawa Fire Service Training
-Centre.  We will be posting the slides from this meeting presentation on our
-web site soon at http://emrg.ca.
+- Close association with the Seaway Valley Amateur Radio Club (SVARC) Inc.
+  continues.  EC Earle (also is club Pres.) provided a short ARES update to the
+club members at their meeting of March 3, 2010 which replaced the meeting of
+February 24, 2010.
 
-Harold Hamilton (VA3UNK) presented a summary of the very successful Canadian
-Ski Marathon--February 2010 marked the 44th year for this event--and told us
-about some of the difficulties in trying to keep track of many hundreds of
-skiiers in hilly, treed areas with little or no cell phone coverage.  Many EMRG
-members regularly volunteer as radio operators at this event.  Much of the
-organization for radio communications at the Canadian Ski Marathon would not be
-possible without the efforts of: Harold Hamilton (VA3UNK), Clayton Jenkins
-(VE3CBJ), Rick Furniss (VE3IHI), Mike Kelly (VE3FFK), Richard Hagemeyer
-(VE3UNW) and many, many others.
+- Canadian Emergency Management College course in Ottawa - March 11 & 12, 2010
+  Jim (VE3AFV), AEC has agreed to take this course with possibly others.
 
-Several new self-directed study modules were presented at the meeting.  These
-modules are now available for download from the EMRG web site at
-http://emrg.ca.  The modules available now are:  The Four Cs of Communications,
-Crossband Repeaters, Logging, Message Handling, Introduction to CTCSS and
-Personal Preparedness.  We encourage anyone to read these at their leisure and
-would love to hear from others who wish to write new modules or offer valuable
-improvements.
+- Regarding the upcoming Seaway/Capital-ARES District meeting - April 17, 2010
+  our ARES representatives are planning to attend.
 
-Jim Montgomery from the City of Ottawa's Office of Emergency Management also
-gave a presentation and reminded us that the City knows who we are and that
-they want very much to work with us.
+- The Official ARES Bulletins continue to be read by the EC and AECs on Mondays
+  at 7:00 PM local on the club’s local 2-Metre net on VE3SVC (147.180+).  
 
-Peter Gamble (VE3BQP) is stepping down as team leader of EMRG after 15 years;
-Thanks, Peter, for your fabulous work.  Richard Hagemeyer (VE3UNW) will be
-taking over this role from Peter.  As before, the team leader of EMRG may be
-reached at <teamleader@emrg.ca>.  Peter will continue to be a valuable part of
-EMRG but will now focus more on the roles of liason with the City of Ottawa and
-with technical solutions for EMRG's permanent radio installations at several
-key City of Ottawa official buildings and at the City of Ottawa Emergency
-Operations Centre. 
+- Regarding the City of Cornwall EOC, there has been no further action by the
+  City on the tenders to have the defective cables replaced.  ARES
+representatives have gone as far as they can to have these cables repaired.
+
+- New Emergency Management Building - A new building on Campbell Street in
+  Cornwall is planned.  To attempt to ensure an adequate place for ARES, EC
+Earle met with Bradley Nuttley, Emergency Management & Community Safety
+Coordinator for Cornwall, Stormont Dundas & Glengarry in early February to
+review the building plans and formwall that provide a set of requirements.
+
+- Radio Comm tests from the Cornwall Civic Complex, the 2nd Street Firehall,
+  the Red-Cross and the City Hall are being planned for April 10, 2010. In
+preparation EC Earle is planning an ARES training for current and new ARES
+volunteers to start in late March 2010.
+
+- DEC / EC / AEC Meeting After weeks of e-mailing EC Earle (VE3IMP), AEC Joe
+  (VE3ADB) and AEC Jim (VE3AFV) held a 1-hour productive meeting with DEC –
+Mike Hickey (VE3IPC) in St. Isidore on February 13, 2010.
+
+- The ‘Tim Smith’ Memorial Award meeting of March 3, 2010 (delayed from Feb.
+  24, 2010) the SVARC presented this award for the HAM of the Year to Tim’s
+widow, Wilma - VA3WMS.  During an emotional speech Wilma accepted the award on
+behalf of deceased EC & club Pres. Tim Smith.  
+
+- The Cornwall Community Hospital (CCH) - after weeks of planning the phone
+  line to the VE3SVC RPT was reinstated on March 3, 2010.  Thanks to Doug for
+making the reestablishment of the repeater’s ‘autopatch’ a reality again after
+several years.
+
+- Emergency Management & Community Safety in a presentation to SVARC, Bradley
+  Nuttley provided an informative session to the members of SVARC during their
+meeting of March 3, 2010.  Bradley’s focus was on earthquakes and how
+individual families can better prepare for an emergency.
+
+Number of Registered Stations: 10
+Number of Net Sessions, Drills or Tests This Month: 4
+
+The 44th Canadian Ski Marathon - Winter Field Day - Emcomm Boot Camp
+
+Amateur radio operators from Eastern Ontario and Western Quebec have provided
+communications for the Canadian Ski Marathon (CSM) since 1974. That’s 36 years
+of support.
+
+-The 44th Canadian Ski Marathon (see www.csm-mcs.com) on Feb 13&14-2010 was a
+big challenge, call it a Winter field Day, or Emcomm Boot camp, it was a two 16
+hour day operation well met, and took place in the mountain areas north of
+Montebello Quebec.  The course was very different from previous years, so
+people had to find their way, in the dark, to places they hadn't been to
+before, on poorly marked roads. The hams acted as the pathfinders for the other
+checkpoint volunteers, since they can be directed (or re-directed) from
+"headquarters". Once they get to their assigned locations, they have to set up
+in places where there is not much choice of specific location. They then have
+to establish reliable contact on a number of repeaters (primary and backup x
+2). Then they have to establish completely separate high quality simplex
+stations to be able to hear the sweep and patrol skiers. The patrol and sweep
+skiers need three qualifications, skiing ability, good first aid skills and an
+amateur radio licence. If you think that finding volunteer hams for a generic
+public service event is difficult, try finding a dozen with that combination.
+They typically use a few watts into a quarter wave antenna on their back, so
+maintaining contact through the hills and valleys is always difficult. Even
+those with the "soft" jobs in plush seats and warm operations centres have the
+challenge of getting the station on the air by 04:00. This is especially
+difficult after the previous day of pulling weak signals out of the noise while
+dealing with questions that come in the front door and maintaining liaison with
+the co-located military communications station. ~One example of Emcomm boot
+camp style public service was that at least one ham, Tyler - VA3DGN, who had to
+install a 30ft mast with an arrow type dual band J-pole antenna, and could not
+get into the primary RPT, and neither of the two secondary RPTs.  He had to get
+a 4 element 2m beam antenna atop the mast in order to communicate with the net
+control station.
+
+-One situation resulted in a 911 call for an ambulance. It was handled
+promptly, and according to procedures established as part of the communications
+protocol. Other skier evacuations and "situations" were handled as well
+practiced routine occurrences. The plans mostly worked. When they didn't, the
+‘back up’ plans were there to take up the load. 
+
+-Newcomers are paired with long time operators to lessen the steepness of the
+learning curve.  About 40 amateurs volunteer for this event every year (but
+there is always room for more). Most have already marked February 12/13 2011 on
+the calendar for the next one. ~How about you?
+
+- Organizers for all radio operations are: Harold Hamilton (VA3UNK) as Chief of
+  radio operations, Clayton Jenkins (VE3CBJ), Rick Furniss (VE3IHI), Mike Kelly
+(VE3FFK), Richard Hagemeyer (VE3UNW), Dave Harris (VE3KMV) and possibly others.
+
+- Amateur radio groups involved:
+Emergency Measures Radio Group / Ottawa ARES (provides equipment)
+Ottawa Amateur Radio Club (provides various hardware and logistical support)
+Prescott-Russell ARES
+West Island Amateur Radio Club
+Montreal Amateur Radio Club
+Individual amateurs not part of any group
+- Fixed Stations :
+Headquarters and net control at Montebello
+Lodging and backup net control at Papineauville
+Fixed location "out" stations:
+6 Checkpoints on each of two days (2 operators each)
+1 campsite  (1 operator)
+- Mobile stations:
+4 Area Safety vans on each of two days, each with one or two operators.
+4 operations vans on each of two days, each with one operator.
+
+Four CSM logistics vehicles use receivers only, and have to listen to net for
+updates.
+
+About a half dozen radio ops are needed Friday afternoon/ evening to set up.
+
+Repeaters used were VE2CRA, VE2RBH, VE2CRA/2, with VE2RM as a backup repeater,
+available but not used this year.
+
+- Components of the operation:
+
+1 Chief of radio operations, two days, about 5-6 safety/patrol skiers with
+their licence. A patrol skier is a skier who skis the course during the event.
+They have first aid skills and a radio. Their job is similar to that of a sweep
+skier, except that the sweep skier stays behind the last of the entrants, to
+ensure that no one is left out on the trail at the end of the day. The 763
+Communications Regiment runs some stations in hard to reach spots as part of
+their training. They have a representative at net control so we can keep each
+other informed of situations on the course.  NCS is on air about 04:00-20:00.
+The course is approx 150km in a big North-South loop starting and ending in
+Montebello QC. 
+
+- Typical problems reported:
+Checkpoints low on food / water / sand / propane.
+Skiers injured, requiring extraction from trail.
+Signs missing, road crossing problems.
+
+Busses missing, luggage missing, skiers separated from partner, dog lost down
+the trail.
+
+Safety snowmobile inoperative due to major gas tank leak, other equipment
+failures.
+
+Skiers taking wrong turn, ending up in the wrong place.
+One medical problem requiring ambulance transport.
+- Operators/ assignments
+
+VA3UNK radio1@admin2.ca (hamihar@gmail.com) chief of radio operations
+
+VA3DGN cp radio, VA3VXN cp radio, VE3HYS cp radio, VA3PAX cp radio, VA3BIT cp
+radio, VA3JME cp radio, lodging radio, NCS, VE3XRA cp radio, VE3CUZ lodging
+radio, NCS, VE3XGP NCS, VE3PUE NCS, VA3DRV NCS, VE3IHI Logistics, VE3ZTU Multi
+tasks, VE3FFK Admin radio, VE2STQ Admin radio, VA3PGY Admin radio, VE3BDC
+Safety radio, VA3KRT Campsite radio, VE3JMT Patrol/ Sweep radio, VE3TSD Patrol/
+sweep radio, VE2HMA cp radio, VE3SZR cp radio, VE3KMV Admin radio, VE3CBJ
+Safety radio, VE3UNW Safety radio, VE3IET cp radio, VE2AAY cp radio, VE3GJM
+Safety radio, VE3UMC Safety radio, VA2SLB Safety radio, VA3PJS Safety radio,
+VE3KIH Safety radio, VE2FFS Patrol/ sweep radio, VE3DW Safety radio, VA3JO
+Safety radio, VE3JKG Patrol/ sweep radio, VE2KHC Patrol/ sweep radio, VE3LGY
+Patrol / sweep radio, VA3NHK cp radio.  Hopefully everyone is listed.
+
+- So as you can see, this is a major yearly radio public service operation.
+  The organizers like to call this ‘Winter Field Day’, but this is a heck of an
+Emcomm exercise and could be said to be an ARES or Emcomm Boot Camp, though it
+is not an ARES operation as such. ~For more info, see TCA article – Mar 2008.
+Hats off to every radio ops that participated – well done – tres bien fait!!

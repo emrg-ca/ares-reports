@@ -1,33 +1,104 @@
 ﻿- June 2010 DEC report for SEAWAY~CAPITAL ARES Districts combined -
-Counties of Renfrew, of Lanark, of Leeds-Grenville, 
-of Prescott-Russell & of Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
+
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of Prescott-Russell & of
+Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- The Lanark North Leeds (LNL)-ARES group participated in the Annual
+  Ottawa/Kingston Cycle Tour on June 5th and 6th with The Ottawa Bicycle Club,
+Ottawa to Kingston cycle tour.  
 
-- The Lanark North Leeds (LNL)-ARES group participated in the Annual Ottawa/Kingston Cycle Tour on June 5th and 6th with The Ottawa Bicycle Club, Ottawa to Kingston cycle tour.  
-- Fifty amateurs took part including those from Ottawa, Almonte, Carleton Place, Perth, Merrickville, Westport and Kingston. Saturday saw one serious accident where a lady broke a collar bone, and had a head injury which required land ambulance transport to Perth and air ambulance to Ottawa.  As usual there were many calls for repairs, exhaustion, and other problems.  Sunday's relentless wet & cold weather caused chaos amongst a large segment of the 2000 plus riders.  Amateurs played a large and important role in minimizing what could have been a serious situation.  Many riders suffered from being wet and cold.  Others were suffering from hypothermia. Hundreds shivering, some crying at the North Crosby Recreation Hall that made it necessary to initiate action.  Riders had crowded into the recreation hall. Blankets and jackets were donated by a local non-amateur (Molly Li), and Doug VE3PJC a friend of Molly's.  Several buses had already been ordered from Kingston, but had not yet arrived. A call was made to a Westport bus company, who responded within 15 minutes and picked up about forty persons.  The Net Control Station at Westport Hill, manned by George VE3GWS, was going constantly with requests for pickups, repairs and other traffic.  Doug, a new amateur played a significant role in keeping some organization in the ongoing situation at North Crosby.  Both he and Molly transported riders and bicycles several times from south of Westport to Perth.  
-- The recreation hall had an event planned for noon and the riders had to be vacated.  Fortunately, contact was made with the President of the Royal Canadian Legion, just down the road, who graciously opened their doors and coffee to about 200 riders. AEC Norm - VE3VY who had been the other operator at the Control Station, was busy making contact with locals for buses and the Legion.  In the end seven buses were chartered for the ride home to Perth and Ottawa.  Transporting riders by bus was one problem; the other problem was transporting their bicycles.  In the end some of the riders organized their own rides home, with friends or family members.  It should be noted that although many riders were in need of help, many others continued their ride as planned.  
-- Many recommendations have been forthcoming, born out of the experience garnered.  EC Barrie - VE3BSB has come out with a plan to modify our existing mobile repeater so that it can be used to temporarily link with repeaters owned by others, in the region.  This would make it possible to establish communications over a much wider region than our existing network.  Because our monthly meeting was pre-empted by the cycle tour, an on-the-air meeting was held on Wednesday June 9th, our regular net night. A large number of amateurs reported with suggestions for improvements to our capabilities, in future events.
-- Field Day was organized by VA3KAI, five others took part including VE3PUX, VE3WSY, VE3PYG, VE3CGD and VE3PMA. The event took place at Conlon Farm in Perth. Total contacts made - 470, points 700.  Additional bonus points are yet to be calculated.  Breakdown of contacts was 10M SSB 3, CW 1, 15M SSB 22 CW 65, 20M SSB 70 CW 113, 40M SSB 110 CW 4, 80M SSB 35 CW 47. 73's
+- Fifty amateurs took part including those from Ottawa, Almonte, Carleton
+  Place, Perth, Merrickville, Westport and Kingston. Saturday saw one serious
+accident where a lady broke a collar bone, and had a head injury which required
+land ambulance transport to Perth and air ambulance to Ottawa.  As usual there
+were many calls for repairs, exhaustion, and other problems.  Sunday's
+relentless wet & cold weather caused chaos amongst a large segment of the 2000
+plus riders.  Amateurs played a large and important role in minimizing what
+could have been a serious situation.  Many riders suffered from being wet and
+cold.  Others were suffering from hypothermia. Hundreds shivering, some crying
+at the North Crosby Recreation Hall that made it necessary to initiate action.
+Riders had crowded into the recreation hall. Blankets and jackets were donated
+by a local non-amateur (Molly Li), and Doug VE3PJC a friend of Molly's.
+Several buses had already been ordered from Kingston, but had not yet arrived.
+A call was made to a Westport bus company, who responded within 15 minutes and
+picked up about forty persons.  The Net Control Station at Westport Hill,
+manned by George VE3GWS, was going constantly with requests for pickups,
+repairs and other traffic.  Doug, a new amateur played a significant role in
+keeping some organization in the ongoing situation at North Crosby.  Both he
+and Molly transported riders and bicycles several times from south of Westport
+to Perth.  
+
+- The recreation hall had an event planned for noon and the riders had to be
+  vacated.  Fortunately, contact was made with the President of the Royal
+Canadian Legion, just down the road, who graciously opened their doors and
+coffee to about 200 riders. AEC Norm - VE3VY who had been the other operator at
+the Control Station, was busy making contact with locals for buses and the
+Legion.  In the end seven buses were chartered for the ride home to Perth and
+Ottawa.  Transporting riders by bus was one problem; the other problem was
+transporting their bicycles.  In the end some of the riders organized their own
+rides home, with friends or family members.  It should be noted that although
+many riders were in need of help, many others continued their ride as planned.  
+
+- Many recommendations have been forthcoming, born out of the experience
+  garnered.  EC Barrie - VE3BSB has come out with a plan to modify our existing
+mobile repeater so that it can be used to temporarily link with repeaters owned
+by others, in the region.  This would make it possible to establish
+communications over a much wider region than our existing network.  Because our
+monthly meeting was pre-empted by the cycle tour, an on-the-air meeting was
+held on Wednesday June 9th, our regular net night. A large number of amateurs
+reported with suggestions for improvements to our capabilities, in future
+events.
+
+- Field Day was organized by VA3KAI, five others took part including VE3PUX,
+  VE3WSY, VE3PYG, VE3CGD and VE3PMA. The event took place at Conlon Farm in
+Perth. Total contacts made - 470, points 700.  Additional bonus points are yet
+to be calculated.  Breakdown of contacts was 10M SSB 3, CW 1, 15M SSB 22 CW 65,
+20M SSB 70 CW 113, 40M SSB 110 CW 4, 80M SSB 35 CW 47. 73's
 
 Number of Registered Stations: 55
 Number of Net Sessions, Drills or Tests This Month: 4
 
+- The Cornwall ARES group’s EC Earle – VE3IMP continues to provide short ARES
+  updates to the Seaway Valley Amateur Radio Club (SVARC) Inc. members at each
+of the club’s monthly meetings.  As the Club celebrated its 50th anniversary of
+existence on June 18, 2010, a Club-sponsored birthday party took place at
+Earle’s residence.  Party attendees were 9 SVARC members; John (VE3XAM), Ed
+(VE3FHI), Renney (VE3AAJ), Patricia (VA3PUR), Jim (VE3AFV), Doug (VE3HTR), Bert
+(VA3TL), Joe (VE3ADB) and of course EC Earle (VE3IMP) along with each their
+accompanying family members.  
 
-- The Cornwall ARES group’s EC Earle – VE3IMP continues to provide short ARES updates to the Seaway Valley Amateur Radio Club (SVARC) Inc. members at each of the club’s monthly meetings.  As the Club celebrated its 50th anniversary of existence on June 18, 2010, a Club-sponsored birthday party took place at Earle’s residence.  Party attendees were 9 SVARC members; John (VE3XAM), Ed (VE3FHI), Renney (VE3AAJ), Patricia (VA3PUR), Jim (VE3AFV), Doug (VE3HTR), Bert (VA3TL), Joe (VE3ADB) and of course EC Earle (VE3IMP) along with each their accompanying family members.  
-- The last SVARC (ARES) meeting was June 30, 2010 and saw Doug - VE3HTR put on an interesting workshop in which Anderson Power Poles were installed on the power cords of several members’ equipment.  This workshop greatly increased the level of awareness of this ARES standard with the ARES operators and other SVARC club members.
-- The EC participated in the City of Cornwall’s Emergency Table Top Exercise on 15 June, 2010 as follows: 
-A 2.4 Magnitude earthquake has been documented today 28km south of Cornwall, ON at 9:35AM. A fitting introduction to the tabletop exercise focusing on an earthquake striking Cornwall on Tuesday 15 June at 0900hrs.
-- Everyone in the Cornwall area experienced an actual earthquake on June 23, 2010 at 13:41:41 EDT that was felt in many parts of Ontario and Quebec and affected by an earthquake with a reading of 5.7 Mw at the epicenter at Latitude: 45.9 North and Longitude: 75.5 West or Buckingham Quebec.  The group’s EC called the City’s CEMC Bradley Nuttley to confirm there was no damage and to verify that ARES services were not required.  The EC was able to reach both AECs and the group’s Technical Adviser.  An internal debrief among the AECs and Technical Adviser at the subsequent June 29, 2010 review indicated that while the call was adequate, one AEC was not aware that an earthquake had occurred.  I should have made this clearer in the call out.
-- The Cornwall ARES groups conducted a review of the earthquake of June 29 2010.  Both AECs – Jim (VE3AFV) and Joe (VE3ADB) along with the ARES technical Advisor Doug (VE3HTR) attended the group’s earthquake debriefing and resulted in recommending activation of the City’s Call out line.  The EC added measures with regard to ARES to officially list AECs - Jim (VE3AFV) and Joe (VE3ADB) in the latest update to the City of Cornwall’s Emergency Plan ARES contact list.
+- The last SVARC (ARES) meeting was June 30, 2010 and saw Doug - VE3HTR put on
+  an interesting workshop in which Anderson Power Poles were installed on the
+power cords of several members’ equipment.  This workshop greatly increased the
+level of awareness of this ARES standard with the ARES operators and other
+SVARC club members.
+
+- The EC participated in the City of Cornwall’s Emergency Table Top Exercise on
+  15 June, 2010 as follows: A 2.4 Magnitude earthquake has been documented
+today 28km south of Cornwall, ON at 9:35AM. A fitting introduction to the
+tabletop exercise focusing on an earthquake striking Cornwall on Tuesday 15
+June at 0900hrs.
+
+- Everyone in the Cornwall area experienced an actual earthquake on June 23,
+  2010 at 13:41:41 EDT that was felt in many parts of Ontario and Quebec and
+affected by an earthquake with a reading of 5.7 Mw at the epicenter at
+Latitude: 45.9 North and Longitude: 75.5 West or Buckingham Quebec.  The
+group’s EC called the City’s CEMC Bradley Nuttley to confirm there was no
+damage and to verify that ARES services were not required.  The EC was able to
+reach both AECs and the group’s Technical Adviser.  An internal debrief among
+the AECs and Technical Adviser at the subsequent June 29, 2010 review indicated
+that while the call was adequate, one AEC was not aware that an earthquake had
+occurred.  I should have made this clearer in the call out.
+
+- The Cornwall ARES groups conducted a review of the earthquake of June 29
+  2010.  Both AECs – Jim (VE3AFV) and Joe (VE3ADB) along with the ARES
+technical Advisor Doug (VE3HTR) attended the group’s earthquake debriefing and
+resulted in recommending activation of the City’s Call out line.  The EC added
+measures with regard to ARES to officially list AECs - Jim (VE3AFV) and Joe
+(VE3ADB) in the latest update to the City of Cornwall’s Emergency Plan ARES
+contact list.
 
 Number of Registered Stations: 10
 Number of Net Sessions, Drills or Tests This Month: 5
-
-
-
-
-
-
-
-
