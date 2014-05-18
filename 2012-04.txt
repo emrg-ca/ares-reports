@@ -1,0 +1,309 @@
+﻿~ April 2012 - [Eastern Ontario] SEAWAY & CAPITAL ARES Districts ~
+
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of Prescott-Russell & of
+Stormont, Dundas & Glengarry, Cities of Ottawa & of Cornwall
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As this is a very active and busy month, there are 7 reports in all from the 2
+Districts.
+
+- The Prescott-Russell ARES group has been active on the usual Tuesday night
+  nets alternating between the VA3PRA (Alfred Ontario) Repeater and VE3PRV
+Clarence-Rockland) Repeater.  An average of 8 members check in. Our OBS
+station, Ron VA3RRZ provides our group with the latest RAC bulletins. As well,
+we regularly meet every Thursday evening at the Chamberlain Centre in Rockland,
+courtesy of the City of Clarence Rockland. Discussions range from upcoming
+activities in support of the community, to ARES activities in support of other
+ARES Groups. This month our group utilized amateur radio communications to
+provide support to the City of Clarence Rockland for it’s Annual Ride with
+Rendall bicycle race. This is a grueling 85 KM race over multi-surface roads
+throughout the countryside. In the command post was our senior operator, Don
+VE3RM working Net Control with Deb VA3VEG as his logger. Her station logs will
+be used for years as excellent examples. Providing checkpoint security was Jim
+VE3KV, Chris VA3NKE, Ron VA3RRZ, Harry VA3ZAK and Henry VA3OV. Riding in the
+sweep vehicle was Wenda VA3WMT. In the lead vehicle providing APRS location
+data and continuous feed video was Jean & Jean VE3OKK & VE3ZJS. Coordinating
+the event was EC Lance VA3LP. Only one bike rider was seriously injured enough
+to be transported to a hospital. Everything went well and both the City and the
+race organizers expressed their gratitude for our support and are looking
+forward to the next race in August in Clarence. 
+
+- We had two representatives attend the Seaway-Capital District ARES Meeting in
+  Ottawa, ON. Jean VE3OKK and EC Lance VA3LP were both impressed with the
+exercise organized by the District ARES. This provided a much needed refresher
+on the process to ask for help from our mutual aid partners. It allowed each
+attendee to experience all of the steps in the District Mutual Aid Plan. Thanks
+to DEC Mike VE3IPC and AEC (Ottawa ARES) Mike VE3FFK for organizing this for
+the groups’ leadership teams.
+
+- The PR-ARES group is now developing its plans for the summer. Upcoming is, of
+  course Field Day. This year it will be held at Higginson’s Tower in Vankleek
+Hill, near Hawkesbury, ON. As well we are planning support activities for
+Canada Day festivities, Wendover Festival and Ottawa River Festival. All of
+these activities occur in communities along the Ottawa River. This year we hope
+to have the City of Clarence-Rockland have their annual table top exercise in
+conjunction with the ARES SET.
+
+- Due to the loss of individual RAC member insurance, the members of our group
+  have been very active in incorporating an amateur radio club here in
+Prescott- Russell. Ron VA3RRZ, Mark VE3TKN and Normand VA3NPL have been on the
+leadership team to incorporate the club. As of this writing we now have a new
+club in Eastern Ontario called the Prescott-Russell Amateur Radio Club. The
+Club is in the process of acquiring insurance for amateur radio activities for
+the Club and it’s members. They are presently seeking members. If you are in
+Eastern Ontario, you are encouraged to come out and join the club. All amateurs
+are encouraged to come out every Thursday evening to Chamberlain Centre in
+Rockland to meet and greet your fellow amateurs.
+
+======================================================================
+
+- The EMRG/Ottawa ARES group conducted its usual monthly test of their
+  repeaters in East, Central, West and South Ottawa, plus UHF in central Ottawa
+and VE2CRA, the club repeater of the Ottawa ARC. The voice repeater tests were
+headed by Dave, VE3KMV, with the participation of Bob VA3QV, Arthur VA3BIT, Ron
+VA3ACZ, Tracy VA3TXN, Mike VE3KOY, and John VA3JBS. The BBS and Winlink VHF
+gateways were also tested and found to be operational.
+
+- The group hosted the annual meeting of ARES ECs and AECs from around the
+  Eastern Ontario District. In addition to the usual sharing of information on
+what is happening in each group's area, a tabletop end to end mutual aid
+exercise was conducted. The date and venue for next year's meeting was also
+set, a record amount of lead time for the district. I expect the Eastern
+Ontario DEC will have more to say about the meeting in his report. In parallel
+with the talk in for the meeting, a zero notice exercise was held for
+EMRG/Ottawa ARES members. We will look at holding more of these in coming
+months.
+
+- Preparations were made for two public service events which happen in early
+  May, the Lanark Highlands Forest Rally on May 5, followed immediately by the
+CN Cycle tour on May 6. Preparing for two events that occur back to back is a
+challenge. The situation gets our Ottawa ARES participants to think about how
+to do a quick turnaround and changing of equipment. On one day they must be
+prepared for operation in a self contained, isolated rural environment and on
+the next, they are in the heart of "intermod alley" with serious restrictions
+on where they can place their vehicles, if any. Some also have to transition
+from operating in a fixed location out of their car to going bicycle mobile.
+Two very different sets of skills and equipment are needed.
+
+Mike VE3FFK Reporting in for Ottawa ARES group EC.
+
+======================================================================
+
+- Renfrew County West (RCW)-ARES group EC Bob VE3YX on the 28th attended the
+  Capital / Seaway ARES District meeting where an informative exercise of the
+DMAP District Mutual Aid Plan was held. The exercise provided a comprehensive
+run through of the process from initial alerting to on scene deployment. This
+exercise format will be used for an exercise of our own group.
+
+- From Fri. 27th through Sun. 29th, RCW-ARES shared a booth with the Renfrew
+  Co. ARC at the Petawawa Civic Centre for an Outdoor show. This was our first
+attempt at a show like this from the Civic Centre. We were led to believe that
+we would be able to put mag mount antennas on the steel roof of the building,
+but when we arrived to set up, the story had changed. We put a mag mount 5/8  2
+meter antenna on the roof of a porch over an emergency exit. The antenna was
+only a couple of feet from the steel East wall of the building, but it was
+useful for operating with the repeaters East of us. We put a mag mount 20 M
+Hamstick on a fence rail which should have provided a reasonable ground plane,
+but it didn't work at all. Toward the end of the show, we found that by
+disconnecting the coax shield at the mag mount, we could operate reasonably
+well on 40 M.  We have a permanent 2 M Ringo Ranger mounted on the building,
+but it was at the opposite corner from our booth and not at all accessible.
+
+On display we had brochures, magazines, QSL cards and a slide show of past ARES
+activities, but what seemed to get the most attention was Doug Wheelock's video
+of Ham Radio aboard the ISS which we had looping on a laptop.
+
+The turnout to the show was disappointing with only about 1800 people for the 3
+days, but we had 8 or 10 who showed an interest and may follow up.
+
+Manning the booth we had: Marilyn VE3ZYY, Yvonne VE3RYA, Lewis VE3QJ, Tony
+VA3HWH, Richard VA3BIX, Rob VA3AGN, Bernie VA3SUR and Bob VE3YX.
+
+And - yes it was VERY CCCCCCCold in the building!
+
+======================================================================
+
+The Renfrew County East (RCE)-ARES group was well represented by AEC Jim VA3JER
+who attended the ARES District Mutual Aid conference in Ottawa on April 28. The
+table-top exercise was informative and helpful with the forms and how to use
+them. As soon as the corrections and updates are made the DMAP manual and the
+exercise book and sent to the ECs in each area, we will be able to have an ARES
+meeting and bring the rest of our members up to date after.  We will set a date
+and practice the new system and will get out and set up some new municipal
+clients.   
+
+Other than that, nothing much to report this month except that a few of out
+town snow birds have returned from the south and it brings our working members
+up.
+
+Jim VA3JER reporting for the RCE-ARES group EC.
+
+======================================================================
+
+- The Lanark North Leeds (LNL-ARES group membership remains stable, the weekly
+  net continues, plans are afoot to participate in the Killty Run in Perth, the
+Ottawa Bicycle Club Annual Ottawa-Kingston Tour, Field Day, and weekly Saturday
+breakfasts in Perth. Other events will probably take place as well. 
+
+- Our call out procedure with Rideau Lakes Township has been updated, at their
+  request. Several new arrivals (Amateurs) are likely to join our ranks
+shortly. We have received a donation of several repeaters, and as time permits
+we will be upgrading several of our present sites. A 6kw generator belonging to
+LNL-ARES is being donated to the Almonte Group in order to provide standby
+power at their Union Hall D-Star repeater site.
+
+Norm VE3VY reporting for the LNL-ARES group EC.
+
+======================================================================
+
+- The SD&G (formally Cornwall) ARES group close association with the SVARC
+  continues.   The group’s last meeting took place on April 23, 2012 at the
+Cornwall Armoury.      
+
+- The Official ARES Bulletins continue to be read by the EC and Net Controllers
+  on Mondays at 7:00 PM local on the club’s local 2-Metre net on VE3SVC
+(147.180MHz.+).  
+
+- SD&G-ARES expansion from the former “City of Cornwall ARES” is taking place.
+  Following our local Skype meeting earlier in 2012 this announcement was well
+received at the April 2012 SVARC meeting. 
+
+- SD&G-ARES group plans to provide emergency radio communications services to
+  the Glengarry Memorial Hospital have begun.  Our group’s association with the
+Cornwall Community Hospital (McConnell Street Site – the former Hotel Dieu
+hospital) continues.  Thanks go to the 7 HAMs who participated in the Comms
+exercise with the Glengarry Memorial Hospital on April 27, 2012 in Alexandria
+Ontario.  During the exercise four methods were used to demonstrate possible
+radio communication methods between the hospital and Ottawa.
+
+- Following the above exercise the group’s EC Earle VE3IMP met with the CEMC
+  for Alexandria in the Township of North Glengarry and a liaison has begun.
+This opens additional opportunities for SD&G-ARES.
+
+- The group was well represented by AEC John VA3JO at the annual ARES District
+  mutual aid conference in Ottawa.
+
+======================================================================
+
+Eastern Ontario ARES District EC Mike - VE3IPC brief conference report
+
+- The Eastern Ontario ARES District [Mutual Aid] 2012 annual conference took
+  place on April 28 at the Ottawa City Hall building from 1000 to 1700 local
+time, thanks to the Ottawa (EMRG) ARES group. This year we held a table-top
+exercise as a follow-up to the April 2010 deployed exercise, testing all major
+aspects of the District Mutual Aid Program (DMAP) manual, and last year’s April
+2011 deployed exercise, testing in particular the staging area & briefing area
+of the DMAP that had challenges in 2010.  With lessons learned from both 2010
+and 2011 exercises, this one time table-top exercise was designed for all
+participants to experience all major aspects of the DMAP.  
+
+- This exercise provided ‘hands on’ experience through each of the SOPs built
+  into the DMAP manual, so that each ARES group leadership would have a better
+understanding and feel of the DMAP processes. Armed with this experience and
+with the training tools that we at the ARES District level will soon be able to
+provide them, each group leadership will then be able to train their group
+membership who will then be better able to make or respond to a mutual aid call
+for help.  It is worth mentioning here that a good portion of the DMAP manual
+can be used at the local level as part of the group’s ARES Operation Manual.
+
+- The main training tool will be what we call, ‘the DMAP playbook’ which we
+  needed to create in order to conduct the table-top exercise.  We have a few
+lessons learned from this exercise that will be reflected into the final
+version of the playbook.  Once the playbook is finalized we will release both,
+the DMAP manual version 3.0 and the DMAP playbook along with one audio file
+that was also used for the table-top exercise.
+
+- The DMAP manual is being tweaked as we speak and improved once again as we
+  labor to have a more professional manual that reads well and flows better
+from one section to the other.  There are also a few proposed changes to the
+DMAP process that will need approval from the majority of the ECs, so that
+these can be implemented.  These proposed changes came as a result of carefully
+reviewing the SOPs involved in last year’s deployed staging and briefing
+exercise and tested in this year’s table-top exercise.
+
+- We will soon be sending each EC their DMAP contact list to be reviewed and
+  updated. Once this has been completed by each EC, we will then send the
+combined DMAP revised 2012 contact list to each EC, so that they can send to
+each of their AECs and keep with their DMAP manual, just in case a call for
+help needs to occur.
+
+- Exercise organizers were; AEC Mike - VE3FFK and DEC Mike - VE3IPC.
+
+- Exercise participants were; Ottawa ARC Pres. & Deputy Director Glen MacDonald
+  - VE3XRA, PR-ARES EC Lance - VA3LP, PR-ARES AEC Jean – VE3OKK, Ottawa ARES EC
+    Richard – VE3UNW, Loyalist DEC Bill - VA3WOW, RCE-ARES AEC Jim – VE3JER,
+RCW-ARES EC Bob – VE3YX, SD&G (Cornwall) ARES AEC John – VA3JO, Quebec SEC &
+Deputy Director Normand – VE2NHK, and a New Ham & SEC helper Carole –VA2NDJ.
+
+- IMS presenter was; Peter – VE3BQP.
+
+- Our thanks go to the Ottawa [EMRG] ARES group leadership for hosting the
+  conference, and our many thanks go to the meeting facilitators who were;
+retired EC Ottawa [EMRG] ARES Peter – VE3BQP and Ottawa [EMRG] ARES AEC Harold
+– VE3UNK.  
+
+- At this year’s conference, DEC Mike VE3IPC has announced that ADEC Lance
+  VA3LP has accepted taking the position as the NEW DEC for Seaway and Capital
+ARES Districts (Eastern Ontario) as of September 1st 2012.  This came partly
+because of the personal need to move on after 8 years of being the DEC for
+Eastern Ontario ARES and for being available for the Section Manager’s position
+for when this becomes available for Ontario East Section.
+
+- Following this announcement, two (DEC-VE3IPC) Certificates of Merit we given;
+  one to ADEC Lance VA3LP for 8 years of loyal and very helpful dedication to
+the ARES District, and one to Mike VE3FFK as District Exercise Manager for 3
+years of hard work and dedication in preparations for and the conducting of
+three ARES District Mutual Aid exercises for 2010, 2011 and 2012.
+
+- The incoming replacement DEC, Lance – VA3LP who is currently the EC for
+  Prescott-Russell ARES, has announced that the next ARES District conference
+will be in Clarence – Rockland Ontario on April 27th 2013.  This certainly
+provides for a lot of lead time for the next annual conference preparations.
+
+- A more comprehensive report will be made available very shortly regarding
+  both the 2011 deployed exercise and additional info regarding the 2012
+table-top exercise.
+
+***************************************
+
+Very interesting report given by Loyalist DEC Bill - VA3WOW
+To the attendees at the ARES District conference on April 28 in Ottawa
+And has given me permission to share this with you all
+
+From: Bill (VA3WOW)
+Date: 22 February, 2012 10:22:11 EST
+Subject: [Phone Comms services were inoperable]
+
+Approaching noon on Thursday February 17, 2012  I received a phone call from
+the Emergency Planning Coordinator for Hastings County informing me that there
+was a situation in which phone and related communication services were
+inoperable north of Belleville in the County of Hastings. 
+
+I was advised that there was no fire service coverage for two isolated
+communities, one in the centre and one in the extreme north of Hastings County.
+We (ARES) were able to send an amateur radio operator to each of the two
+communities, as well as set up a 2 meter radio station at a fire hall in the
+centre of the county. We were able to establish radio communication with the
+two isolated communities, as well as my location in the City of Belleville
+through the radio station at the fire hall in Eldorado. I was able to pass
+information to and from the Hastings County emergency management team. In
+mid-afternoon our network was joined by amateur radio operators at the
+Belleville Red Cross building. 
+
+Later in the afternoon, amateur radio operators from Belleville and Marmora as
+well as the Tweed area were dispatched to establish that there was
+communication from the local nursing homes and retirement residences to
+emergency fire services.
+
+At 10:00 PM I received word from the emergency management coordinator for
+Hastings County that communication had been reestablished with the north and
+central areas of Hastings County. 
+
+At that time I informed the active amateur radio operators, as well as those
+who were standing by in the areas around the municipalities of Kingston and
+Perth, that they could stand down. 
+
+Matthew Dwight, VE3OCC, who had driven from Picton to Bolter a distance of 350
+kilometers was released from his operating position at that time.  He arrived
+back home in Picton after one o'clock a.m. 
