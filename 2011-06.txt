@@ -1,22 +1,81 @@
 ﻿~ June 2011 - [Eastern Ontario] SEAWAY~CAPITAL ARES Districts ~
-Counties of Renfrew, of Lanark, of Leeds-Grenville, 
-of Prescott-Russell & of Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
+
+Counties of Renfrew, of Lanark, of Leeds-Grenville, of Prescott-Russell & of
+Stormont-Dundas & Glengarry, Cities of Ottawa & of Cornwall
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- The Prescott-Russell (PR)-ARES group spent most of their time in June preparing for FD-2011 and Canada Day/Rockland Poker Run Extravaganza July 1, 2 and 3.  At the group’s regular meets on Thursday evening, the members experimented with various HF antenna types and mounting techniques. On FD weekend, several members went out on Friday afternoon to begin the set up. In spite of rain downpours and thunderstorms on Friday and Saturday, the members were successful in setting up and operating the group’s 2A ON station + GOTA station. The following members provided operator and support for PR-ARES FD-2011; Group interim EC Lance VA3LP, Field Day coordinator Ron VA3RRZ, Harry VA3ZAK, Mark VE3TKN, Deb VA3VEG, James VA3JRP, Joy VA3YOJ, Jean VE3OKK, Normand VA3NPL, Jim VA3KV, Don VE3RM, Chris VA3NKE, and Norm VA3NHK.  Non amateurs participants were; Jean Sarrazin – an Amateur Radio enthusiast (special thanks for providing media support), and Carole Hamel (with her son & his friend) - also now an Amateur Radio enthusiast because of this FD (special thanks for her providing sleeping quarters and great lunch foods).  
-- Its not every Field Day one has an ‘on site’ low powered COMMUNITY FM BROADCAST Station making regular announcements of the FD event with much details and interviewing on hand Radio Ops, all with HF SSB audio playing in the background.  Thanks go to Jean Sarrazin (future Ham) for using his broadcast experience and private FM station.  (Does that bring PR-ARES extra points, hi, hi)?
-- With all that said, this was the most challenging FD the PR-ARES group has ever experienced. There will be a very long list of lessons learned from FD-2011.   But then again, that is what exercises are all about. More on the results of FD-2011 plus the group’s role in helping Rockland Ontario’s Canada Day in the July report. 
-Thanks go to ALL participants and contributors for a very challenging but successful Field Day, one to remember.
+- The Prescott-Russell (PR)-ARES group spent most of their time in June
+  preparing for FD-2011 and Canada Day/Rockland Poker Run Extravaganza July 1,
+2 and 3.  At the group’s regular meets on Thursday evening, the members
+experimented with various HF antenna types and mounting techniques. On FD
+weekend, several members went out on Friday afternoon to begin the set up. In
+spite of rain downpours and thunderstorms on Friday and Saturday, the members
+were successful in setting up and operating the group’s 2A ON station + GOTA
+station. The following members provided operator and support for PR-ARES
+FD-2011; Group interim EC Lance VA3LP, Field Day coordinator Ron VA3RRZ, Harry
+VA3ZAK, Mark VE3TKN, Deb VA3VEG, James VA3JRP, Joy VA3YOJ, Jean VE3OKK, Normand
+VA3NPL, Jim VA3KV, Don VE3RM, Chris VA3NKE, and Norm VA3NHK.  Non amateurs
+participants were; Jean Sarrazin – an Amateur Radio enthusiast (special thanks
+for providing media support), and Carole Hamel (with her son & his friend) -
+also now an Amateur Radio enthusiast because of this FD (special thanks for her
+providing sleeping quarters and great lunch foods).  
+
+- Its not every Field Day one has an ‘on site’ low powered COMMUNITY FM
+  BROADCAST Station making regular announcements of the FD event with much
+details and interviewing on hand Radio Ops, all with HF SSB audio playing in
+the background.  Thanks go to Jean Sarrazin (future Ham) for using his
+broadcast experience and private FM station.  (Does that bring PR-ARES extra
+points, hi, hi)?
+
+- With all that said, this was the most challenging FD the PR-ARES group has
+  ever experienced. There will be a very long list of lessons learned from
+FD-2011.   But then again, that is what exercises are all about. More on the
+results of FD-2011 plus the group’s role in helping Rockland Ontario’s Canada
+Day in the July report. 
+
+Thanks go to ALL participants and contributors for a very challenging but
+successful Field Day, one to remember.
 
 Number of Net Sessions, Drills or Tests This Month: 5
 Number of Registered Stations: 24
 ========================================================================
 
-- The Ottawa ARES (EMRG) Group conducted their June Monthly test of all group repeaters with thanks going to participants; VE3KMV, VA3QV, VE3KOY, VE3HAB.
-- On June 18 a number of group members answered the call for volunteers and participated in the EMRG work session coordinated by Peter VE3BQP, that was conducted in the Ottawa ARES/EMRG group’s communications center located in the basement at the Ottawa Fire Dispatch Center. This work involved the moving of some equipment cabinets, removing a set of UHF cavities from a cabinet and install on the wall, make several sets of DC distribution cables for rack cabinets using #6 cables with #10 wires tapped off with C taps, and using the larger PP75 powerpole connectors.  These are used to connect to the large power supply/battery chargers in the bottom of the racks. Thanks go to all those who participated in this important work session.
-- On June 9&10 the Canadian Emergency Management College EOC and Incident Site Management courses required a few volunteering amateurs as radio ops for a two day in house ''Collegeville'' exercise.  Thanks got to; VE3XGP VE2BCW VA3ACZ with VE3FFK as the volunteers’ coordinator.
-- Members of the group participated on June 11&12 with the ‘Rideau Lakes Cycle Tour’ which runs from Ottawa to Kingston and back to Ottawa.  Groups involved were Ottawa, Lanark and Frontenac ARES which operated concurrently, with handoff as needed between regions.  Thanks go to the Radio Ops from Ottawa; VA3UNK VE3FFK VE3TLY VE3KL VE2AAY VA3SM VE3VIG VE3PTO VE3UNW VE3ZTU VE3ZZU VA3JO VE3KMV VE3SMF VE3LOI VA3DGN VA3VXN VE3EUS VE3XGP VE3HHP VA3JME VE3BIT VA3VKK VE3QV VE3XKF and VE3YSF.
-- Regarding June 25&26 Field Day: EMRG/Ottawa ARES does not set up and run a Field Day station of their own, since there are several clubs in the area that do.  We encourage our members to assist at the sites of one of the local clubs.  In doing so, our members bring their expertise to the local clubs, and bring back tips and ideas from multiple operating experiences. Some EMRG members tour field day sites of several clubs to learn lessons by comparing the different ways of doing things.
+- The Ottawa ARES (EMRG) Group conducted their June Monthly test of all group
+  repeaters with thanks going to participants; VE3KMV, VA3QV, VE3KOY, VE3HAB.
+
+- On June 18 a number of group members answered the call for volunteers and
+  participated in the EMRG work session coordinated by Peter VE3BQP, that was
+conducted in the Ottawa ARES/EMRG group’s communications center located in the
+basement at the Ottawa Fire Dispatch Center. This work involved the moving of
+some equipment cabinets, removing a set of UHF cavities from a cabinet and
+install on the wall, make several sets of DC distribution cables for rack
+cabinets using #6 cables with #10 wires tapped off with C taps, and using the
+larger PP75 powerpole connectors.  These are used to connect to the large power
+supply/battery chargers in the bottom of the racks. Thanks go to all those who
+participated in this important work session.
+
+- On June 9&10 the Canadian Emergency Management College EOC and Incident Site
+  Management courses required a few volunteering amateurs as radio ops for a
+two day in house ''Collegeville'' exercise.  Thanks got to; VE3XGP VE2BCW
+VA3ACZ with VE3FFK as the volunteers’ coordinator.
+
+- Members of the group participated on June 11&12 with the ‘Rideau Lakes Cycle
+  Tour’ which runs from Ottawa to Kingston and back to Ottawa.  Groups involved
+were Ottawa, Lanark and Frontenac ARES which operated concurrently, with
+handoff as needed between regions.  Thanks go to the Radio Ops from Ottawa;
+VA3UNK VE3FFK VE3TLY VE3KL VE2AAY VA3SM VE3VIG VE3PTO VE3UNW VE3ZTU VE3ZZU
+VA3JO VE3KMV VE3SMF VE3LOI VA3DGN VA3VXN VE3EUS VE3XGP VE3HHP VA3JME VE3BIT
+VA3VKK VE3QV VE3XKF and VE3YSF.
+
+- Regarding June 25&26 Field Day: EMRG/Ottawa ARES does not set up and run a
+  Field Day station of their own, since there are several clubs in the area
+that do.  We encourage our members to assist at the sites of one of the local
+clubs.  In doing so, our members bring their expertise to the local clubs, and
+bring back tips and ideas from multiple operating experiences. Some EMRG
+members tour field day sites of several clubs to learn lessons by comparing the
+different ways of doing things.
+
 - Barring a tsunami in Mud Lake, or an earthquake, there are no EMRG/Ottawa
 ARES activities planned for July.
 
@@ -24,19 +83,47 @@ Number of Registered Stations: 67
 Number of Net Sessions, Drills or Tests This Month: 5
 =========================================================================
 
-- The Lanark North Leeds ARES (LNL)-ARES group participated in the Annual Ottawa-Kingston Cycle Tour.  Stations were manned by amateurs from Ottawa ARES, Almonte, Lanark/North Leeds ARES and Frontenac ARES. The tour went off well with only few incidents.
-Details will follow in July’s report.
-- The LNL-ARES group participated in the 2011 Field Day as follows; Set-up, tear-down and/or Radio Ops. included.  Members were; EC VE3BSB; VE3PYG; VE3PUX; VE3OAR; VE3PMA; VE3CGV; VE3CGD and VA3KAI. Visitors were; VE3ZKF (Gary) and VA3ASZ (Anthony).
-- The LNL-ARES group ran their usual ''1A ON'' at 100W using deep cycle marine batteries for power.  Dave, VE3PYG had charged a small cell via solar power and we completed the requisite 5 contacts using this alternative power source.  Group EC Barrie, VE3BSB attempted satellite operations, but weak satellite output power and our smaller antennas did not make for any contacts.  ''Freebie'' 6M station was set-up, but had limited success as we had no dedicated antenna (i.e. 6M beam) to use.  ANTENNAS used were; club trap/fan dipole for 80-40-20-15M - extended to full bandwidth (80-thru-6M) via VA3KAI's LDG tuner, end-fed 20M sloping dipole, vehicle mounted 6M vertical (per VE3BSB mobile), and a tripod mounted 2M/440 mini-beams for satellite ops.  Also used was a portable tower/mast trailer 34' in height (per VA3KAI).
-Thanks go to all FD-2011 participants, and to contributors supplying the various needed equipment & accessories.
+- The Lanark North Leeds ARES (LNL)-ARES group participated in the Annual
+  Ottawa-Kingston Cycle Tour.  Stations were manned by amateurs from Ottawa
+ARES, Almonte, Lanark/North Leeds ARES and Frontenac ARES. The tour went off
+well with only few incidents.  Details will follow in July’s report.
+
+- The LNL-ARES group participated in the 2011 Field Day as follows; Set-up,
+  tear-down and/or Radio Ops. included.  Members were; EC VE3BSB; VE3PYG;
+VE3PUX; VE3OAR; VE3PMA; VE3CGV; VE3CGD and VA3KAI. Visitors were; VE3ZKF (Gary)
+and VA3ASZ (Anthony).
+
+- The LNL-ARES group ran their usual ''1A ON'' at 100W using deep cycle marine
+  batteries for power.  Dave, VE3PYG had charged a small cell via solar power
+and we completed the requisite 5 contacts using this alternative power source.
+Group EC Barrie, VE3BSB attempted satellite operations, but weak satellite
+output power and our smaller antennas did not make for any contacts.
+''Freebie'' 6M station was set-up, but had limited success as we had no
+dedicated antenna (i.e. 6M beam) to use.  ANTENNAS used were; club trap/fan
+dipole for 80-40-20-15M - extended to full bandwidth (80-thru-6M) via VA3KAI's
+LDG tuner, end-fed 20M sloping dipole, vehicle mounted 6M vertical (per VE3BSB
+mobile), and a tripod mounted 2M/440 mini-beams for satellite ops.  Also used
+was a portable tower/mast trailer 34' in height (per VA3KAI).
+
+Thanks go to all FD-2011 participants, and to contributors supplying the
+various needed equipment & accessories.
 
 Number of Registered Stations: 55
 Number of Net Sessions, Drills or Tests This Month: 5
 ======================================================================
 
-- The Renfrew County West (RCW)-ARES group had members of its group along with members of the of RCE-ARES groups attending the May 18th CANWARN session that was held in Pembroke.  Some of the members had attended a course 3 years ago.
-- The RCW-ARES group was happy to provide safety communications for Paddlequest again this year on June 25th.  With excellent weather, the 100 community event participants had no incidents.  AEC Dale, VA3DNA was the NC station, Fred, VA3FPB was the organizer, Mike, VE3ODJ was on the OPP boat and Don, VE3GDZ was on the Pembroke Fire Department boat.
-Since Paddlequest overlapped Field Day this year, it was decided to pass on Field Day.  Thanks go to all group members who were involved.
+- The Renfrew County West (RCW)-ARES group had members of its group along with
+  members of the of RCE-ARES groups attending the May 18th CANWARN session that
+was held in Pembroke.  Some of the members had attended a course 3 years ago.
+
+- The RCW-ARES group was happy to provide safety communications for Paddlequest
+  again this year on June 25th.  With excellent weather, the 100 community
+event participants had no incidents.  AEC Dale, VA3DNA was the NC station,
+Fred, VA3FPB was the organizer, Mike, VE3ODJ was on the OPP boat and Don,
+VE3GDZ was on the Pembroke Fire Department boat.
+
+Since Paddlequest overlapped Field Day this year, it was decided to pass on
+Field Day.  Thanks go to all group members who were involved.
 
 Number of Registered Stations: 20
 Number of Net Sessions, Drills or Tests This Month: 6
@@ -45,5 +132,3 @@ Number of Net Sessions, Drills or Tests This Month: 6
 District TOTAL
 Number of Registered Stations: 186
 Number of Net Sessions, Drills or Tests This Month: 21
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
