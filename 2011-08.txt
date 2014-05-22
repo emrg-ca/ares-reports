@@ -1,0 +1,27 @@
+Sent by: Mike Kelly   Callsign: VE3FFK
+       E-Mail: ve3ffk@rac.ca
+      AEC for EMRG/Ottawa ARES in the Capital ARES District
+Number of Registered Stations: 67
+Change Since Last Report: 0
+Local ARES Net Name: none
+Net Frequency: none MHz
+
+Section ARES Net Name: none
+Net Frequency: none MHz
+
+NTS Liaison Maintained With: none
+Packet Liaison Maintained With: NONE BBS
+
+Number of Net Sessions, Drills or Tests This Month: 1
+Number of Formal Traffic Messages Sent: 0
+Number of Formal Traffic Messages Received: 0
+
+Comments:
+ August 3 Repeater test of all EMRG/Ottawa ARES Repeaters
+plus winlink VHF node, VHF BBS and VE2CRA (Club owned repeater included
+in our emergency plans)
+Participants: VE3KMV, VA3ACZ,  VA3BIT, VA3YOW, VA3DGN, VE3KLJ. Packet
+node and Winlink tested by VE3FFK. All tested OK
+No other EMRG activity in August.
+
+Mike Kelly, VE3FFK reporting for VE3UNW, who is the Ottawa EC.

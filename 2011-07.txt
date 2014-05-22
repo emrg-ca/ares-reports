@@ -1,0 +1,71 @@
+~ July 2011 - [Eastern Ontario] SEAWAY~CAPITAL ARES Districts ~
+
+Counties of Renfrew, of Lanark, of Leeds-Grenville,
+
+of Prescott-Russell & of Stormont-Dundas & Glengarry, Cities of Ottawa
+& of Cornwall
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- The Ottawa-ARES group tested 6 Repeaters, which is of all EMRG/Ottawa ARES
+  Repeaters plus the Winlink VHF node, VHF BBS and VE2CRA (Club owned repeater
+included in our emergency plans).  Thanks go to the participants who were:
+VA3QV, VE3FFK, VA3BIT, VE3HAB, VE3KMV
+
+- No other group activity to report for July.
+
+Number of Registered Stations: 67
+
+Number of Net Sessions, Drills or Tests This Month: 4
+
+- The Lanark North Leeds (LNL)-ARES group consisting of 14 individual members
+  supported, on June 11th and 12th, the annual Rideau Lakes Cycle Tour (RLCT),
+which was organized by the Ottawa Bicycle Club.  The tour runs over 4 separate
+routes; however, only the main route from Ottawa to Kingston via the Perth and
+Westport areas is supported by amateur radio operators and support vehicles. On
+Saturday, the riders travel from Ottawa to Kingston, stay overnight; and, on
+Sunday, they return back. On both days, the amateur radio operators established
+a Net Control at Westport Hill and co-ordinated their efforts with other
+amateur radio groups in the Ottawa and Kingston areas to provide an end-to-end
+support network for over 2000 registered riders.  As the main body of riders
+passed through each of the 3 areas, Net Control responsibilities were handed
+off to the next group of operators.  As opposed to some previous years, the
+weather this year was excellent with only some occasional minor rain showers.
+This resulted in many fewer emergency dispatches, bike repairs on-route and SAG
+pick-ups of trailing or tired out riders.
+
+LNL-ARES Operators were: VA3KAI (Event Co-ord); VE3OJC; VE3BSB; VE3GXW; VE3BNZ;
+VE3VY; VA3GTY; VE3NTH; VE3PMA; VE3GPU; VE3LSW; VE3CGD; VE3WSY; and VE3UIX.
+
+Number of Registered Stations: 55
+
+Number of Net Sessions, Drills or Tests This Month: 4
+
+- The Renfrew County West (RCW)-ARES group have installed a packet/voice system
+  in the Red Cross building in Pembroke. The radio is an FT-1900 purchased by
+the Red Cross. The antenna is one that we have had on the roof of the building
+for many years. The TNC is a KAM V7.1 donated by RCW ARES. The interface box is
+homebrew and allows instant switching from packet to voice. The TNC is
+connected to an older computer belonging to the Red Cross which has Outpost
+installed.  Packet and voice comms have been tested through PTALEX/VA3RBW in
+Pt. Alexander, PEM/VE3NRR in Pembroke and FOY/VE3UCR in Foymount.  The TNC has
+100K of memory dedicated to the PBBS (VE3AGN-1) which can be used as a central
+BBS for Outpost for any Pembroke centered events. (Our normal Outpost central
+BBS is VA3RBW-1 in Pt. Alexander).
+
+- The power supply is a modified PC supply and is connected to a computer type
+  UPS. The building has a generator which starts automatically after 15 min. of
+power outage. The UPS will keep the radio and TNC powered up for some hours,
+but the computer has no backup power.
+
+- 2 members of the Red Cross are studying for their Ham License.
+
+Number of Registered Stations: 20
+Number of Net Sessions, Drills or Tests This Month: 5
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+District TOTAL
+
+Number of Registered Stations: 186
+
+Number of Net Sessions, Drills or Tests This Month: 13
