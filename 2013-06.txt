@@ -1,28 +1,117 @@
 ﻿Eastern Ontario ARES District
 Report June 2013
 
-The Eastern Ontario ARES District DEC Lance Peterson VA3LP, as well as being involved with field day with the Prescott-Russell ARES group, traveled up earlier in the month to Renfrew to attend the annual meeting of the Champlain Regional Repeater Association as they we renewing a commitment to support ARES throughout the valley as their repeater VE3STP has a very long range capability and is used by many ARES groups in the District. They also reinstated their packet digipeater to ensure coverage for the ARES Groups in support of the Red Cross in the valley back to their HQ in Ottawa. Their executive expressed their desire that all members of the Club should belong to ARES as this was the future for Amateur Radio. Lance provided information on who to contact depending on what area the club members resided and promised to provide support any way he could. Lance also indicated that he can provide ARES courses, as he has done in the past in Renfrew. 
+The Eastern Ontario ARES District DEC Lance Peterson VA3LP, as well as being
+involved with field day with the Prescott-Russell ARES group, traveled up
+earlier in the month to Renfrew to attend the annual meeting of the Champlain
+Regional Repeater Association as they we renewing a commitment to support ARES
+throughout the valley as their repeater VE3STP has a very long range capability
+and is used by many ARES groups in the District. They also reinstated their
+packet digipeater to ensure coverage for the ARES Groups in support of the Red
+Cross in the valley back to their HQ in Ottawa. Their executive expressed their
+desire that all members of the Club should belong to ARES as this was the
+future for Amateur Radio. Lance provided information on who to contact
+depending on what area the club members resided and promised to provide support
+any way he could. Lance also indicated that he can provide ARES courses, as he
+has done in the past in Renfrew. 
 
+The Lanark/North Leeds ARES Group participated as usual in the Ottawa-Kingston
+cycle tour June 8-9th. 15 amateurs took part. LNLARES also took part in the
+Perth Kilt Run on June 22nd. about 8 hams took part. Successful fund raising
+for improvements to VE3REX-7 the Westport digipeater/node occurred with
+organizations in Rideau Lakes Township and Westport.  Norm 
 
-The Lanark/North Leeds ARES Group participated as usual in the Ottawa-Kingston cycle tour June 8-9th. 15 amateurs took part. LNLARES also took part in the Perth Kilt Run on June 22nd. about 8 hams took part. Successful fund raising for improvements to VE3REX-7 the Westport digipeater/node occurred with organizations in Rideau Lakes Township and Westport. 
-Norm 
+The Ottawa ARES/EMRG Group monthly repeater test on June 5 went well, with
+Dave, VE3KMV conducting and Ron VA3ACZ, Mike VE3FFK, Arthur VA3BIT, Jamie
+VA3JME, Sandy VE3AAC, and Roger VE3NPO participating. The EMRG BBS and the
+Winlink node on 145.030 are both getting used most days and are both working
+well.
 
+Later in the month Peter, VE3BQP participated in an exercise conducted up the
+Ottawa Valley, by acting as the Ottawa end of a Red Cross link, to test
+connectivity. He is also working to kit up some of the gear into usable
+portable packet kits. June 22 and 23 saw much field day activity, with members
+participating at a number of club sites, as well as some solo operations.
 
-The Ottawa ARES/EMRG Group monthly repeater test on June 5 went well, with Dave, VE3KMV conducting and Ron VA3ACZ, Mike VE3FFK, Arthur VA3BIT, Jamie VA3JME, Sandy VE3AAC, and Roger VE3NPO participating. The EMRG BBS and the Winlink node on 145.030 are both getting used most days and are both working well.
-Later in the month Peter, VE3BQP participated in an exercise conducted up the Ottawa Valley, by
-acting as the Ottawa end of a Red Cross link, to test connectivity. He is also working to kit up some of the gear into usable portable packet kits. June 22 and 23 saw much field day activity, with members participating at a number of club sites, as well as some solo operations.
-There seems to be a growing interest in the revival of the VHF packet system in the area, but as a more controlled network than in the earlier "everybody always on and digipeating" era. In the near future there may be some training on how packet fits into the communications plan. This would be more from the point of view of "how do you operate" than "how do you hook it all up". We need operators who can use the gear, not necessarily people who know what parameters to load into a TNC.
+There seems to be a growing interest in the revival of the VHF packet system in
+the area, but as a more controlled network than in the earlier "everybody
+always on and digipeating" era. In the near future there may be some training
+on how packet fits into the communications plan. This would be more from the
+point of view of "how do you operate" than "how do you hook it all up". We need
+operators who can use the gear, not necessarily people who know what parameters
+to load into a TNC.
+
 73 Mike Kelly VE3FFK, Ottawa ARES AEC, reporting for
 Richard Hagemeyer, VE3UNW Ottawa ARES EC/ EMRG team leader.
 
+The Prescott-Russell ARES Group, along with the Prescott-Russell ARC Inc, spent
+most of the month planning field day. It was initially supposed to be at the
+Larose Forest control point, just south of Bourget Ontario. At the last minute,
+due to a requirement for liability insurance that could not be met on time, it
+was changed to the home of Don VE3RM. With only a week to prepare for the
+change in venue, the group came through and on Saturday, we were set up and
+running Field Day. One member, Harry, VA3ZAK designed and built a hinged plate
+and falling derrick system to raise a 56 foot tower. This was a thing of beauty
+that one person can put together, add antennas and raise up the tower. On this
+was the VHF 2M and 6M antennas. It worked very well. As well, Tulmar Safety
+Systems Inc. in Hawkesbury  loaned the group an inflatable shelter that kept
+the participants and equipment dry for the duration. Unfortunately we had some
+power problems on Sunday morning and had to cut our operations short at 10AM
+local. Like all exercises, this one provided the group with many learning
+opportunities and proved to ourselves that we are flexible and can adapt to
+changing requirements. Thanks to Don VE3RM for the use of his property for FD.
+Thanks to all who participated, Chris VA3NKE, Jean VA3CO, Norm VA3NPL, Joy
+VA3YOJ, Lance VA3LP and Wenda VE3WMT. Also, a special thanks to Louise Sproule
+who provided a wonderful supper for all on Saturday evening. And to Harry,
+VA3ZAK for the week he spent designing, building, painting and sweating over
+his creation. It is now time to start planning for FD in 2014.
 
-The Prescott-Russell ARES Group, along with the Prescott-Russell ARC Inc, spent most of the month planning field day. It was initially supposed to be at the Larose Forest control point, just south of Bourget Ontario. At the last minute, due to a requirement for liability insurance that could not be met on time, it was changed to the home of Don VE3RM. With only a week to prepare for the change in venue, the group came through and on Saturday, we were set up and running Field Day. One member, Harry, VA3ZAK designed and built a hinged plate and falling derrick system to raise a 56 foot tower. This was a thing of beauty that one person can put together, add antennas and raise up the tower. On this was the VHF 2M and 6M antennas. It worked very well. As well, Tulmar Safety Systems Inc. in Hawkesbury  loaned the group an inflatable shelter that kept the participants and equipment dry for the duration. Unfortunately we had some power problems on Sunday morning and had to cut our operations short at 10AM local. Like all exercises, this one provided the group with many learning opportunities and proved to ourselves that we are flexible and can adapt to changing requirements. Thanks to Don VE3RM for the use of his property for FD. Thanks to all who participated, Chris VA3NKE, Jean VA3CO, Norm VA3NPL, Joy VA3YOJ, Lance VA3LP and Wenda VE3WMT. Also, a special thanks to Louise Sproule who provided a wonderful supper for all on Saturday evening. And to Harry, VA3ZAK for the week he spent designing, building, painting and sweating over his creation. It is now time to start planning for FD in 2014.
+The Renfrew County West ARES Group participated in a County wide exercise
+called "Burning Bridges" on June 19th and 20th. The scenario involved a forest
+fire occurring on a very hot dry day with resulting power outages, auto
+accident and evacuations. Some municipalities declined to participate as they
+had recently had exercises. At 2100 on June 19th Group Coordinator (GC) Bob
+VE3YX received a call from the Petawawa CEMC requesting ARES set up in the
+Petawawa MOC and provide communications with Red Cross in Pembroke and
+Laurentian Hills EOC (where we have HF Winlink capability). George VE3GPD and
+Bob VE3YX set up a voice and packet station at the EOC. John VA3IOI and Rob
+VA3AGN operated at the Red Cross in Pembroke while Yvonne VE3RYA acted as
+Laurentian Hills EOC from the home station. (Laurentian Hills was one of the
+municipalities not participating.) Peter VE3BQP operated from his home station
+in Ottawa with telephone contact to Red Cross Ottawa. Most traffic was passed
+using packet with Outpost, while we kept in voice contact using the 2M repeater
+network. The link timeout timer on VA3RBW was disabled to allow a continuous
+link between VA3RBW in Pt. Alexander and VE3NRR in Pembroke. This allowed hand
+held communications from Deep River to Pembroke and Petawawa. We were stood
+down at 2230. After the exercise, the Petawawa MCG (Municipal Control Group)
+assembled in the radio room / CEMC's office to observe the radio operations. We
+have yet to install a permanent antenna at this EOC, and this exercise will
+probably help to "grease the wheels" to get it done.
 
+The next morning at 0900, GC Bob VE3YX received a call from the Laurentian
+Valley CEMC requesting ARES to set up in their EOC. (Laurentian Hills and
+Laurentian Valley are different municipalities!!). Richard VA3BIX and Bob VE3YX
+arrived at the EOC (South of Pembroke) at about 1000. An outside antenna was
+required here, so an Arrow type J was put on a mast outside the radio room /
+mayor's office, and the station was on the air by 1015. Meanwhile, Deep River
+was having an EOC set up exercise and Yvonne VE3RYA set up in the radio room /
+meeting room where we have a connection to a permanent antenna on the roof. She
+used the outside antenna for packet and a hand held through VA3RBW for voice.
+Again, VA3RBW and VE3NRR were linked with the timeout disabled. Meanwhile, John
+VA3IOI and Rob VA3AGN were again at the Red Cross in Pembroke and Peter VE3BQP
+was at home in contact with Red Cross in Ottawa. Again, messages were passed by
+packet using Outpost with only a minor glitch involving a temporary problem
+with a packet node between Pembroke and Ottawa. We were stood down at about
+noon and Bob VE3YX was invited to do an ARES Power Point presentation for the
+Laurentian Valley MCG. After the presentation, the MCG members viewed the radio
+operations in the radio room. As in Petawawa, a permanent antenna should soon
+be in the works.
 
-The Renfrew County West ARES Group participated in a County wide exercise called "Burning Bridges" on June 19th and 20th. The scenario involved a forest fire occurring on a very hot dry day with resulting power outages, auto accident and evacuations. Some municipalities declined to participate as they had recently had exercises. At 2100 on June 19th Group Coordinator (GC) Bob VE3YX received a call from the Petawawa CEMC requesting ARES set up in the Petawawa MOC and provide communications with Red Cross in Pembroke and Laurentian Hills EOC (where we have HF Winlink capability). George VE3GPD and Bob VE3YX set up a voice and packet station at the EOC. John VA3IOI and Rob VA3AGN operated at the Red Cross in Pembroke while Yvonne VE3RYA acted as Laurentian Hills EOC from the home station. (Laurentian Hills was one of the municipalities not participating.) Peter VE3BQP operated from his home station in Ottawa with telephone contact to Red Cross Ottawa. Most traffic was passed using packet with Outpost, while we kept in voice contact using the 2M repeater network. The link timeout timer on VA3RBW was disabled to allow a continuous link between VA3RBW in Pt. Alexander and VE3NRR in Pembroke. This allowed hand held communications from Deep River to Pembroke and Petawawa. We were stood down at 2230. After the exercise, the Petawawa MCG (Municipal Control Group) assembled in the radio room / CEMC's office to observe the radio operations. We have yet to install a permanent antenna at this EOC, and this exercise will probably help to "grease the wheels" to get it done.
-The next morning at 0900, GC Bob VE3YX received a call from the Laurentian Valley CEMC requesting ARES to set up in their EOC. (Laurentian Hills and Laurentian Valley are different municipalities!!). Richard VA3BIX and Bob VE3YX arrived at the EOC (South of Pembroke) at about 1000. An outside antenna was required here, so an Arrow type J was put on a mast outside the radio room / mayor's office, and the station was on the air by 1015. Meanwhile, Deep River was having an EOC set up exercise and Yvonne VE3RYA set up in the radio room / meeting room where we have a connection to a permanent antenna on the roof. She used the outside antenna for packet and a hand held through VA3RBW for voice. Again, VA3RBW and VE3NRR were linked with the timeout disabled. Meanwhile, John VA3IOI and Rob VA3AGN were again at the Red Cross in Pembroke and Peter VE3BQP was at home in contact with Red Cross in Ottawa. Again, messages were passed by packet using Outpost with only a minor glitch involving a temporary problem with a packet node between Pembroke and Ottawa. We were stood down at about noon and Bob VE3YX was invited to do an ARES Power Point presentation for the Laurentian Valley MCG. After the presentation, the MCG members viewed the radio operations in the radio room. As in Petawawa, a permanent antenna should soon be in the works.
-When asked if we should set up at the County building, we were informed by the County CEMC that "that part of the plan was not going to be exercised".
-On June 22nd and 23rd, the RCW-ARES group along with the Renfrew County Amateur Radio Club set up a Field Day station in Riverside Park, Pembroke. As in recent years, it was a great social event, but not a huge number of contacts were made. It rained during the set up, but the thunderstorms held off until after we had taken down on Sunday afternoon.
+When asked if we should set up at the County building, we were informed by the
+County CEMC that "that part of the plan was not going to be exercised".
 
-
-
+On June 22nd and 23rd, the RCW-ARES group along with the Renfrew County Amateur
+Radio Club set up a Field Day station in Riverside Park, Pembroke. As in recent
+years, it was a great social event, but not a huge number of contacts were
+made. It rained during the set up, but the thunderstorms held off until after
+we had taken down on Sunday afternoon.

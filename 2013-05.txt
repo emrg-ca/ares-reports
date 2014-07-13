@@ -1,0 +1,42 @@
+This month had many more marks on the calendar than the previous one.  In
+addition to the usual monthly test of our repeaters, our members assisted with
+safety communications at the Lanark Highlands forest rally, and the CN Cycle
+for CHEO, and the ARES District meeting.
+
+The repeater test was conducted on May 1 by Dave VE3KMC, and Ron VA3ACZ. The
+voice repeaters, two BBS systems and the Winlink node were all found to be
+operating normally. Peter VE3BQP has put in yet more work to ensure the BBS
+systems are in good shape, with more to come.
+
+Three days later, the Lanark Highlands Forest Rally was assisted by 33 hams, of
+which the following are EMRG members: Tyler VA3DGN, Harold VA3UNK, Margaret
+VA3VXN, Mike VE3FFK, Heidi VE3HHP, Rick VE3IHI, Gord VE3XGP and Alan VE3ZTU.
+
+The day after that, Sunday May 5, Ron VA3ACZ, Arthur VA3BIT, Tyler VA3DGN,
+Jamie VA3JME, Harold VA3UNK, Christine VA3VAK, Margaret VA3VXN, Paul VE3CPH,
+Mike VE3FFK, Dave VE3KMV, Heidi VE3HHP, Stuart VE3SMF, Richard VE3UNW, VE3XGP
+Gord, Glenn VE3XRA, Alan VE3ZTU (and perhaps others I've missed) assisted with
+safety and other communications for the CN Cycle for CHEO (Children's Hospital
+for Eastern Ontario). As mentioned last month, a part of our participation
+consisted of providing our knowledge built up over past years to a new group of
+organizers. Once again, having APRS on bicycle mobile stations was especially
+helpful. Also once again, having two different events on consecutive days was a
+challenge.
+
+Finally, Tim VA3PYC, Harold VA3UNK, Peter VE3BQP, Mike VE3FFK, Dave VE3KMV,
+Mike VE3KOY and Richard VE3UNW participated in the ARES district meeting May
+25. Much of the meeting was spent on familiarization with the Outpost software,
+which was widely recognized as the software to use for BBS operation. It seems
+different groups use the software in slightly different ways, but all saw the
+merit in bringing members "up to speed" on Outpost for both interoperability
+and mutual aid exchanges. Some work was done to ensure that each group knows
+how to contact their neighbours via packet. The mutual aid plan was finalized
+(to the extent that any emergency plan can be).
+
+Coming up in June is the Rideau Lakes Cycle Tour, which involves three ARES
+groups over two days between Ottawa and Kingston. Although EMRG/Ottawa ARES
+does not run a field day operation of its own, members are encouraged to visit
+the sites of the various clubs to both learn and lend their expertise.
+
+73 Mike Kelly VE3FFK, Ottawa ARES AEC, reporting for
+Richard Hagemeyer, VE3UNW Ottawa ARES EC/ EMRG team leader.

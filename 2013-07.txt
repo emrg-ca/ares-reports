@@ -1,56 +1,80 @@
 Eastern Ontario ARES District
 Report July 2013
-The Eastern Ontario ARES District had a slow month in July this year. Most amateurs are involved in
-summer activities not related to ARES. But I do know that many groups are gearing up to prepare for
-the coming fall activities including SET in October. The DEC for Eastern Ontario is preparing to give
-an ARES course in September in Renfrew to help a group of amateurs become more active in ARES.
 
-For the Ottawa ARES/EMRG Group July was another month of infrastructure work at EMRG /
-Ottawa ARES.
-There was the usual repeater test session on July 3, conducted by Dave VE3KMV, and assisted by Ron
-VA3ACZ, Tim VA3PYC and Mike VE3FFK. Repeater VE2CRA seemed to be having problems this
-month, but the digital systems were up and running.
-On July 20 there was a work session at the communications centre, where items were sorted in to
-"Keep, Sell or Scrap" categories, and much space once more made usable. Clayton VA3CBJ, Harold
-VA3UNK, Rick, VE3IHI, Stuart VE3SMF, Richard VE3UNW, and Gord VE3XGP were led by Peter
-VE3BQP on this project. Future work sessions will focus on completing the infrastructure wiring and
+The Eastern Ontario ARES District had a slow month in July this year. Most
+amateurs are involved in summer activities not related to ARES. But I do know
+that many groups are gearing up to prepare for the coming fall activities
+including SET in October. The DEC for Eastern Ontario is preparing to give an
+ARES course in September in Renfrew to help a group of amateurs become more
+active in ARES.
+
+For the Ottawa ARES/EMRG Group July was another month of infrastructure work at
+EMRG / Ottawa ARES.
+
+There was the usual repeater test session on July 3, conducted by Dave VE3KMV,
+and assisted by Ron VA3ACZ, Tim VA3PYC and Mike VE3FFK. Repeater VE2CRA seemed
+to be having problems this month, but the digital systems were up and running.
+
+On July 20 there was a work session at the communications centre, where items
+were sorted in to "Keep, Sell or Scrap" categories, and much space once more
+made usable. Clayton VA3CBJ, Harold VA3UNK, Rick, VE3IHI, Stuart VE3SMF,
+Richard VE3UNW, and Gord VE3XGP were led by Peter VE3BQP on this project.
+Future work sessions will focus on completing the infrastructure wiring and
 building up the fixed site and portable kits. Some of this includes;
-* Finalizing the wiring of the two 30 Amp power supply/battery chargers that are now in the
+
+* Finalizing the wiring of the two 30 Amp power supply/battery chargers that
+* are now in the
 repeater rack, as well as the two 15 Amp ones in the communications room.
-* Setting up and networking the are computers, including a desktop and laptop with radio
+
+* Setting up and networking the are computers, including a desktop and laptop
+* with radio
 programming software installed.
-* Building up and installing in cabinets the shelves and radio systems for the City EOC, Fire
+
+* Building up and installing in cabinets the shelves and radio systems for the
+* City EOC, Fire
 dispatch, backup dispatch and Fire HQ.
-* Wiring and programming VHF and UHF radios for voice and packet, so they are ready for
+
+* Wiring and programming VHF and UHF radios for voice and packet, so they are
+* ready for
 deployment.
-On July 23 VE3BQP Peter, and VE3FFK Mike did some re-routing of the coax between the antennas
-and the radios at the Ottawa office of the Red Cross, to accommodate changes in the locations of
-emergency operations within the building. This had the happy result of shortening the lentghs of these
-coax runs. At the same time, SWR sweeps of the antennas were also done and proved satisfactory.
+
+On July 23 VE3BQP Peter, and VE3FFK Mike did some re-routing of the coax
+between the antennas and the radios at the Ottawa office of the Red Cross, to
+accommodate changes in the locations of emergency operations within the
+building. This had the happy result of shortening the lentghs of these coax
+runs. At the same time, SWR sweeps of the antennas were also done and proved
+satisfactory.
+
 73 Mike Kelly VE3FFK, Ottawa ARES AEC, reporting for
 Richard Hagemeyer, VE3UNW Ottawa ARES EC/ EMRG team leader.
 
-The Prescott-Russell ARES Group was busy in July supporting two local communities with
-activities. On July 1st, the group provided security at the Clarence-Rockland Fireworks. In attendance
-were Jim VA3KV, Harry VA3ZAK (also operating HF on Canada Day), Lance VA3LP, Chris VA3NKE,
-Ray-Allen VA3ONN and his wife Suzanne, Ron VA3RRZ, Mike VE3IPC, George VA3SUS and his
-friend Patrick. In mid July a few of the members volunteered to provide support to the Wendover
-Western Festival. This is an opportunity to bring in some funds for the group. In support of this was
-Chris VA3NKE, Lance VA3LP, Harry VA3ZAK, Ray-Allen VA3ONN and his wife Suzanne and
-George VA3SUS and his friend Patrick.
-There was the usual Tuesday evening ARES Nets but the turnout was low as most folks are away for
-the summer. There were no official meetings for the summer.
+The Prescott-Russell ARES Group was busy in July supporting two local
+communities with activities. On July 1st, the group provided security at the
+Clarence-Rockland Fireworks. In attendance were Jim VA3KV, Harry VA3ZAK (also
+operating HF on Canada Day), Lance VA3LP, Chris VA3NKE, Ray-Allen VA3ONN and
+his wife Suzanne, Ron VA3RRZ, Mike VE3IPC, George VA3SUS and his friend
+Patrick. In mid July a few of the members volunteered to provide support to the
+Wendover Western Festival. This is an opportunity to bring in some funds for
+the group. In support of this was Chris VA3NKE, Lance VA3LP, Harry VA3ZAK,
+Ray-Allen VA3ONN and his wife Suzanne and George VA3SUS and his friend Patrick.
 
-The Stormont Dundas and Glengary ARES Group Close association with the Seaway Valley
-Amateur Radio Club (SVARC) Inc. continues. The club has taken a "holiday" for July and August.
-During our last meeting held on June 26, 2013 updates on ARES activities were provided to the
-membership.
-The RAC Official ARES Bulletins continue to be read each Monday, at 7:00 PM local, on the club’s 2Metre net conducted on VE3SVC (147.180MHz.+). HAMs are also asked to check in on the
-VE3MTA (UHF) repeater. This process confirms the serviceability of our repeater systems at least
-once a week should they be required by ARES.
-Our expansion to “SD&G ARES” from the former “City of Cornwall ARES” continues. An ARES
-presentation was made at the North Stormont's annual emergency management training and exercise
-on June 19th at North Stormont Place, Avonmore.
+There was the usual Tuesday evening ARES Nets but the turnout was low as most
+folks are away for the summer. There were no official meetings for the summer.
+
+The Stormont Dundas and Glengary ARES Group Close association with the Seaway
+Valley Amateur Radio Club (SVARC) Inc. continues. The club has taken a
+"holiday" for July and August.  During our last meeting held on June 26, 2013
+updates on ARES activities were provided to the membership.
+
+The RAC Official ARES Bulletins continue to be read each Monday, at 7:00 PM
+local, on the club’s 2Metre net conducted on VE3SVC (147.180MHz.+). HAMs are
+also asked to check in on the VE3MTA (UHF) repeater. This process confirms the
+serviceability of our repeater systems at least once a week should they be
+required by ARES.
+
+Our expansion to “SD&G ARES” from the former “City of Cornwall ARES” continues.
+An ARES presentation was made at the North Stormont's annual emergency
+management training and exercise on June 19th at North Stormont Place,
+Avonmore.
+
 Earle DePass, (VE3IMP) Emergency Coordinator (EC), SD&G ARES
-
-
