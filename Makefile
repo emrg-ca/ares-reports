@@ -1,19 +1,19 @@
 SHELL := /bin/bash
 
-.PHONY : all
-all :
+.PHONY: all
+all:
 
-%.txt : %.pdf
+%.txt: %.pdf
 	@pdftotext $^
 
-%.txt : %.odt
+%.txt: %.odt
 	@libreoffice --headless --convert-to txt:Text $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
 
-%.txt : %.docx
+%.txt: %.docx
 	@libreoffice --headless --convert-to txt:Text $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
 
-%.txt : %.doc
+%.txt: %.doc
 	@libreoffice --headless --convert-to txt:Text $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
